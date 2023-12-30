@@ -1,3 +1,4 @@
+from collections import defaultdict
 import random
 import datetime
 
@@ -36,8 +37,23 @@ def randomCustomer():
         customers.sort(key=lambda x: x.arriving_time)
         return customers
 
+def separate_customers_by_type(customers):
+    customer_types = defaultdict(list)
+
+    for customer in customers:
+        customer_types[customer.customer_type].append(customer)
+
+    return customer_types
+
+
+
 random_customers = randomCustomer()
 
-for customer in random_customers:
-    print("-------------")
-    customer.display_info()
+separated_customers = separate_customers_by_type(random_customers)
+
+for customer_type, customer_list in separated_customers.items():
+    print(f"{customer_type} Customers:")
+    for customer in customer_list:
+        print(f"Name: {customer.name}, Type: {customer.customer_type}")
+    print("------------")
+
