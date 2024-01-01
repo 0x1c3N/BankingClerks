@@ -34,8 +34,8 @@ def randomCustomer():
         customer.arriving_time = arriving_time
         customers.append(customer)
         # Sorting custumers 
-        customers.sort(key=lambda x: x.arriving_time)
-        return customers
+    customers.sort(key=lambda x: x.arriving_time)
+    return customers
 
 def separate_customers_by_type(customers):
     customer_types = defaultdict(list)
@@ -45,20 +45,25 @@ def separate_customers_by_type(customers):
 
     return customer_types
 
-def min_clerks_for_customer_type(customers, clerk_count, wait_time=0):
-    if not customers:  # Eğer müşteri kalmadıysa mevcut beklem süresine göre clerk sayısını döndür
+def min_clerks_for_customer_type(customers, clerk_count, wait_time=0, memo={}):
+    if not customers:  
         return clerk_count
 
-    current_customer = customers[0]  # Kuyruktaki ilk müşteri
-    remaining_customers = customers[1:]  # İlk müşteriyi kuyruktan çıkar
+    key = (len(customers), clerk_count, wait_time)
+    if key in memo:
+        return memo[key]
 
-    # Eğer mevcut müşterinin beklemesi gereken süre 1 saati aşıyorsa yeni bir clerk oluştur ve recursive olarak devam et
+    current_customer = customers[0]  
+    remaining_customers = customers[1:]
+
     if wait_time > 60:
-        return min_clerks_for_customer_type(list(customers), clerk_count + 1, 0)
+        memo[key] = min_clerks_for_customer_type(list(customers), clerk_count + 1, 0, memo)
+        return memo[key]
 
-    # Müşterinin bekleme süresini ve kalan müşterileri güncelle
     next_wait_time = wait_time + current_customer.process_time
-    return min_clerks_for_customer_type(remaining_customers, clerk_count, next_wait_time)
+    memo[key] = min_clerks_for_customer_type(remaining_customers, clerk_count, next_wait_time, memo)
+    return memo[key]
+
 
 random_customers = randomCustomer()
 
