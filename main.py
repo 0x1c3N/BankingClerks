@@ -124,8 +124,15 @@ def min_clerk_algo(customers, customer_type):
                         if _clerk.currentCostumer.waitTime > _clerk.currentCostumer.maxWaitTime:
                             timeFlag = True
             if time == totalTime:
-                clerkFlag = True
-                break
+                allCustomerFlag = True
+                for customer in customers:
+                    if customer.isDone == False:
+                        allCustomerFlag = False;
+                if allCustomerFlag:
+                    clerkFlag = True
+                    break
+                else:
+                    timeFlag = True
 
     return (allClerks[clerksIndex])
 
