@@ -1,12 +1,14 @@
 from collections import defaultdict
 import random
 import datetime
+import os
 
 maxWaitTimes = [45, 30, 45] #Default max waiting times for casual, commercial, loan
 shiftTime = ""
 firstShift = "09:00"
 secondShift = "12:00"
 thirdShift = "15:00"
+outputFileName = "output.txt"
 
 class Customer:
     def __init__(self, name, customer_type):
@@ -30,16 +32,17 @@ class Customer:
         self.waitTime = -1
 
     def display(self):
-        print(f"Customer Name: {self.name}")
         formatted_arriving_time = datetime.datetime.strptime(shiftTime, '%H:%M') + datetime.timedelta(minutes=self.arriving_time)
         formatted_service_time = datetime.datetime.strptime(shiftTime, '%H:%M') + datetime.timedelta(minutes=self.serviceTime)
         formatted_arriving_time = formatted_arriving_time.strftime('%H:%M')  # Format time as hh:mm
         formatted_service_time = formatted_service_time.strftime('%H:%M')  # Format time as hh:mm
-        print(f"Customer Arriving Time: {formatted_arriving_time}")
-        print(f"Customer Service Time: {formatted_service_time}")
-        print(f"Customer Wait Time: {self.waitTime}")
-        print(f"Customer Process Time: {self.process_time}")
-        print(f"Served Clercks: {self.clerkIndex}\n\n")
+        with open(outputFileName, "a") as outputFile:
+            print(f"Customer Name: {self.name}", file=outputFile)
+            print(f"Customer Arriving Time: {formatted_arriving_time}", file=outputFile)
+            print(f"Customer Service Time: {formatted_service_time}", file=outputFile)
+            print(f"Customer Wait Time: {self.waitTime}", file=outputFile)
+            print(f"Customer Process Time: {self.process_time}", file=outputFile)
+            print(f"Served Clercks: {self.clerkIndex}\n\n", file=outputFile)
 
 class Clerk:
     def __init__(self,index):
@@ -156,6 +159,7 @@ def main(i):
     random_customers = randomCustomer()
     separated_customers = separate_customers_by_type(random_customers)
 
+    print(f"---------------------------- SHIFT {i+1} ----------------------------")
     for customer_type, customer_list in separated_customers.items():
         clercks =  min_clerk_algo(list(customer_list), customer_type)
         print( f"Customer Count:{len(customer_list)}", f"\nClerk Count:{len(clercks)}", f"\nType:{customer_type} \n\n")
@@ -163,5 +167,10 @@ def main(i):
 
 if __name__ == "__main__":
 
+    if os.path.exists(outputFileName):
+        os.remove(outputFileName)
+
     for i in range(0,3):
         main(i)
+
+    print("[+] All details about Customers logged to output.txt file")
