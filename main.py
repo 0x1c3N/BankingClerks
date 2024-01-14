@@ -2,7 +2,7 @@ from collections import defaultdict
 import random
 import datetime
 
-maxWaitTimes = [60, 45, 60] #Default max waiting times for casual, commercial, loan
+maxWaitTimes = [45, 30, 45] #Default max waiting times for casual, commercial, loan
 shiftTime = ""
 firstShift = "09:00"
 secondShift = "12:00"
@@ -162,22 +162,6 @@ def main(i):
         printCustomers(customer_list)
 
 if __name__ == "__main__":
-
-    # waitTimeChoice = input("Dou you want to set custom waiting times for Customer types? (Y,N) = ")
-
-    # if (waitTimeChoice.upper() == "Y"):
-    #     maxWaitTimeCasual = int(input("What do you want to set max wait time for Casual customer type: "))
-    #     maxWaitTimeCommercial = int(input("What do you want to set max wait time for Commercial customer type: "))
-    #     maxWaitTimeLoan = int(input("What do you want to set max wait time for Loan customer type: "))
-
-    #     maxWaitTimes[0] = maxWaitTimeCasual
-    #     maxWaitTimes[1] = maxWaitTimeCommercial
-    #     maxWaitTimes[2] = maxWaitTimeLoan
-
-    # else:
-    #     if (waitTimeChoice.upper() != "N"):
-    #         print("Wrong input!!, you should give only 'Y','y' or 'N','n'")
-    #         exit(0)
 
     for i in range(0,3):
         main(i)
