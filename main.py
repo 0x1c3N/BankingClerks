@@ -3,6 +3,10 @@ import random
 import datetime
 
 maxWaitTimes = [60, 45, 60] #Default max waiting times for casual, commercial, loan
+shiftTime = ""
+firstShift = "09:00"
+secondShift = "12:00"
+thirdShift = "15:00"
 
 class Customer:
     def __init__(self, name, customer_type):
@@ -27,8 +31,8 @@ class Customer:
 
     def display(self):
         print(f"Customer Name: {self.name}")
-        formatted_arriving_time = datetime.datetime.strptime('09:00', '%H:%M') + datetime.timedelta(minutes=self.arriving_time)
-        formatted_service_time = datetime.datetime.strptime('09:00', '%H:%M') + datetime.timedelta(minutes=self.serviceTime)
+        formatted_arriving_time = datetime.datetime.strptime(shiftTime, '%H:%M') + datetime.timedelta(minutes=self.arriving_time)
+        formatted_service_time = datetime.datetime.strptime(shiftTime, '%H:%M') + datetime.timedelta(minutes=self.serviceTime)
         formatted_arriving_time = formatted_arriving_time.strftime('%H:%M')  # Format time as hh:mm
         formatted_service_time = formatted_service_time.strftime('%H:%M')  # Format time as hh:mm
         print(f"Customer Arriving Time: {formatted_arriving_time}")
@@ -127,12 +131,10 @@ def min_clerk_algo(customers, customer_type):
                 allCustomerFlag = True
                 for customer in customers:
                     if customer.isDone == False:
-                        allCustomerFlag = False;
+                        allCustomerFlag = False
                 if allCustomerFlag:
                     clerkFlag = True
                     break
-                else:
-                    timeFlag = True
 
     return (allClerks[clerksIndex])
 
@@ -140,7 +142,26 @@ def printCustomers(customers):
     for customer in customers:
         customer.display()
 
-def main():
+def main(i):
+
+    global shiftTime
+
+    if (i == 0):
+        shiftTime= firstShift
+    elif (i == 1):
+        shiftTime= secondShift
+    else:
+        shiftTime= thirdShift
+
+    random_customers = randomCustomer()
+    separated_customers = separate_customers_by_type(random_customers)
+
+    for customer_type, customer_list in separated_customers.items():
+        clercks =  min_clerk_algo(list(customer_list), customer_type)
+        print( f"Customer Count:{len(customer_list)}", f"\nClerk Count:{len(clercks)}", f"\nType:{customer_type} \n\n")
+        printCustomers(customer_list)
+
+if __name__ == "__main__":
 
     # waitTimeChoice = input("Dou you want to set custom waiting times for Customer types? (Y,N) = ")
 
@@ -158,14 +179,5 @@ def main():
     #         print("Wrong input!!, you should give only 'Y','y' or 'N','n'")
     #         exit(0)
 
-    random_customers = randomCustomer()
-    separated_customers = separate_customers_by_type(random_customers)
-
-    for customer_type, customer_list in separated_customers.items():
-        clercks =  min_clerk_algo(list(customer_list), customer_type)
-        print( f"Customer Count:{len(customer_list)}", f"\nClerk Count:{len(clercks)}", f"\nType:{customer_type} \n\n")
-        printCustomers(customer_list)
-
-if __name__ == "__main__":
-
-    main()
+    for i in range(0,3):
+        main(i)
