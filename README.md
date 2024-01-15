@@ -35,11 +35,11 @@ This Python script simulates a customer service scenario where customers of diff
     python main.py # Can be used for Linux, MacOS, Windows
     ```
 
-  Run the compiled exe:
+    Run the compiled exe:
   
-  ```bash
-  main.exe #Just for Windows
-  ```
+    ```bash
+    main.exe #Just for Windows
+    ```
 
 3. View the simulation results in the terminal and "output.txt" file.
 
