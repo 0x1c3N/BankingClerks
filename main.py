@@ -244,6 +244,8 @@ if __name__ == "__main__":
         numberOfCustomer = int(input("Give the number of customer as integer format: "))
     except:
         print("Please give integer value")
+        print("[!] Press enter to exit.")
+        input()
         exit(0)
 
     if os.path.exists(outputFileName):
