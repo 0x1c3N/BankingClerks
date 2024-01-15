@@ -16,7 +16,7 @@ This Python script simulates a customer service scenario where customers of diff
   - The simulation is run for a fixed total time, and clerks serve customers based on their arrival times.
 
 - **Random Customer Generation:**
-  - Generates a list of 200 random customers with random arrival times, customer types, and process times.
+  - Generates a list of 200 random customers with random arrival times, customer types, and process times. So, every new run is new test case for the program.
 
 - **Output Logging:**
   - Outputs information about customers and clerks during each shift to the "output.txt" file.
@@ -46,8 +46,3 @@ This Python script simulates a customer service scenario where customers of diff
 - The script assumes a fixed total time (`totalTime = 160`) for each shift.
 - The simulation stops if any customer's wait time exceeds their maximum allowed wait time.
 
-## Future Improvements
-- Enhance variable and function names for better readability.
-- Minimize the use of global variables and pass parameters explicitly.
-- Add comments to explain complex sections of code or algorithms.
-- Handle potential edge cases and errors more explicitly.
