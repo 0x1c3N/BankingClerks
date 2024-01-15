@@ -4,6 +4,7 @@ import datetime
 import os
 
 maxWaitTimes = [45, 30, 45] #Default max waiting times for casual, commercial, loan
+numberOfCustomer = 0 #Will assigned at main
 shiftTime = ""
 firstShift = "09:00"
 secondShift = "12:00"
@@ -82,7 +83,7 @@ class Clerk:
 def randomCustomer():
     customer_types = ["commercial", "casual", "loan"]
     customers = []
-    for i in range(200):
+    for i in range(numberOfCustomer):
         name = f"Customer{i + 1}"
         customer_type = random.choice(customer_types)
         customer = Customer(name=name, customer_type=random.choice(customer_types))
@@ -222,6 +223,8 @@ def main(i):
         printCustomers(customer_list)
 
 if __name__ == "__main__":
+
+    numberOfCustomer = int(input("Give the number of customer: "))
 
     if os.path.exists(outputFileName):
         os.remove(outputFileName)
