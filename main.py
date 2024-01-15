@@ -10,6 +10,20 @@ secondShift = "12:00"
 thirdShift = "15:00"
 outputFileName = "output.txt"
 
+"""
+    Represents a customer in the simulation.
+
+    Attributes:
+    - name (str): The name of the customer.
+    - clerkIndex (int): Index of the clerk serving the customer.
+    - arriving_time (int): Arrival time of the customer.
+    - customer_type (str): Type of the customer (casual, commercial, loan).
+    - process_time (int): Processing time required for the customer.
+    - maxWaitTime (int): Maximum wait time allowed for the customer.
+    - waitTime (int): Time the customer waited before being served.
+    - serviceTime (int): Time the customer was served.
+    - isDone (bool): Flag indicating if the customer has been served.
+"""
 class Customer:
     def __init__(self, name, customer_type):
         self.clerkIndex = -1
@@ -44,6 +58,15 @@ class Customer:
             print(f"Customer Process Time: {self.process_time}", file=outputFile)
             print(f"Served Clercks: {self.clerkIndex}\n\n", file=outputFile)
 
+"""
+    Represents a clerk in the simulation.
+
+    Attributes:
+    - index (int): Index of the clerk.
+    - currentCustomer (Customer): Customer currently being served.
+    - isBusy (bool): Flag indicating if the clerk is busy.
+    - availableTime (int): Time when the clerk will be available again.
+"""
 class Clerk:
     def __init__(self,index):
         self.index = index
@@ -70,6 +93,16 @@ def randomCustomer():
     customers.sort(key=lambda x: x.arriving_time)
     return customers
 
+"""
+    Separates customers into different types.
+
+    Args:
+    - customers (list): List of Customer objects.
+
+    Returns:
+    - dict: Dictionary with customer types as keys and lists of customers as values.
+"""
+
 def separate_customers_by_type(customers):
     customer_types = defaultdict(list)
 
@@ -93,6 +126,16 @@ def reset_clerks(clerkList):
         clerk.reset()
 
 
+"""
+    Allocates customers to clerks using a minimum clerk algorithm.
+
+    Args:
+    - customers (list): List of Customer objects.
+    - customer_type (str): Type of the customers to consider.
+
+    Returns:
+    - list: List of Clerk objects serving customers.
+"""
 def min_clerk_algo(customers, customer_type):
     clerksIndex = 0
     if customer_type == "commercial":
@@ -141,10 +184,23 @@ def min_clerk_algo(customers, customer_type):
 
     return (allClerks[clerksIndex])
 
+"""
+    Displays information for each customer in the list.
+
+    Args:
+    - customers (list): List of Customer objects.
+"""
+
 def printCustomers(customers):
     for customer in customers:
         customer.display()
 
+"""
+    Main function to run the simulation for a given shift.
+
+    Args:
+    - i (int): Shift index (0, 1, or 2).
+"""
 def main(i):
 
     global shiftTime
