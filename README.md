@@ -48,8 +48,5 @@ This Python script simulates a customer service scenario where customers of diff
 - Modify the `maxWaitTimes` list to adjust default maximum waiting times for casual, commercial, and loan customers.
 - Adjust the shift times (`firstShift`, `secondShift`, `thirdShift`) based on your business requirements.
 - Customize the `outputFileName` to change the name of the output file.
-
-## Notes
-- The script assumes a fixed total time (`totalTime = 160`) for each shift.
-- The simulation stops if any customer's wait time exceeds their maximum allowed wait time.
+- The script assumes a fixed total time (`totalTime = 160`) for each shift. You can change it based on your business requirements.
 
