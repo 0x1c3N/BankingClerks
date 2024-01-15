@@ -249,3 +249,5 @@ if __name__ == "__main__":
         main(i)
 
     print("[+] All details about Customers logged to output.txt file")
+    print("[+] Press enter to exit.")
+    input()
