@@ -1,4 +1,4 @@
-# BankingClerks
+# Banking Clerks
 
 This Python script simulates a customer service scenario where customers of different types (casual, commercial, loan) arrive during different shifts, and clerks provide service to them based on certain criteria. The simulation runs for three shifts: 09:00, 12:00, and 15:00.
 
