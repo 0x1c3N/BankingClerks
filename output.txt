@@ -1,2684 +1,2692 @@
-Customer Name: Customer4
+Customer Name: Customer31
 Customer Arriving Time: 09:00
 Customer Service Time: 09:00
 Customer Wait Time: 0
-Customer Process Time: 14
+Customer Process Time: 13
 Served Clercks: 0
 
 
-Customer Name: Customer173
-Customer Arriving Time: 09:00
-Customer Service Time: 09:00
+Customer Name: Customer74
+Customer Arriving Time: 09:03
+Customer Service Time: 09:03
 Customer Wait Time: 0
-Customer Process Time: 9
+Customer Process Time: 10
 Served Clercks: 1
 
 
-Customer Name: Customer16
-Customer Arriving Time: 09:01
-Customer Service Time: 09:01
-Customer Wait Time: 0
-Customer Process Time: 8
-Served Clercks: 2
-
-
-Customer Name: Customer105
+Customer Name: Customer108
 Customer Arriving Time: 09:04
 Customer Service Time: 09:04
 Customer Wait Time: 0
 Customer Process Time: 12
-Served Clercks: 3
+Served Clercks: 2
 
 
-Customer Name: Customer51
+Customer Name: Customer169
 Customer Arriving Time: 09:05
 Customer Service Time: 09:05
 Customer Wait Time: 0
 Customer Process Time: 8
-Served Clercks: 4
+Served Clercks: 3
 
 
-Customer Name: Customer92
-Customer Arriving Time: 09:05
-Customer Service Time: 09:05
-Customer Wait Time: 0
-Customer Process Time: 5
-Served Clercks: 5
-
-
-Customer Name: Customer43
-Customer Arriving Time: 09:06
-Customer Service Time: 09:09
-Customer Wait Time: 3
-Customer Process Time: 15
-Served Clercks: 1
-
-
-Customer Name: Customer107
+Customer Name: Customer191
 Customer Arriving Time: 09:08
-Customer Service Time: 09:09
-Customer Wait Time: 1
-Customer Process Time: 5
-Served Clercks: 2
+Customer Service Time: 09:08
+Customer Wait Time: 0
+Customer Process Time: 9
+Served Clercks: 4
 
 
-Customer Name: Customer11
-Customer Arriving Time: 09:09
-Customer Service Time: 09:10
-Customer Wait Time: 1
-Customer Process Time: 6
-Served Clercks: 5
-
-
-Customer Name: Customer144
-Customer Arriving Time: 09:09
+Customer Name: Customer62
+Customer Arriving Time: 09:12
 Customer Service Time: 09:13
-Customer Wait Time: 4
-Customer Process Time: 14
-Served Clercks: 4
-
-
-Customer Name: Customer81
-Customer Arriving Time: 09:11
-Customer Service Time: 09:14
-Customer Wait Time: 3
-Customer Process Time: 9
-Served Clercks: 0
-
-
-Customer Name: Customer172
-Customer Arriving Time: 09:13
-Customer Service Time: 09:14
 Customer Wait Time: 1
-Customer Process Time: 10
-Served Clercks: 2
-
-
-Customer Name: Customer10
-Customer Arriving Time: 09:15
-Customer Service Time: 09:16
-Customer Wait Time: 1
-Customer Process Time: 10
-Served Clercks: 3
-
-
-Customer Name: Customer44
-Customer Arriving Time: 09:17
-Customer Service Time: 09:17
-Customer Wait Time: 0
-Customer Process Time: 10
-Served Clercks: 5
-
-
-Customer Name: Customer116
-Customer Arriving Time: 09:19
-Customer Service Time: 09:23
-Customer Wait Time: 4
-Customer Process Time: 10
-Served Clercks: 0
-
-
-Customer Name: Customer53
-Customer Arriving Time: 09:23
-Customer Service Time: 09:24
-Customer Wait Time: 1
-Customer Process Time: 14
-Served Clercks: 1
-
-
-Customer Name: Customer185
-Customer Arriving Time: 09:24
-Customer Service Time: 09:24
-Customer Wait Time: 0
-Customer Process Time: 14
-Served Clercks: 2
-
-
-Customer Name: Customer141
-Customer Arriving Time: 09:26
-Customer Service Time: 09:26
-Customer Wait Time: 0
-Customer Process Time: 14
-Served Clercks: 3
-
-
-Customer Name: Customer19
-Customer Arriving Time: 09:27
-Customer Service Time: 09:27
-Customer Wait Time: 0
-Customer Process Time: 10
-Served Clercks: 4
-
-
-Customer Name: Customer23
-Customer Arriving Time: 09:27
-Customer Service Time: 09:27
-Customer Wait Time: 0
-Customer Process Time: 9
-Served Clercks: 5
-
-
-Customer Name: Customer199
-Customer Arriving Time: 09:29
-Customer Service Time: 09:33
-Customer Wait Time: 4
-Customer Process Time: 15
-Served Clercks: 0
-
-
-Customer Name: Customer34
-Customer Arriving Time: 09:34
-Customer Service Time: 09:36
-Customer Wait Time: 2
-Customer Process Time: 15
-Served Clercks: 5
-
-
-Customer Name: Customer66
-Customer Arriving Time: 09:36
-Customer Service Time: 09:37
-Customer Wait Time: 1
-Customer Process Time: 11
-Served Clercks: 4
-
-
-Customer Name: Customer112
-Customer Arriving Time: 09:37
-Customer Service Time: 09:38
-Customer Wait Time: 1
-Customer Process Time: 12
-Served Clercks: 1
-
-
-Customer Name: Customer161
-Customer Arriving Time: 09:40
-Customer Service Time: 09:40
-Customer Wait Time: 0
-Customer Process Time: 11
-Served Clercks: 2
-
-
-Customer Name: Customer196
-Customer Arriving Time: 09:41
-Customer Service Time: 09:41
-Customer Wait Time: 0
-Customer Process Time: 13
-Served Clercks: 3
-
-
-Customer Name: Customer157
-Customer Arriving Time: 09:44
-Customer Service Time: 09:48
-Customer Wait Time: 4
-Customer Process Time: 7
-Served Clercks: 0
-
-
-Customer Name: Customer65
-Customer Arriving Time: 09:46
-Customer Service Time: 09:48
-Customer Wait Time: 2
-Customer Process Time: 14
-Served Clercks: 4
-
-
-Customer Name: Customer154
-Customer Arriving Time: 09:48
-Customer Service Time: 09:50
-Customer Wait Time: 2
-Customer Process Time: 8
-Served Clercks: 1
-
-
-Customer Name: Customer102
-Customer Arriving Time: 09:50
-Customer Service Time: 09:51
-Customer Wait Time: 1
-Customer Process Time: 10
-Served Clercks: 2
-
-
-Customer Name: Customer160
-Customer Arriving Time: 09:52
-Customer Service Time: 09:52
-Customer Wait Time: 0
-Customer Process Time: 11
-Served Clercks: 5
-
-
-Customer Name: Customer7
-Customer Arriving Time: 09:53
-Customer Service Time: 09:54
-Customer Wait Time: 1
-Customer Process Time: 11
-Served Clercks: 3
-
-
-Customer Name: Customer37
-Customer Arriving Time: 09:53
-Customer Service Time: 09:55
-Customer Wait Time: 2
-Customer Process Time: 13
-Served Clercks: 0
-
-
-Customer Name: Customer78
-Customer Arriving Time: 09:54
-Customer Service Time: 09:58
-Customer Wait Time: 4
-Customer Process Time: 15
-Served Clercks: 1
-
-
-Customer Name: Customer180
-Customer Arriving Time: 09:54
-Customer Service Time: 10:01
-Customer Wait Time: 7
-Customer Process Time: 13
-Served Clercks: 2
-
-
-Customer Name: Customer100
-Customer Arriving Time: 09:55
-Customer Service Time: 10:02
-Customer Wait Time: 7
 Customer Process Time: 6
-Served Clercks: 4
-
-
-Customer Name: Customer137
-Customer Arriving Time: 09:55
-Customer Service Time: 10:03
-Customer Wait Time: 8
-Customer Process Time: 12
-Served Clercks: 5
-
-
-Customer Name: Customer89
-Customer Arriving Time: 09:56
-Customer Service Time: 10:05
-Customer Wait Time: 9
-Customer Process Time: 10
-Served Clercks: 3
-
-
-Customer Name: Customer143
-Customer Arriving Time: 09:57
-Customer Service Time: 10:08
-Customer Wait Time: 11
-Customer Process Time: 6
-Served Clercks: 0
-
-
-Customer Name: Customer133
-Customer Arriving Time: 09:58
-Customer Service Time: 10:08
-Customer Wait Time: 10
-Customer Process Time: 15
-Served Clercks: 4
-
-
-Customer Name: Customer156
-Customer Arriving Time: 09:58
-Customer Service Time: 10:13
-Customer Wait Time: 15
-Customer Process Time: 13
-Served Clercks: 1
-
-
-Customer Name: Customer194
-Customer Arriving Time: 10:00
-Customer Service Time: 10:14
-Customer Wait Time: 14
-Customer Process Time: 14
-Served Clercks: 0
-
-
-Customer Name: Customer165
-Customer Arriving Time: 10:01
-Customer Service Time: 10:14
-Customer Wait Time: 13
-Customer Process Time: 10
-Served Clercks: 2
-
-
-Customer Name: Customer149
-Customer Arriving Time: 10:03
-Customer Service Time: 10:15
-Customer Wait Time: 12
-Customer Process Time: 7
-Served Clercks: 3
-
-
-Customer Name: Customer193
-Customer Arriving Time: 10:04
-Customer Service Time: 10:15
-Customer Wait Time: 11
-Customer Process Time: 8
-Served Clercks: 5
-
-
-Customer Name: Customer139
-Customer Arriving Time: 10:05
-Customer Service Time: 10:22
-Customer Wait Time: 17
-Customer Process Time: 14
-Served Clercks: 3
-
-
-Customer Name: Customer104
-Customer Arriving Time: 10:08
-Customer Service Time: 10:23
-Customer Wait Time: 15
-Customer Process Time: 9
-Served Clercks: 4
-
-
-Customer Name: Customer198
-Customer Arriving Time: 10:08
-Customer Service Time: 10:23
-Customer Wait Time: 15
-Customer Process Time: 14
-Served Clercks: 5
-
-
-Customer Name: Customer103
-Customer Arriving Time: 10:09
-Customer Service Time: 10:24
-Customer Wait Time: 15
-Customer Process Time: 5
-Served Clercks: 2
-
-
-Customer Name: Customer119
-Customer Arriving Time: 10:09
-Customer Service Time: 10:26
-Customer Wait Time: 17
-Customer Process Time: 12
-Served Clercks: 1
-
-
-Customer Name: Customer146
-Customer Arriving Time: 10:10
-Customer Service Time: 10:28
-Customer Wait Time: 18
-Customer Process Time: 6
-Served Clercks: 0
-
-
-Customer Name: Customer163
-Customer Arriving Time: 10:10
-Customer Service Time: 10:29
-Customer Wait Time: 19
-Customer Process Time: 6
-Served Clercks: 2
-
-
-Customer Name: Customer17
-Customer Arriving Time: 10:13
-Customer Service Time: 10:32
-Customer Wait Time: 19
-Customer Process Time: 5
-Served Clercks: 4
-
-
-Customer Name: Customer59
-Customer Arriving Time: 10:16
-Customer Service Time: 10:34
-Customer Wait Time: 18
-Customer Process Time: 5
 Served Clercks: 0
 
 
 Customer Name: Customer8
-Customer Arriving Time: 10:17
-Customer Service Time: 10:35
-Customer Wait Time: 18
-Customer Process Time: 10
-Served Clercks: 2
+Customer Arriving Time: 09:14
+Customer Service Time: 09:14
+Customer Wait Time: 0
+Customer Process Time: 14
+Served Clercks: 1
 
 
-Customer Name: Customer73
-Customer Arriving Time: 10:17
-Customer Service Time: 10:36
-Customer Wait Time: 19
+Customer Name: Customer71
+Customer Arriving Time: 09:15
+Customer Service Time: 09:15
+Customer Wait Time: 0
+Customer Process Time: 15
+Served Clercks: 3
+
+
+Customer Name: Customer127
+Customer Arriving Time: 09:16
+Customer Service Time: 09:16
+Customer Wait Time: 0
 Customer Process Time: 8
-Served Clercks: 3
-
-
-Customer Name: Customer114
-Customer Arriving Time: 10:17
-Customer Service Time: 10:37
-Customer Wait Time: 20
-Customer Process Time: 7
-Served Clercks: 4
-
-
-Customer Name: Customer48
-Customer Arriving Time: 10:19
-Customer Service Time: 10:37
-Customer Wait Time: 18
-Customer Process Time: 15
-Served Clercks: 5
-
-
-Customer Name: Customer2
-Customer Arriving Time: 10:21
-Customer Service Time: 10:38
-Customer Wait Time: 17
-Customer Process Time: 9
-Served Clercks: 1
-
-
-Customer Name: Customer56
-Customer Arriving Time: 10:21
-Customer Service Time: 10:39
-Customer Wait Time: 18
-Customer Process Time: 10
-Served Clercks: 0
-
-
-Customer Name: Customer67
-Customer Arriving Time: 10:22
-Customer Service Time: 10:44
-Customer Wait Time: 22
-Customer Process Time: 5
-Served Clercks: 3
-
-
-Customer Name: Customer142
-Customer Arriving Time: 10:23
-Customer Service Time: 10:44
-Customer Wait Time: 21
-Customer Process Time: 7
-Served Clercks: 4
-
-
-Customer Name: Customer12
-Customer Arriving Time: 10:26
-Customer Service Time: 10:45
-Customer Wait Time: 19
-Customer Process Time: 14
 Served Clercks: 2
 
 
-Customer Name: Customer49
-Customer Arriving Time: 10:26
-Customer Service Time: 10:47
-Customer Wait Time: 21
-Customer Process Time: 11
-Served Clercks: 1
-
-
-Customer Name: Customer155
-Customer Arriving Time: 10:29
-Customer Service Time: 10:49
-Customer Wait Time: 20
-Customer Process Time: 6
-Served Clercks: 0
-
-
-Customer Name: Customer95
-Customer Arriving Time: 10:30
-Customer Service Time: 10:49
-Customer Wait Time: 19
-Customer Process Time: 9
-Served Clercks: 3
-
-
-Customer Name: Customer26
-Customer Arriving Time: 10:33
-Customer Service Time: 10:51
-Customer Wait Time: 18
-Customer Process Time: 12
-Served Clercks: 4
-
-
-Customer Name: Customer108
-Customer Arriving Time: 10:33
-Customer Service Time: 10:52
-Customer Wait Time: 19
-Customer Process Time: 15
-Served Clercks: 5
-
-
-Customer Name: Customer5
-Customer Arriving Time: 10:36
-Customer Service Time: 10:55
-Customer Wait Time: 19
-Customer Process Time: 14
-Served Clercks: 0
-
-
-Customer Name: Customer91
-Customer Arriving Time: 10:37
-Customer Service Time: 10:58
-Customer Wait Time: 21
-Customer Process Time: 15
-Served Clercks: 1
-
-
-Customer Name: Customer69
-Customer Arriving Time: 10:39
-Customer Service Time: 10:58
-Customer Wait Time: 19
-Customer Process Time: 7
-Served Clercks: 3
-
-
-Customer Name: Customer45
-Customer Arriving Time: 09:00
-Customer Service Time: 09:00
-Customer Wait Time: 0
-Customer Process Time: 14
-Served Clercks: 0
-
-
-Customer Name: Customer57
-Customer Arriving Time: 09:01
-Customer Service Time: 09:01
-Customer Wait Time: 0
-Customer Process Time: 7
-Served Clercks: 1
-
-
-Customer Name: Customer75
-Customer Arriving Time: 09:01
-Customer Service Time: 09:01
-Customer Wait Time: 0
-Customer Process Time: 12
-Served Clercks: 2
-
-
-Customer Name: Customer30
-Customer Arriving Time: 09:02
-Customer Service Time: 09:02
-Customer Wait Time: 0
-Customer Process Time: 5
-Served Clercks: 3
-
-
-Customer Name: Customer88
-Customer Arriving Time: 09:04
-Customer Service Time: 09:04
+Customer Name: Customer77
+Customer Arriving Time: 09:17
+Customer Service Time: 09:17
 Customer Wait Time: 0
 Customer Process Time: 8
 Served Clercks: 4
 
 
-Customer Name: Customer14
-Customer Arriving Time: 09:05
-Customer Service Time: 09:07
+Customer Name: Customer110
+Customer Arriving Time: 09:17
+Customer Service Time: 09:19
 Customer Wait Time: 2
-Customer Process Time: 14
-Served Clercks: 3
+Customer Process Time: 8
+Served Clercks: 0
+
+
+Customer Name: Customer122
+Customer Arriving Time: 09:19
+Customer Service Time: 09:24
+Customer Wait Time: 5
+Customer Process Time: 11
+Served Clercks: 2
 
 
 Customer Name: Customer94
-Customer Arriving Time: 09:07
-Customer Service Time: 09:08
-Customer Wait Time: 1
-Customer Process Time: 8
-Served Clercks: 1
-
-
-Customer Name: Customer174
-Customer Arriving Time: 09:08
-Customer Service Time: 09:12
-Customer Wait Time: 4
-Customer Process Time: 7
+Customer Arriving Time: 09:20
+Customer Service Time: 09:25
+Customer Wait Time: 5
+Customer Process Time: 12
 Served Clercks: 4
 
 
-Customer Name: Customer188
-Customer Arriving Time: 09:10
-Customer Service Time: 09:13
-Customer Wait Time: 3
-Customer Process Time: 13
-Served Clercks: 2
-
-
-Customer Name: Customer124
-Customer Arriving Time: 09:13
-Customer Service Time: 09:14
-Customer Wait Time: 1
-Customer Process Time: 8
+Customer Name: Customer47
+Customer Arriving Time: 09:21
+Customer Service Time: 09:27
+Customer Wait Time: 6
+Customer Process Time: 9
 Served Clercks: 0
 
 
 Customer Name: Customer177
-Customer Arriving Time: 09:13
-Customer Service Time: 09:16
-Customer Wait Time: 3
-Customer Process Time: 7
-Served Clercks: 1
-
-
-Customer Name: Customer52
-Customer Arriving Time: 09:19
-Customer Service Time: 09:19
-Customer Wait Time: 0
-Customer Process Time: 12
-Served Clercks: 4
-
-
-Customer Name: Customer46
 Customer Arriving Time: 09:21
-Customer Service Time: 09:21
-Customer Wait Time: 0
-Customer Process Time: 11
-Served Clercks: 3
-
-
-Customer Name: Customer33
-Customer Arriving Time: 09:22
-Customer Service Time: 09:22
-Customer Wait Time: 0
-Customer Process Time: 9
-Served Clercks: 0
-
-
-Customer Name: Customer123
-Customer Arriving Time: 09:23
-Customer Service Time: 09:23
-Customer Wait Time: 0
-Customer Process Time: 10
-Served Clercks: 1
-
-
-Customer Name: Customer166
-Customer Arriving Time: 09:23
-Customer Service Time: 09:26
-Customer Wait Time: 3
-Customer Process Time: 10
-Served Clercks: 2
-
-
-Customer Name: Customer55
-Customer Arriving Time: 09:24
-Customer Service Time: 09:31
+Customer Service Time: 09:28
 Customer Wait Time: 7
-Customer Process Time: 15
-Served Clercks: 0
-
-
-Customer Name: Customer111
-Customer Arriving Time: 09:28
-Customer Service Time: 09:31
-Customer Wait Time: 3
-Customer Process Time: 6
-Served Clercks: 4
-
-
-Customer Name: Customer40
-Customer Arriving Time: 09:29
-Customer Service Time: 09:32
-Customer Wait Time: 3
-Customer Process Time: 10
-Served Clercks: 3
-
-
-Customer Name: Customer151
-Customer Arriving Time: 09:30
-Customer Service Time: 09:33
-Customer Wait Time: 3
-Customer Process Time: 13
-Served Clercks: 1
-
-
-Customer Name: Customer127
-Customer Arriving Time: 09:33
-Customer Service Time: 09:36
-Customer Wait Time: 3
-Customer Process Time: 7
-Served Clercks: 2
-
-
-Customer Name: Customer197
-Customer Arriving Time: 09:33
-Customer Service Time: 09:37
-Customer Wait Time: 4
-Customer Process Time: 11
-Served Clercks: 4
-
-
-Customer Name: Customer153
-Customer Arriving Time: 09:34
-Customer Service Time: 09:42
-Customer Wait Time: 8
-Customer Process Time: 15
-Served Clercks: 3
-
-
-Customer Name: Customer136
-Customer Arriving Time: 09:35
-Customer Service Time: 09:43
-Customer Wait Time: 8
-Customer Process Time: 11
-Served Clercks: 2
-
-
-Customer Name: Customer82
-Customer Arriving Time: 09:36
-Customer Service Time: 09:46
-Customer Wait Time: 10
-Customer Process Time: 9
-Served Clercks: 0
-
-
-Customer Name: Customer184
-Customer Arriving Time: 09:37
-Customer Service Time: 09:46
-Customer Wait Time: 9
-Customer Process Time: 10
-Served Clercks: 1
-
-
-Customer Name: Customer147
-Customer Arriving Time: 09:38
-Customer Service Time: 09:48
-Customer Wait Time: 10
-Customer Process Time: 7
-Served Clercks: 4
-
-
-Customer Name: Customer152
-Customer Arriving Time: 09:41
-Customer Service Time: 09:54
-Customer Wait Time: 13
-Customer Process Time: 14
-Served Clercks: 2
-
-
-Customer Name: Customer42
-Customer Arriving Time: 09:43
-Customer Service Time: 09:55
-Customer Wait Time: 12
-Customer Process Time: 5
-Served Clercks: 0
-
-
-Customer Name: Customer169
-Customer Arriving Time: 09:43
-Customer Service Time: 09:55
-Customer Wait Time: 12
-Customer Process Time: 10
-Served Clercks: 4
-
-
-Customer Name: Customer134
-Customer Arriving Time: 09:44
-Customer Service Time: 09:56
-Customer Wait Time: 12
-Customer Process Time: 13
-Served Clercks: 1
-
-
-Customer Name: Customer68
-Customer Arriving Time: 09:45
-Customer Service Time: 09:57
-Customer Wait Time: 12
-Customer Process Time: 5
-Served Clercks: 3
-
-
-Customer Name: Customer13
-Customer Arriving Time: 09:46
-Customer Service Time: 10:00
-Customer Wait Time: 14
-Customer Process Time: 10
-Served Clercks: 0
-
-
-Customer Name: Customer29
-Customer Arriving Time: 09:46
-Customer Service Time: 10:02
-Customer Wait Time: 16
-Customer Process Time: 5
-Served Clercks: 3
-
-
-Customer Name: Customer110
-Customer Arriving Time: 09:46
-Customer Service Time: 10:05
-Customer Wait Time: 19
-Customer Process Time: 8
-Served Clercks: 4
-
-
-Customer Name: Customer20
-Customer Arriving Time: 09:48
-Customer Service Time: 10:07
-Customer Wait Time: 19
-Customer Process Time: 12
-Served Clercks: 3
-
-
-Customer Name: Customer74
-Customer Arriving Time: 09:48
-Customer Service Time: 10:08
-Customer Wait Time: 20
-Customer Process Time: 11
-Served Clercks: 2
-
-
-Customer Name: Customer90
-Customer Arriving Time: 09:56
-Customer Service Time: 10:09
-Customer Wait Time: 13
-Customer Process Time: 5
-Served Clercks: 1
-
-
-Customer Name: Customer96
-Customer Arriving Time: 09:57
-Customer Service Time: 10:10
-Customer Wait Time: 13
-Customer Process Time: 11
-Served Clercks: 0
-
-
-Customer Name: Customer58
-Customer Arriving Time: 09:58
-Customer Service Time: 10:13
-Customer Wait Time: 15
-Customer Process Time: 6
-Served Clercks: 4
-
-
-Customer Name: Customer71
-Customer Arriving Time: 09:58
-Customer Service Time: 10:14
-Customer Wait Time: 16
-Customer Process Time: 13
-Served Clercks: 1
-
-
-Customer Name: Customer15
-Customer Arriving Time: 10:03
-Customer Service Time: 10:19
-Customer Wait Time: 16
-Customer Process Time: 8
-Served Clercks: 2
-
-
-Customer Name: Customer21
-Customer Arriving Time: 10:06
-Customer Service Time: 10:19
-Customer Wait Time: 13
-Customer Process Time: 9
-Served Clercks: 3
-
-
-Customer Name: Customer47
-Customer Arriving Time: 10:06
-Customer Service Time: 10:19
-Customer Wait Time: 13
-Customer Process Time: 12
-Served Clercks: 4
-
-
-Customer Name: Customer179
-Customer Arriving Time: 10:06
-Customer Service Time: 10:21
-Customer Wait Time: 15
-Customer Process Time: 14
-Served Clercks: 0
-
-
-Customer Name: Customer190
-Customer Arriving Time: 10:06
-Customer Service Time: 10:27
-Customer Wait Time: 21
-Customer Process Time: 7
-Served Clercks: 1
-
-
-Customer Name: Customer28
-Customer Arriving Time: 10:07
-Customer Service Time: 10:27
-Customer Wait Time: 20
-Customer Process Time: 15
-Served Clercks: 2
-
-
-Customer Name: Customer132
-Customer Arriving Time: 10:08
-Customer Service Time: 10:28
-Customer Wait Time: 20
-Customer Process Time: 13
-Served Clercks: 3
-
-
-Customer Name: Customer83
-Customer Arriving Time: 10:10
-Customer Service Time: 10:31
-Customer Wait Time: 21
-Customer Process Time: 15
-Served Clercks: 4
-
-
-Customer Name: Customer76
-Customer Arriving Time: 10:12
-Customer Service Time: 10:34
-Customer Wait Time: 22
-Customer Process Time: 13
-Served Clercks: 1
-
-
-Customer Name: Customer87
-Customer Arriving Time: 10:17
-Customer Service Time: 10:35
-Customer Wait Time: 18
-Customer Process Time: 11
-Served Clercks: 0
-
-
-Customer Name: Customer93
-Customer Arriving Time: 10:18
-Customer Service Time: 10:41
-Customer Wait Time: 23
-Customer Process Time: 10
-Served Clercks: 3
-
-
-Customer Name: Customer60
-Customer Arriving Time: 10:21
-Customer Service Time: 10:42
-Customer Wait Time: 21
-Customer Process Time: 14
-Served Clercks: 2
-
-
-Customer Name: Customer170
-Customer Arriving Time: 10:21
-Customer Service Time: 10:46
-Customer Wait Time: 25
-Customer Process Time: 5
-Served Clercks: 0
-
-
-Customer Name: Customer113
-Customer Arriving Time: 10:22
-Customer Service Time: 10:46
-Customer Wait Time: 24
-Customer Process Time: 5
-Served Clercks: 4
-
-
-Customer Name: Customer164
-Customer Arriving Time: 10:23
-Customer Service Time: 10:47
-Customer Wait Time: 24
-Customer Process Time: 5
-Served Clercks: 1
-
-
-Customer Name: Customer80
-Customer Arriving Time: 10:25
-Customer Service Time: 10:51
-Customer Wait Time: 26
-Customer Process Time: 10
-Served Clercks: 0
-
-
-Customer Name: Customer182
-Customer Arriving Time: 10:27
-Customer Service Time: 10:51
-Customer Wait Time: 24
-Customer Process Time: 6
-Served Clercks: 3
-
-
-Customer Name: Customer9
-Customer Arriving Time: 10:29
-Customer Service Time: 10:51
-Customer Wait Time: 22
-Customer Process Time: 13
-Served Clercks: 4
-
-
-Customer Name: Customer120
-Customer Arriving Time: 10:29
-Customer Service Time: 10:52
-Customer Wait Time: 23
-Customer Process Time: 13
-Served Clercks: 1
-
-
-Customer Name: Customer98
-Customer Arriving Time: 10:30
-Customer Service Time: 10:56
-Customer Wait Time: 26
-Customer Process Time: 12
-Served Clercks: 2
-
-
-Customer Name: Customer101
-Customer Arriving Time: 10:35
-Customer Service Time: 10:57
-Customer Wait Time: 22
-Customer Process Time: 12
-Served Clercks: 3
-
-
-Customer Name: Customer121
-Customer Arriving Time: 09:00
-Customer Service Time: 09:00
-Customer Wait Time: 0
-Customer Process Time: 14
-Served Clercks: 0
-
-
-Customer Name: Customer189
-Customer Arriving Time: 09:00
-Customer Service Time: 09:00
-Customer Wait Time: 0
 Customer Process Time: 11
 Served Clercks: 1
 
 
-Customer Name: Customer171
-Customer Arriving Time: 09:08
-Customer Service Time: 09:08
-Customer Wait Time: 0
-Customer Process Time: 10
-Served Clercks: 2
-
-
-Customer Name: Customer54
-Customer Arriving Time: 09:10
-Customer Service Time: 09:10
-Customer Wait Time: 0
-Customer Process Time: 5
-Served Clercks: 3
-
-
-Customer Name: Customer115
-Customer Arriving Time: 09:11
-Customer Service Time: 09:11
-Customer Wait Time: 0
-Customer Process Time: 10
-Served Clercks: 1
-
-
-Customer Name: Customer122
-Customer Arriving Time: 09:11
-Customer Service Time: 09:11
-Customer Wait Time: 0
-Customer Process Time: 11
-Served Clercks: 4
-
-
-Customer Name: Customer99
-Customer Arriving Time: 09:13
-Customer Service Time: 09:14
-Customer Wait Time: 1
-Customer Process Time: 10
-Served Clercks: 0
-
-
-Customer Name: Customer106
-Customer Arriving Time: 09:17
-Customer Service Time: 09:17
-Customer Wait Time: 0
-Customer Process Time: 7
-Served Clercks: 3
-
-
-Customer Name: Customer31
-Customer Arriving Time: 09:18
-Customer Service Time: 09:18
-Customer Wait Time: 0
-Customer Process Time: 5
-Served Clercks: 2
-
-
-Customer Name: Customer63
-Customer Arriving Time: 09:18
-Customer Service Time: 09:21
-Customer Wait Time: 3
-Customer Process Time: 10
-Served Clercks: 1
-
-
-Customer Name: Customer41
-Customer Arriving Time: 09:19
-Customer Service Time: 09:22
-Customer Wait Time: 3
-Customer Process Time: 13
-Served Clercks: 4
-
-
-Customer Name: Customer97
-Customer Arriving Time: 09:19
-Customer Service Time: 09:23
-Customer Wait Time: 4
-Customer Process Time: 7
-Served Clercks: 2
-
-
-Customer Name: Customer85
-Customer Arriving Time: 09:23
-Customer Service Time: 09:24
-Customer Wait Time: 1
-Customer Process Time: 15
-Served Clercks: 0
-
-
-Customer Name: Customer178
-Customer Arriving Time: 09:23
-Customer Service Time: 09:24
-Customer Wait Time: 1
-Customer Process Time: 7
-Served Clercks: 3
-
-
-Customer Name: Customer79
+Customer Name: Customer81
 Customer Arriving Time: 09:24
 Customer Service Time: 09:30
 Customer Wait Time: 6
-Customer Process Time: 5
-Served Clercks: 2
-
-
-Customer Name: Customer186
-Customer Arriving Time: 09:24
-Customer Service Time: 09:31
-Customer Wait Time: 7
-Customer Process Time: 13
-Served Clercks: 1
-
-
-Customer Name: Customer72
-Customer Arriving Time: 09:29
-Customer Service Time: 09:31
-Customer Wait Time: 2
-Customer Process Time: 8
+Customer Process Time: 10
 Served Clercks: 3
-
-
-Customer Name: Customer36
-Customer Arriving Time: 09:30
-Customer Service Time: 09:35
-Customer Wait Time: 5
-Customer Process Time: 14
-Served Clercks: 2
-
-
-Customer Name: Customer77
-Customer Arriving Time: 09:33
-Customer Service Time: 09:35
-Customer Wait Time: 2
-Customer Process Time: 12
-Served Clercks: 4
-
-
-Customer Name: Customer84
-Customer Arriving Time: 09:33
-Customer Service Time: 09:39
-Customer Wait Time: 6
-Customer Process Time: 11
-Served Clercks: 0
-
-
-Customer Name: Customer118
-Customer Arriving Time: 09:35
-Customer Service Time: 09:39
-Customer Wait Time: 4
-Customer Process Time: 7
-Served Clercks: 3
-
-
-Customer Name: Customer18
-Customer Arriving Time: 09:36
-Customer Service Time: 09:44
-Customer Wait Time: 8
-Customer Process Time: 8
-Served Clercks: 1
-
-
-Customer Name: Customer50
-Customer Arriving Time: 09:37
-Customer Service Time: 09:46
-Customer Wait Time: 9
-Customer Process Time: 15
-Served Clercks: 3
-
-
-Customer Name: Customer125
-Customer Arriving Time: 09:37
-Customer Service Time: 09:47
-Customer Wait Time: 10
-Customer Process Time: 5
-Served Clercks: 4
-
-
-Customer Name: Customer27
-Customer Arriving Time: 09:40
-Customer Service Time: 09:49
-Customer Wait Time: 9
-Customer Process Time: 14
-Served Clercks: 2
-
-
-Customer Name: Customer64
-Customer Arriving Time: 09:42
-Customer Service Time: 09:50
-Customer Wait Time: 8
-Customer Process Time: 12
-Served Clercks: 0
-
-
-Customer Name: Customer1
-Customer Arriving Time: 09:48
-Customer Service Time: 09:52
-Customer Wait Time: 4
-Customer Process Time: 7
-Served Clercks: 1
-
-
-Customer Name: Customer86
-Customer Arriving Time: 09:49
-Customer Service Time: 09:52
-Customer Wait Time: 3
-Customer Process Time: 6
-Served Clercks: 4
-
-
-Customer Name: Customer39
-Customer Arriving Time: 09:52
-Customer Service Time: 09:58
-Customer Wait Time: 6
-Customer Process Time: 15
-Served Clercks: 4
-
-
-Customer Name: Customer126
-Customer Arriving Time: 09:52
-Customer Service Time: 09:59
-Customer Wait Time: 7
-Customer Process Time: 11
-Served Clercks: 1
 
 
 Customer Name: Customer140
-Customer Arriving Time: 09:52
-Customer Service Time: 10:01
-Customer Wait Time: 9
-Customer Process Time: 8
-Served Clercks: 3
-
-
-Customer Name: Customer6
-Customer Arriving Time: 09:54
-Customer Service Time: 10:02
-Customer Wait Time: 8
-Customer Process Time: 12
-Served Clercks: 0
-
-
-Customer Name: Customer61
-Customer Arriving Time: 09:54
-Customer Service Time: 10:03
-Customer Wait Time: 9
-Customer Process Time: 11
+Customer Arriving Time: 09:24
+Customer Service Time: 09:35
+Customer Wait Time: 11
+Customer Process Time: 6
 Served Clercks: 2
 
 
-Customer Name: Customer129
-Customer Arriving Time: 09:54
-Customer Service Time: 10:09
-Customer Wait Time: 15
-Customer Process Time: 14
+Customer Name: Customer141
+Customer Arriving Time: 09:24
+Customer Service Time: 09:36
+Customer Wait Time: 12
+Customer Process Time: 5
+Served Clercks: 0
+
+
+Customer Name: Customer146
+Customer Arriving Time: 09:24
+Customer Service Time: 09:37
+Customer Wait Time: 13
+Customer Process Time: 5
+Served Clercks: 4
+
+
+Customer Name: Customer30
+Customer Arriving Time: 09:25
+Customer Service Time: 09:39
+Customer Wait Time: 14
+Customer Process Time: 13
+Served Clercks: 1
+
+
+Customer Name: Customer137
+Customer Arriving Time: 09:26
+Customer Service Time: 09:40
+Customer Wait Time: 14
+Customer Process Time: 11
 Served Clercks: 3
+
+
+Customer Name: Customer114
+Customer Arriving Time: 09:31
+Customer Service Time: 09:41
+Customer Wait Time: 10
+Customer Process Time: 6
+Served Clercks: 0
+
+
+Customer Name: Customer152
+Customer Arriving Time: 09:31
+Customer Service Time: 09:41
+Customer Wait Time: 10
+Customer Process Time: 15
+Served Clercks: 2
+
+
+Customer Name: Customer172
+Customer Arriving Time: 09:32
+Customer Service Time: 09:42
+Customer Wait Time: 10
+Customer Process Time: 11
+Served Clercks: 4
+
+
+Customer Name: Customer40
+Customer Arriving Time: 09:33
+Customer Service Time: 09:47
+Customer Wait Time: 14
+Customer Process Time: 14
+Served Clercks: 0
+
+
+Customer Name: Customer24
+Customer Arriving Time: 09:35
+Customer Service Time: 09:51
+Customer Wait Time: 16
+Customer Process Time: 11
+Served Clercks: 3
+
+
+Customer Name: Customer27
+Customer Arriving Time: 09:35
+Customer Service Time: 09:52
+Customer Wait Time: 17
+Customer Process Time: 15
+Served Clercks: 1
+
+
+Customer Name: Customer21
+Customer Arriving Time: 09:36
+Customer Service Time: 09:53
+Customer Wait Time: 17
+Customer Process Time: 10
+Served Clercks: 4
+
+
+Customer Name: Customer29
+Customer Arriving Time: 09:37
+Customer Service Time: 09:56
+Customer Wait Time: 19
+Customer Process Time: 13
+Served Clercks: 2
 
 
 Customer Name: Customer159
-Customer Arriving Time: 09:54
-Customer Service Time: 10:10
-Customer Wait Time: 16
-Customer Process Time: 7
-Served Clercks: 1
-
-
-Customer Name: Customer38
-Customer Arriving Time: 10:00
-Customer Service Time: 10:13
-Customer Wait Time: 13
-Customer Process Time: 12
-Served Clercks: 4
-
-
-Customer Name: Customer135
-Customer Arriving Time: 10:03
-Customer Service Time: 10:14
-Customer Wait Time: 11
-Customer Process Time: 9
-Served Clercks: 0
-
-
-Customer Name: Customer183
-Customer Arriving Time: 10:03
-Customer Service Time: 10:14
-Customer Wait Time: 11
-Customer Process Time: 13
-Served Clercks: 2
-
-
-Customer Name: Customer181
-Customer Arriving Time: 10:04
-Customer Service Time: 10:17
-Customer Wait Time: 13
-Customer Process Time: 9
-Served Clercks: 1
-
-
-Customer Name: Customer70
-Customer Arriving Time: 10:05
-Customer Service Time: 10:23
-Customer Wait Time: 18
-Customer Process Time: 12
-Served Clercks: 0
-
-
-Customer Name: Customer192
-Customer Arriving Time: 10:05
-Customer Service Time: 10:23
-Customer Wait Time: 18
-Customer Process Time: 12
-Served Clercks: 3
-
-
-Customer Name: Customer138
-Customer Arriving Time: 10:06
-Customer Service Time: 10:25
-Customer Wait Time: 19
-Customer Process Time: 9
-Served Clercks: 4
-
-
-Customer Name: Customer148
-Customer Arriving Time: 10:08
-Customer Service Time: 10:26
-Customer Wait Time: 18
-Customer Process Time: 5
-Served Clercks: 1
-
-
-Customer Name: Customer167
-Customer Arriving Time: 10:08
-Customer Service Time: 10:27
-Customer Wait Time: 19
-Customer Process Time: 14
-Served Clercks: 2
-
-
-Customer Name: Customer200
-Customer Arriving Time: 10:08
-Customer Service Time: 10:31
-Customer Wait Time: 23
-Customer Process Time: 6
-Served Clercks: 1
-
-
-Customer Name: Customer3
-Customer Arriving Time: 10:10
-Customer Service Time: 10:34
+Customer Arriving Time: 09:37
+Customer Service Time: 10:01
 Customer Wait Time: 24
-Customer Process Time: 11
-Served Clercks: 4
-
-
-Customer Name: Customer191
-Customer Arriving Time: 10:12
-Customer Service Time: 10:35
-Customer Wait Time: 23
-Customer Process Time: 15
+Customer Process Time: 12
 Served Clercks: 0
-
-
-Customer Name: Customer117
-Customer Arriving Time: 10:14
-Customer Service Time: 10:35
-Customer Wait Time: 21
-Customer Process Time: 7
-Served Clercks: 3
-
-
-Customer Name: Customer195
-Customer Arriving Time: 10:20
-Customer Service Time: 10:37
-Customer Wait Time: 17
-Customer Process Time: 10
-Served Clercks: 1
-
-
-Customer Name: Customer175
-Customer Arriving Time: 10:22
-Customer Service Time: 10:41
-Customer Wait Time: 19
-Customer Process Time: 13
-Served Clercks: 2
 
 
 Customer Name: Customer32
-Customer Arriving Time: 10:23
-Customer Service Time: 10:42
-Customer Wait Time: 19
-Customer Process Time: 10
+Customer Arriving Time: 09:38
+Customer Service Time: 10:02
+Customer Wait Time: 24
+Customer Process Time: 9
 Served Clercks: 3
 
 
-Customer Name: Customer187
-Customer Arriving Time: 10:25
-Customer Service Time: 10:45
-Customer Wait Time: 20
-Customer Process Time: 13
+Customer Name: Customer92
+Customer Arriving Time: 09:41
+Customer Service Time: 10:03
+Customer Wait Time: 22
+Customer Process Time: 6
 Served Clercks: 4
 
 
-Customer Name: Customer25
-Customer Arriving Time: 10:26
-Customer Service Time: 10:47
-Customer Wait Time: 21
-Customer Process Time: 9
-Served Clercks: 1
-
-
-Customer Name: Customer162
-Customer Arriving Time: 10:29
-Customer Service Time: 10:50
-Customer Wait Time: 21
-Customer Process Time: 11
-Served Clercks: 0
-
-
-Customer Name: Customer130
-Customer Arriving Time: 10:30
-Customer Service Time: 10:52
-Customer Wait Time: 22
-Customer Process Time: 14
-Served Clercks: 3
-
-
-Customer Name: Customer168
-Customer Arriving Time: 10:30
-Customer Service Time: 10:54
-Customer Wait Time: 24
-Customer Process Time: 13
-Served Clercks: 2
-
-
-Customer Name: Customer128
-Customer Arriving Time: 10:31
-Customer Service Time: 10:56
+Customer Name: Customer60
+Customer Arriving Time: 09:42
+Customer Service Time: 10:07
 Customer Wait Time: 25
 Customer Process Time: 6
 Served Clercks: 1
 
 
-Customer Name: Customer158
-Customer Arriving Time: 10:32
-Customer Service Time: 10:58
+Customer Name: Customer143
+Customer Arriving Time: 09:43
+Customer Service Time: 10:09
 Customer Wait Time: 26
-Customer Process Time: 11
+Customer Process Time: 8
+Served Clercks: 2
+
+
+Customer Name: Customer193
+Customer Arriving Time: 09:43
+Customer Service Time: 10:09
+Customer Wait Time: 26
+Customer Process Time: 6
 Served Clercks: 4
 
 
-Customer Name: Customer22
-Customer Arriving Time: 10:33
-Customer Service Time: 11:01
-Customer Wait Time: 28
+Customer Name: Customer11
+Customer Arriving Time: 09:48
+Customer Service Time: 10:11
+Customer Wait Time: 23
 Customer Process Time: 8
-Served Clercks: 0
-
-
-Customer Name: Customer35
-Customer Arriving Time: 10:33
-Customer Service Time: 11:02
-Customer Wait Time: 29
-Customer Process Time: 13
-Served Clercks: 1
-
-
-Customer Name: Customer145
-Customer Arriving Time: 10:34
-Customer Service Time: 11:06
-Customer Wait Time: 32
-Customer Process Time: 14
 Served Clercks: 3
 
 
-Customer Name: Customer24
-Customer Arriving Time: 10:35
-Customer Service Time: 11:07
-Customer Wait Time: 32
-Customer Process Time: 5
-Served Clercks: 2
-
-
-Customer Name: Customer150
-Customer Arriving Time: 10:35
-Customer Service Time: 11:09
-Customer Wait Time: 34
-Customer Process Time: 15
+Customer Name: Customer34
+Customer Arriving Time: 09:49
+Customer Service Time: 10:13
+Customer Wait Time: 24
+Customer Process Time: 7
 Served Clercks: 0
 
 
-Customer Name: Customer62
-Customer Arriving Time: 10:37
-Customer Service Time: 11:09
-Customer Wait Time: 32
-Customer Process Time: 14
-Served Clercks: 4
-
-
-Customer Name: Customer131
-Customer Arriving Time: 10:37
-Customer Service Time: 11:12
-Customer Wait Time: 35
-Customer Process Time: 8
-Served Clercks: 2
-
-
-Customer Name: Customer176
-Customer Arriving Time: 10:37
-Customer Service Time: 11:15
-Customer Wait Time: 38
-Customer Process Time: 15
+Customer Name: Customer144
+Customer Arriving Time: 09:52
+Customer Service Time: 10:13
+Customer Wait Time: 21
+Customer Process Time: 6
 Served Clercks: 1
 
 
-Customer Name: Customer109
-Customer Arriving Time: 10:40
-Customer Service Time: 11:20
-Customer Wait Time: 40
-Customer Process Time: 10
+Customer Name: Customer183
+Customer Arriving Time: 09:52
+Customer Service Time: 10:15
+Customer Wait Time: 23
+Customer Process Time: 5
+Served Clercks: 4
+
+
+Customer Name: Customer12
+Customer Arriving Time: 09:53
+Customer Service Time: 10:17
+Customer Wait Time: 24
+Customer Process Time: 7
 Served Clercks: 2
 
 
-Customer Name: Customer30
-Customer Arriving Time: 12:01
-Customer Service Time: 12:01
-Customer Wait Time: 0
-Customer Process Time: 15
-Served Clercks: 0
-
-
-Customer Name: Customer143
-Customer Arriving Time: 12:02
-Customer Service Time: 12:02
-Customer Wait Time: 0
-Customer Process Time: 15
+Customer Name: Customer10
+Customer Arriving Time: 09:56
+Customer Service Time: 10:19
+Customer Wait Time: 23
+Customer Process Time: 14
 Served Clercks: 1
 
 
 Customer Name: Customer124
-Customer Arriving Time: 12:11
-Customer Service Time: 12:11
-Customer Wait Time: 0
-Customer Process Time: 6
-Served Clercks: 2
-
-
-Customer Name: Customer172
-Customer Arriving Time: 12:14
-Customer Service Time: 12:14
-Customer Wait Time: 0
-Customer Process Time: 14
-Served Clercks: 3
-
-
-Customer Name: Customer114
-Customer Arriving Time: 12:15
-Customer Service Time: 12:15
-Customer Wait Time: 0
-Customer Process Time: 8
-Served Clercks: 4
-
-
-Customer Name: Customer64
-Customer Arriving Time: 12:16
-Customer Service Time: 12:16
-Customer Wait Time: 0
-Customer Process Time: 6
-Served Clercks: 0
-
-
-Customer Name: Customer154
-Customer Arriving Time: 12:18
-Customer Service Time: 12:18
-Customer Wait Time: 0
-Customer Process Time: 10
-Served Clercks: 1
-
-
-Customer Name: Customer169
-Customer Arriving Time: 12:19
-Customer Service Time: 12:19
-Customer Wait Time: 0
-Customer Process Time: 5
-Served Clercks: 2
-
-
-Customer Name: Customer60
-Customer Arriving Time: 12:21
-Customer Service Time: 12:21
-Customer Wait Time: 0
-Customer Process Time: 5
-Served Clercks: 5
-
-
-Customer Name: Customer146
-Customer Arriving Time: 12:21
-Customer Service Time: 12:21
-Customer Wait Time: 0
-Customer Process Time: 12
-Served Clercks: 6
-
-
-Customer Name: Customer88
-Customer Arriving Time: 12:24
-Customer Service Time: 12:24
-Customer Wait Time: 0
-Customer Process Time: 11
-Served Clercks: 0
-
-
-Customer Name: Customer177
-Customer Arriving Time: 12:30
-Customer Service Time: 12:30
-Customer Wait Time: 0
-Customer Process Time: 9
-Served Clercks: 1
-
-
-Customer Name: Customer74
-Customer Arriving Time: 12:31
-Customer Service Time: 12:31
-Customer Wait Time: 0
-Customer Process Time: 14
-Served Clercks: 2
-
-
-Customer Name: Customer49
-Customer Arriving Time: 12:32
-Customer Service Time: 12:32
-Customer Wait Time: 0
-Customer Process Time: 13
-Served Clercks: 3
-
-
-Customer Name: Customer79
-Customer Arriving Time: 12:32
-Customer Service Time: 12:32
-Customer Wait Time: 0
-Customer Process Time: 14
-Served Clercks: 4
-
-
-Customer Name: Customer57
-Customer Arriving Time: 12:33
-Customer Service Time: 12:33
-Customer Wait Time: 0
-Customer Process Time: 12
-Served Clercks: 5
-
-
-Customer Name: Customer54
-Customer Arriving Time: 12:38
-Customer Service Time: 12:38
-Customer Wait Time: 0
-Customer Process Time: 13
-Served Clercks: 0
-
-
-Customer Name: Customer85
-Customer Arriving Time: 12:45
-Customer Service Time: 12:45
-Customer Wait Time: 0
-Customer Process Time: 5
-Served Clercks: 1
-
-
-Customer Name: Customer106
-Customer Arriving Time: 12:47
-Customer Service Time: 12:47
-Customer Wait Time: 0
-Customer Process Time: 8
-Served Clercks: 2
-
-
-Customer Name: Customer156
-Customer Arriving Time: 12:47
-Customer Service Time: 12:47
-Customer Wait Time: 0
-Customer Process Time: 7
-Served Clercks: 3
-
-
-Customer Name: Customer198
-Customer Arriving Time: 12:47
-Customer Service Time: 12:47
-Customer Wait Time: 0
-Customer Process Time: 5
-Served Clercks: 4
-
-
-Customer Name: Customer70
-Customer Arriving Time: 12:50
-Customer Service Time: 12:50
-Customer Wait Time: 0
-Customer Process Time: 13
-Served Clercks: 1
-
-
-Customer Name: Customer63
-Customer Arriving Time: 12:56
-Customer Service Time: 12:56
-Customer Wait Time: 0
-Customer Process Time: 10
-Served Clercks: 0
-
-
-Customer Name: Customer110
-Customer Arriving Time: 12:56
-Customer Service Time: 12:56
-Customer Wait Time: 0
-Customer Process Time: 10
-Served Clercks: 2
-
-
-Customer Name: Customer132
-Customer Arriving Time: 12:56
-Customer Service Time: 12:56
-Customer Wait Time: 0
-Customer Process Time: 6
-Served Clercks: 3
-
-
-Customer Name: Customer84
-Customer Arriving Time: 12:58
-Customer Service Time: 12:58
-Customer Wait Time: 0
-Customer Process Time: 12
-Served Clercks: 4
-
-
-Customer Name: Customer119
-Customer Arriving Time: 12:58
-Customer Service Time: 12:58
-Customer Wait Time: 0
-Customer Process Time: 5
-Served Clercks: 5
-
-
-Customer Name: Customer133
-Customer Arriving Time: 12:58
-Customer Service Time: 12:58
-Customer Wait Time: 0
-Customer Process Time: 12
-Served Clercks: 6
-
-
-Customer Name: Customer197
-Customer Arriving Time: 12:59
-Customer Service Time: 13:02
-Customer Wait Time: 3
-Customer Process Time: 7
-Served Clercks: 3
-
-
-Customer Name: Customer100
-Customer Arriving Time: 13:01
-Customer Service Time: 13:03
-Customer Wait Time: 2
-Customer Process Time: 8
-Served Clercks: 1
-
-
-Customer Name: Customer43
-Customer Arriving Time: 13:02
-Customer Service Time: 13:03
-Customer Wait Time: 1
-Customer Process Time: 11
-Served Clercks: 5
-
-
-Customer Name: Customer125
-Customer Arriving Time: 13:02
-Customer Service Time: 13:06
-Customer Wait Time: 4
-Customer Process Time: 12
-Served Clercks: 0
-
-
-Customer Name: Customer111
-Customer Arriving Time: 13:03
-Customer Service Time: 13:06
-Customer Wait Time: 3
-Customer Process Time: 14
-Served Clercks: 2
-
-
-Customer Name: Customer14
-Customer Arriving Time: 13:05
-Customer Service Time: 13:09
-Customer Wait Time: 4
+Customer Arriving Time: 09:56
+Customer Service Time: 10:19
+Customer Wait Time: 23
 Customer Process Time: 15
 Served Clercks: 3
 
 
-Customer Name: Customer50
-Customer Arriving Time: 13:05
-Customer Service Time: 13:10
-Customer Wait Time: 5
-Customer Process Time: 7
-Served Clercks: 4
-
-
-Customer Name: Customer86
-Customer Arriving Time: 13:06
-Customer Service Time: 13:10
-Customer Wait Time: 4
-Customer Process Time: 5
-Served Clercks: 6
-
-
-Customer Name: Customer78
-Customer Arriving Time: 13:10
-Customer Service Time: 13:11
-Customer Wait Time: 1
-Customer Process Time: 6
-Served Clercks: 1
-
-
-Customer Name: Customer127
-Customer Arriving Time: 13:11
-Customer Service Time: 13:14
-Customer Wait Time: 3
-Customer Process Time: 14
-Served Clercks: 5
-
-
-Customer Name: Customer13
-Customer Arriving Time: 13:12
-Customer Service Time: 13:15
-Customer Wait Time: 3
-Customer Process Time: 13
-Served Clercks: 6
-
-
-Customer Name: Customer81
-Customer Arriving Time: 13:12
-Customer Service Time: 13:17
-Customer Wait Time: 5
-Customer Process Time: 13
-Served Clercks: 1
-
-
-Customer Name: Customer31
-Customer Arriving Time: 13:14
-Customer Service Time: 13:17
-Customer Wait Time: 3
-Customer Process Time: 14
-Served Clercks: 4
-
-
-Customer Name: Customer152
-Customer Arriving Time: 13:14
-Customer Service Time: 13:18
-Customer Wait Time: 4
+Customer Name: Customer109
+Customer Arriving Time: 10:01
+Customer Service Time: 10:20
+Customer Wait Time: 19
 Customer Process Time: 10
 Served Clercks: 0
 
 
-Customer Name: Customer32
-Customer Arriving Time: 13:15
-Customer Service Time: 13:20
-Customer Wait Time: 5
+Customer Name: Customer164
+Customer Arriving Time: 10:07
+Customer Service Time: 10:20
+Customer Wait Time: 13
+Customer Process Time: 14
+Served Clercks: 4
+
+
+Customer Name: Customer176
+Customer Arriving Time: 10:08
+Customer Service Time: 10:24
+Customer Wait Time: 16
 Customer Process Time: 12
 Served Clercks: 2
 
 
-Customer Name: Customer122
-Customer Arriving Time: 13:15
-Customer Service Time: 13:24
-Customer Wait Time: 9
-Customer Process Time: 11
-Served Clercks: 3
-
-
-Customer Name: Customer170
-Customer Arriving Time: 13:16
-Customer Service Time: 13:28
-Customer Wait Time: 12
-Customer Process Time: 11
-Served Clercks: 0
-
-
-Customer Name: Customer142
-Customer Arriving Time: 13:18
-Customer Service Time: 13:28
-Customer Wait Time: 10
-Customer Process Time: 9
-Served Clercks: 5
-
-
-Customer Name: Customer69
-Customer Arriving Time: 13:19
-Customer Service Time: 13:28
-Customer Wait Time: 9
-Customer Process Time: 6
-Served Clercks: 6
-
-
-Customer Name: Customer140
-Customer Arriving Time: 13:19
-Customer Service Time: 13:30
-Customer Wait Time: 11
-Customer Process Time: 13
-Served Clercks: 1
-
-
-Customer Name: Customer91
-Customer Arriving Time: 13:20
-Customer Service Time: 13:31
-Customer Wait Time: 11
-Customer Process Time: 9
-Served Clercks: 4
-
-
-Customer Name: Customer62
-Customer Arriving Time: 13:24
-Customer Service Time: 13:32
-Customer Wait Time: 8
-Customer Process Time: 13
-Served Clercks: 2
-
-
-Customer Name: Customer2
-Customer Arriving Time: 13:25
-Customer Service Time: 13:34
-Customer Wait Time: 9
-Customer Process Time: 9
-Served Clercks: 6
-
-
-Customer Name: Customer16
-Customer Arriving Time: 13:27
-Customer Service Time: 13:35
-Customer Wait Time: 8
-Customer Process Time: 5
-Served Clercks: 3
-
-
-Customer Name: Customer96
-Customer Arriving Time: 13:29
-Customer Service Time: 13:37
-Customer Wait Time: 8
-Customer Process Time: 6
-Served Clercks: 5
-
-
-Customer Name: Customer5
-Customer Arriving Time: 13:30
-Customer Service Time: 13:39
-Customer Wait Time: 9
-Customer Process Time: 6
-Served Clercks: 0
-
-
-Customer Name: Customer120
-Customer Arriving Time: 13:30
-Customer Service Time: 13:40
-Customer Wait Time: 10
-Customer Process Time: 5
-Served Clercks: 3
-
-
-Customer Name: Customer141
-Customer Arriving Time: 13:30
-Customer Service Time: 13:40
-Customer Wait Time: 10
-Customer Process Time: 12
-Served Clercks: 4
-
-
-Customer Name: Customer136
-Customer Arriving Time: 13:31
-Customer Service Time: 13:43
-Customer Wait Time: 12
-Customer Process Time: 8
-Served Clercks: 1
-
-
-Customer Name: Customer148
-Customer Arriving Time: 13:33
-Customer Service Time: 13:43
-Customer Wait Time: 10
-Customer Process Time: 5
-Served Clercks: 5
-
-
-Customer Name: Customer94
-Customer Arriving Time: 13:35
-Customer Service Time: 13:43
-Customer Wait Time: 8
-Customer Process Time: 14
-Served Clercks: 6
-
-
-Customer Name: Customer138
-Customer Arriving Time: 13:36
-Customer Service Time: 13:45
-Customer Wait Time: 9
-Customer Process Time: 14
-Served Clercks: 0
-
-
-Customer Name: Customer61
-Customer Arriving Time: 13:37
-Customer Service Time: 13:45
-Customer Wait Time: 8
-Customer Process Time: 14
-Served Clercks: 2
-
-
-Customer Name: Customer196
-Customer Arriving Time: 13:37
-Customer Service Time: 13:45
-Customer Wait Time: 8
-Customer Process Time: 13
-Served Clercks: 3
-
-
-Customer Name: Customer87
-Customer Arriving Time: 13:38
-Customer Service Time: 13:48
-Customer Wait Time: 10
-Customer Process Time: 9
-Served Clercks: 5
-
-
-Customer Name: Customer59
-Customer Arriving Time: 13:39
-Customer Service Time: 13:51
-Customer Wait Time: 12
-Customer Process Time: 7
-Served Clercks: 1
-
-
-Customer Name: Customer149
-Customer Arriving Time: 12:01
-Customer Service Time: 12:01
-Customer Wait Time: 0
+Customer Name: Customer101
+Customer Arriving Time: 10:09
+Customer Service Time: 10:30
+Customer Wait Time: 21
 Customer Process Time: 8
 Served Clercks: 0
 
 
 Customer Name: Customer46
-Customer Arriving Time: 12:02
-Customer Service Time: 12:02
-Customer Wait Time: 0
+Customer Arriving Time: 10:12
+Customer Service Time: 10:33
+Customer Wait Time: 21
+Customer Process Time: 7
+Served Clercks: 1
+
+
+Customer Name: Customer153
+Customer Arriving Time: 10:12
+Customer Service Time: 10:34
+Customer Wait Time: 22
+Customer Process Time: 9
+Served Clercks: 3
+
+
+Customer Name: Customer88
+Customer Arriving Time: 10:13
+Customer Service Time: 10:34
+Customer Wait Time: 21
+Customer Process Time: 11
+Served Clercks: 4
+
+
+Customer Name: Customer170
+Customer Arriving Time: 10:13
+Customer Service Time: 10:36
+Customer Wait Time: 23
+Customer Process Time: 9
+Served Clercks: 2
+
+
+Customer Name: Customer58
+Customer Arriving Time: 10:15
+Customer Service Time: 10:38
+Customer Wait Time: 23
+Customer Process Time: 5
+Served Clercks: 0
+
+
+Customer Name: Customer72
+Customer Arriving Time: 10:15
+Customer Service Time: 10:40
+Customer Wait Time: 25
+Customer Process Time: 7
+Served Clercks: 1
+
+
+Customer Name: Customer131
+Customer Arriving Time: 10:19
+Customer Service Time: 10:43
+Customer Wait Time: 24
+Customer Process Time: 5
+Served Clercks: 0
+
+
+Customer Name: Customer6
+Customer Arriving Time: 10:20
+Customer Service Time: 10:43
+Customer Wait Time: 23
+Customer Process Time: 7
+Served Clercks: 3
+
+
+Customer Name: Customer174
+Customer Arriving Time: 10:20
+Customer Service Time: 10:45
+Customer Wait Time: 25
+Customer Process Time: 12
+Served Clercks: 2
+
+
+Customer Name: Customer90
+Customer Arriving Time: 10:24
+Customer Service Time: 10:45
+Customer Wait Time: 21
+Customer Process Time: 9
+Served Clercks: 4
+
+
+Customer Name: Customer180
+Customer Arriving Time: 10:24
+Customer Service Time: 10:47
+Customer Wait Time: 23
+Customer Process Time: 5
+Served Clercks: 1
+
+
+Customer Name: Customer59
+Customer Arriving Time: 10:26
+Customer Service Time: 10:48
+Customer Wait Time: 22
+Customer Process Time: 14
+Served Clercks: 0
+
+
+Customer Name: Customer128
+Customer Arriving Time: 10:30
+Customer Service Time: 10:50
+Customer Wait Time: 20
+Customer Process Time: 13
+Served Clercks: 3
+
+
+Customer Name: Customer171
+Customer Arriving Time: 10:32
+Customer Service Time: 10:52
+Customer Wait Time: 20
 Customer Process Time: 6
 Served Clercks: 1
 
 
-Customer Name: Customer48
-Customer Arriving Time: 12:05
-Customer Service Time: 12:05
-Customer Wait Time: 0
-Customer Process Time: 5
+Customer Name: Customer95
+Customer Arriving Time: 10:33
+Customer Service Time: 10:54
+Customer Wait Time: 21
+Customer Process Time: 11
+Served Clercks: 4
+
+
+Customer Name: Customer61
+Customer Arriving Time: 10:35
+Customer Service Time: 10:57
+Customer Wait Time: 22
+Customer Process Time: 8
 Served Clercks: 2
 
 
-Customer Name: Customer115
-Customer Arriving Time: 12:06
-Customer Service Time: 12:06
+Customer Name: Customer163
+Customer Arriving Time: 10:36
+Customer Service Time: 10:58
+Customer Wait Time: 22
+Customer Process Time: 7
+Served Clercks: 1
+
+
+Customer Name: Customer138
+Customer Arriving Time: 10:37
+Customer Service Time: 11:02
+Customer Wait Time: 25
+Customer Process Time: 15
+Served Clercks: 0
+
+
+Customer Name: Customer68
+Customer Arriving Time: 09:00
+Customer Service Time: 09:00
 Customer Wait Time: 0
+Customer Process Time: 7
+Served Clercks: 0
+
+
+Customer Name: Customer73
+Customer Arriving Time: 09:00
+Customer Service Time: 09:00
+Customer Wait Time: 0
+Customer Process Time: 14
+Served Clercks: 1
+
+
+Customer Name: Customer44
+Customer Arriving Time: 09:01
+Customer Service Time: 09:01
+Customer Wait Time: 0
+Customer Process Time: 12
+Served Clercks: 2
+
+
+Customer Name: Customer65
+Customer Arriving Time: 09:02
+Customer Service Time: 09:02
+Customer Wait Time: 0
+Customer Process Time: 9
+Served Clercks: 3
+
+
+Customer Name: Customer83
+Customer Arriving Time: 09:02
+Customer Service Time: 09:02
+Customer Wait Time: 0
+Customer Process Time: 7
+Served Clercks: 4
+
+
+Customer Name: Customer151
+Customer Arriving Time: 09:02
+Customer Service Time: 09:07
+Customer Wait Time: 5
+Customer Process Time: 15
+Served Clercks: 0
+
+
+Customer Name: Customer195
+Customer Arriving Time: 09:03
+Customer Service Time: 09:09
+Customer Wait Time: 6
+Customer Process Time: 10
+Served Clercks: 4
+
+
+Customer Name: Customer26
+Customer Arriving Time: 09:06
+Customer Service Time: 09:11
+Customer Wait Time: 5
+Customer Process Time: 13
+Served Clercks: 3
+
+
+Customer Name: Customer130
+Customer Arriving Time: 09:08
+Customer Service Time: 09:13
+Customer Wait Time: 5
+Customer Process Time: 7
+Served Clercks: 2
+
+
+Customer Name: Customer36
+Customer Arriving Time: 09:09
+Customer Service Time: 09:14
+Customer Wait Time: 5
+Customer Process Time: 11
+Served Clercks: 1
+
+
+Customer Name: Customer67
+Customer Arriving Time: 09:09
+Customer Service Time: 09:19
+Customer Wait Time: 10
+Customer Process Time: 10
+Served Clercks: 4
+
+
+Customer Name: Customer178
+Customer Arriving Time: 09:09
+Customer Service Time: 09:20
+Customer Wait Time: 11
+Customer Process Time: 11
+Served Clercks: 2
+
+
+Customer Name: Customer13
+Customer Arriving Time: 09:11
+Customer Service Time: 09:22
+Customer Wait Time: 11
+Customer Process Time: 13
+Served Clercks: 0
+
+
+Customer Name: Customer79
+Customer Arriving Time: 09:11
+Customer Service Time: 09:24
+Customer Wait Time: 13
 Customer Process Time: 10
 Served Clercks: 3
 
 
-Customer Name: Customer180
-Customer Arriving Time: 12:06
-Customer Service Time: 12:06
-Customer Wait Time: 0
-Customer Process Time: 12
-Served Clercks: 4
-
-
-Customer Name: Customer165
-Customer Arriving Time: 12:08
-Customer Service Time: 12:08
-Customer Wait Time: 0
-Customer Process Time: 6
-Served Clercks: 1
-
-
-Customer Name: Customer155
-Customer Arriving Time: 12:09
-Customer Service Time: 12:09
-Customer Wait Time: 0
-Customer Process Time: 6
-Served Clercks: 0
-
-
-Customer Name: Customer82
-Customer Arriving Time: 12:10
-Customer Service Time: 12:10
-Customer Wait Time: 0
-Customer Process Time: 13
-Served Clercks: 2
-
-
-Customer Name: Customer147
-Customer Arriving Time: 12:10
-Customer Service Time: 12:10
-Customer Wait Time: 0
-Customer Process Time: 9
-Served Clercks: 5
-
-
-Customer Name: Customer185
-Customer Arriving Time: 12:13
-Customer Service Time: 12:14
-Customer Wait Time: 1
-Customer Process Time: 6
-Served Clercks: 1
-
-
-Customer Name: Customer109
-Customer Arriving Time: 12:14
-Customer Service Time: 12:15
-Customer Wait Time: 1
-Customer Process Time: 11
-Served Clercks: 0
-
-
-Customer Name: Customer21
-Customer Arriving Time: 12:18
-Customer Service Time: 12:18
-Customer Wait Time: 0
-Customer Process Time: 9
-Served Clercks: 3
-
-
-Customer Name: Customer97
-Customer Arriving Time: 12:22
-Customer Service Time: 12:22
-Customer Wait Time: 0
-Customer Process Time: 12
-Served Clercks: 1
-
-
-Customer Name: Customer55
-Customer Arriving Time: 12:24
-Customer Service Time: 12:24
-Customer Wait Time: 0
-Customer Process Time: 5
-Served Clercks: 2
-
-
-Customer Name: Customer95
-Customer Arriving Time: 12:27
-Customer Service Time: 12:27
-Customer Wait Time: 0
-Customer Process Time: 7
-Served Clercks: 0
-
-
-Customer Name: Customer102
-Customer Arriving Time: 12:28
-Customer Service Time: 12:28
-Customer Wait Time: 0
-Customer Process Time: 14
-Served Clercks: 3
-
-
-Customer Name: Customer139
-Customer Arriving Time: 12:28
-Customer Service Time: 12:28
-Customer Wait Time: 0
-Customer Process Time: 7
-Served Clercks: 4
-
-
-Customer Name: Customer175
-Customer Arriving Time: 12:28
-Customer Service Time: 12:28
-Customer Wait Time: 0
-Customer Process Time: 8
-Served Clercks: 5
-
-
-Customer Name: Customer22
-Customer Arriving Time: 12:29
-Customer Service Time: 12:29
-Customer Wait Time: 0
-Customer Process Time: 9
-Served Clercks: 2
-
-
-Customer Name: Customer159
-Customer Arriving Time: 12:29
-Customer Service Time: 12:34
-Customer Wait Time: 5
-Customer Process Time: 13
-Served Clercks: 0
-
-
-Customer Name: Customer93
-Customer Arriving Time: 12:30
-Customer Service Time: 12:34
-Customer Wait Time: 4
-Customer Process Time: 5
-Served Clercks: 1
-
-
-Customer Name: Customer68
-Customer Arriving Time: 12:31
-Customer Service Time: 12:35
-Customer Wait Time: 4
-Customer Process Time: 15
-Served Clercks: 4
-
-
-Customer Name: Customer71
-Customer Arriving Time: 12:31
-Customer Service Time: 12:36
-Customer Wait Time: 5
-Customer Process Time: 14
-Served Clercks: 5
-
-
-Customer Name: Customer179
-Customer Arriving Time: 12:33
-Customer Service Time: 12:38
-Customer Wait Time: 5
-Customer Process Time: 9
-Served Clercks: 2
-
-
-Customer Name: Customer195
-Customer Arriving Time: 12:34
-Customer Service Time: 12:39
-Customer Wait Time: 5
+Customer Name: Customer14
+Customer Arriving Time: 09:14
+Customer Service Time: 09:25
+Customer Wait Time: 11
 Customer Process Time: 11
 Served Clercks: 1
 
 
-Customer Name: Customer6
-Customer Arriving Time: 12:35
-Customer Service Time: 12:42
-Customer Wait Time: 7
+Customer Name: Customer64
+Customer Arriving Time: 09:17
+Customer Service Time: 09:29
+Customer Wait Time: 12
+Customer Process Time: 11
+Served Clercks: 4
+
+
+Customer Name: Customer78
+Customer Arriving Time: 09:17
+Customer Service Time: 09:31
+Customer Wait Time: 14
+Customer Process Time: 12
+Served Clercks: 2
+
+
+Customer Name: Customer23
+Customer Arriving Time: 09:26
+Customer Service Time: 09:34
+Customer Wait Time: 8
 Customer Process Time: 9
 Served Clercks: 3
 
 
-Customer Name: Customer38
-Customer Arriving Time: 12:35
-Customer Service Time: 12:47
+Customer Name: Customer199
+Customer Arriving Time: 09:27
+Customer Service Time: 09:35
+Customer Wait Time: 8
+Customer Process Time: 5
+Served Clercks: 0
+
+
+Customer Name: Customer1
+Customer Arriving Time: 09:28
+Customer Service Time: 09:36
+Customer Wait Time: 8
+Customer Process Time: 14
+Served Clercks: 1
+
+
+Customer Name: Customer19
+Customer Arriving Time: 09:28
+Customer Service Time: 09:40
 Customer Wait Time: 12
 Customer Process Time: 13
 Served Clercks: 0
 
 
-Customer Name: Customer66
-Customer Arriving Time: 12:39
-Customer Service Time: 12:47
-Customer Wait Time: 8
-Customer Process Time: 15
-Served Clercks: 2
-
-
-Customer Name: Customer168
-Customer Arriving Time: 12:41
-Customer Service Time: 12:50
-Customer Wait Time: 9
-Customer Process Time: 13
-Served Clercks: 1
-
-
-Customer Name: Customer7
-Customer Arriving Time: 12:42
-Customer Service Time: 12:50
-Customer Wait Time: 8
-Customer Process Time: 15
+Customer Name: Customer76
+Customer Arriving Time: 09:28
+Customer Service Time: 09:40
+Customer Wait Time: 12
+Customer Process Time: 11
 Served Clercks: 4
 
 
-Customer Name: Customer9
-Customer Arriving Time: 12:43
-Customer Service Time: 12:50
-Customer Wait Time: 7
+Customer Name: Customer184
+Customer Arriving Time: 09:30
+Customer Service Time: 09:43
+Customer Wait Time: 13
+Customer Process Time: 8
+Served Clercks: 2
+
+
+Customer Name: Customer96
+Customer Arriving Time: 09:31
+Customer Service Time: 09:43
+Customer Wait Time: 12
+Customer Process Time: 6
+Served Clercks: 3
+
+
+Customer Name: Customer20
+Customer Arriving Time: 09:33
+Customer Service Time: 09:49
+Customer Wait Time: 16
+Customer Process Time: 13
+Served Clercks: 3
+
+
+Customer Name: Customer56
+Customer Arriving Time: 09:33
+Customer Service Time: 09:50
+Customer Wait Time: 17
 Customer Process Time: 10
-Served Clercks: 5
+Served Clercks: 1
 
 
-Customer Name: Customer107
-Customer Arriving Time: 12:44
-Customer Service Time: 12:51
-Customer Wait Time: 7
+Customer Name: Customer97
+Customer Arriving Time: 09:33
+Customer Service Time: 09:51
+Customer Wait Time: 18
+Customer Process Time: 8
+Served Clercks: 2
+
+
+Customer Name: Customer4
+Customer Arriving Time: 09:38
+Customer Service Time: 09:51
+Customer Wait Time: 13
+Customer Process Time: 9
+Served Clercks: 4
+
+
+Customer Name: Customer37
+Customer Arriving Time: 09:38
+Customer Service Time: 09:53
+Customer Wait Time: 15
+Customer Process Time: 10
+Served Clercks: 0
+
+
+Customer Name: Customer192
+Customer Arriving Time: 09:40
+Customer Service Time: 09:59
+Customer Wait Time: 19
+Customer Process Time: 9
+Served Clercks: 2
+
+
+Customer Name: Customer18
+Customer Arriving Time: 09:41
+Customer Service Time: 10:00
+Customer Wait Time: 19
+Customer Process Time: 14
+Served Clercks: 1
+
+
+Customer Name: Customer133
+Customer Arriving Time: 09:41
+Customer Service Time: 10:00
+Customer Wait Time: 19
+Customer Process Time: 10
+Served Clercks: 4
+
+
+Customer Name: Customer93
+Customer Arriving Time: 09:47
+Customer Service Time: 10:02
+Customer Wait Time: 15
 Customer Process Time: 15
 Served Clercks: 3
 
 
-Customer Name: Customer190
-Customer Arriving Time: 12:44
-Customer Service Time: 13:00
-Customer Wait Time: 16
-Customer Process Time: 12
+Customer Name: Customer17
+Customer Arriving Time: 09:52
+Customer Service Time: 10:03
+Customer Wait Time: 11
+Customer Process Time: 13
 Served Clercks: 0
 
 
-Customer Name: Customer56
-Customer Arriving Time: 12:46
-Customer Service Time: 13:00
-Customer Wait Time: 14
+Customer Name: Customer49
+Customer Arriving Time: 09:55
+Customer Service Time: 10:08
+Customer Wait Time: 13
 Customer Process Time: 5
-Served Clercks: 5
+Served Clercks: 2
 
 
-Customer Name: Customer17
-Customer Arriving Time: 12:47
-Customer Service Time: 13:02
+Customer Name: Customer149
+Customer Arriving Time: 09:55
+Customer Service Time: 10:10
 Customer Wait Time: 15
+Customer Process Time: 7
+Served Clercks: 4
+
+
+Customer Name: Customer117
+Customer Arriving Time: 10:00
+Customer Service Time: 10:13
+Customer Wait Time: 13
+Customer Process Time: 6
+Served Clercks: 2
+
+
+Customer Name: Customer53
+Customer Arriving Time: 10:01
+Customer Service Time: 10:14
+Customer Wait Time: 13
+Customer Process Time: 5
+Served Clercks: 1
+
+
+Customer Name: Customer41
+Customer Arriving Time: 10:02
+Customer Service Time: 10:16
+Customer Wait Time: 14
+Customer Process Time: 13
+Served Clercks: 0
+
+
+Customer Name: Customer200
+Customer Arriving Time: 10:03
+Customer Service Time: 10:17
+Customer Wait Time: 14
+Customer Process Time: 14
+Served Clercks: 3
+
+
+Customer Name: Customer196
+Customer Arriving Time: 10:05
+Customer Service Time: 10:17
+Customer Wait Time: 12
+Customer Process Time: 6
+Served Clercks: 4
+
+
+Customer Name: Customer84
+Customer Arriving Time: 10:06
+Customer Service Time: 10:19
+Customer Wait Time: 13
+Customer Process Time: 15
+Served Clercks: 1
+
+
+Customer Name: Customer45
+Customer Arriving Time: 10:07
+Customer Service Time: 10:19
+Customer Wait Time: 12
+Customer Process Time: 12
+Served Clercks: 2
+
+
+Customer Name: Customer111
+Customer Arriving Time: 10:10
+Customer Service Time: 10:23
+Customer Wait Time: 13
+Customer Process Time: 7
+Served Clercks: 4
+
+
+Customer Name: Customer147
+Customer Arriving Time: 10:10
+Customer Service Time: 10:29
+Customer Wait Time: 19
+Customer Process Time: 15
+Served Clercks: 0
+
+
+Customer Name: Customer63
+Customer Arriving Time: 10:11
+Customer Service Time: 10:30
+Customer Wait Time: 19
+Customer Process Time: 12
+Served Clercks: 4
+
+
+Customer Name: Customer182
+Customer Arriving Time: 10:13
+Customer Service Time: 10:31
+Customer Wait Time: 18
+Customer Process Time: 14
+Served Clercks: 2
+
+
+Customer Name: Customer106
+Customer Arriving Time: 10:14
+Customer Service Time: 10:31
+Customer Wait Time: 17
+Customer Process Time: 5
+Served Clercks: 3
+
+
+Customer Name: Customer57
+Customer Arriving Time: 10:15
+Customer Service Time: 10:34
+Customer Wait Time: 19
+Customer Process Time: 12
+Served Clercks: 1
+
+
+Customer Name: Customer123
+Customer Arriving Time: 10:15
+Customer Service Time: 10:36
+Customer Wait Time: 21
+Customer Process Time: 8
+Served Clercks: 3
+
+
+Customer Name: Customer39
+Customer Arriving Time: 10:17
+Customer Service Time: 10:42
+Customer Wait Time: 25
+Customer Process Time: 12
+Served Clercks: 4
+
+
+Customer Name: Customer99
+Customer Arriving Time: 10:18
+Customer Service Time: 10:44
+Customer Wait Time: 26
+Customer Process Time: 13
+Served Clercks: 0
+
+
+Customer Name: Customer22
+Customer Arriving Time: 10:19
+Customer Service Time: 10:44
+Customer Wait Time: 25
+Customer Process Time: 14
+Served Clercks: 3
+
+
+Customer Name: Customer162
+Customer Arriving Time: 10:19
+Customer Service Time: 10:45
+Customer Wait Time: 26
+Customer Process Time: 7
+Served Clercks: 2
+
+
+Customer Name: Customer66
+Customer Arriving Time: 10:20
+Customer Service Time: 10:46
+Customer Wait Time: 26
+Customer Process Time: 9
+Served Clercks: 1
+
+
+Customer Name: Customer156
+Customer Arriving Time: 10:20
+Customer Service Time: 10:52
+Customer Wait Time: 32
+Customer Process Time: 7
+Served Clercks: 2
+
+
+Customer Name: Customer132
+Customer Arriving Time: 10:22
+Customer Service Time: 10:54
+Customer Wait Time: 32
+Customer Process Time: 11
+Served Clercks: 4
+
+
+Customer Name: Customer157
+Customer Arriving Time: 10:24
+Customer Service Time: 10:55
+Customer Wait Time: 31
+Customer Process Time: 8
+Served Clercks: 1
+
+
+Customer Name: Customer126
+Customer Arriving Time: 10:25
+Customer Service Time: 10:57
+Customer Wait Time: 32
+Customer Process Time: 8
+Served Clercks: 0
+
+
+Customer Name: Customer185
+Customer Arriving Time: 10:29
+Customer Service Time: 10:58
+Customer Wait Time: 29
+Customer Process Time: 9
+Served Clercks: 3
+
+
+Customer Name: Customer80
+Customer Arriving Time: 10:31
+Customer Service Time: 10:59
+Customer Wait Time: 28
 Customer Process Time: 11
 Served Clercks: 2
 
 
-Customer Name: Customer112
-Customer Arriving Time: 12:50
-Customer Service Time: 13:03
+Customer Name: Customer82
+Customer Arriving Time: 10:32
+Customer Service Time: 11:03
+Customer Wait Time: 31
+Customer Process Time: 15
+Served Clercks: 1
+
+
+Customer Name: Customer165
+Customer Arriving Time: 10:32
+Customer Service Time: 11:05
+Customer Wait Time: 33
+Customer Process Time: 11
+Served Clercks: 0
+
+
+Customer Name: Customer50
+Customer Arriving Time: 10:33
+Customer Service Time: 11:05
+Customer Wait Time: 32
+Customer Process Time: 10
+Served Clercks: 4
+
+
+Customer Name: Customer142
+Customer Arriving Time: 10:34
+Customer Service Time: 11:07
+Customer Wait Time: 33
+Customer Process Time: 10
+Served Clercks: 3
+
+
+Customer Name: Customer100
+Customer Arriving Time: 10:35
+Customer Service Time: 11:10
+Customer Wait Time: 35
+Customer Process Time: 7
+Served Clercks: 2
+
+
+Customer Name: Customer103
+Customer Arriving Time: 10:35
+Customer Service Time: 11:15
+Customer Wait Time: 40
+Customer Process Time: 8
+Served Clercks: 4
+
+
+Customer Name: Customer35
+Customer Arriving Time: 10:37
+Customer Service Time: 11:16
+Customer Wait Time: 39
+Customer Process Time: 5
+Served Clercks: 0
+
+
+Customer Name: Customer42
+Customer Arriving Time: 10:37
+Customer Service Time: 11:17
+Customer Wait Time: 40
+Customer Process Time: 11
+Served Clercks: 2
+
+
+Customer Name: Customer55
+Customer Arriving Time: 10:39
+Customer Service Time: 11:17
+Customer Wait Time: 38
+Customer Process Time: 9
+Served Clercks: 3
+
+
+Customer Name: Customer87
+Customer Arriving Time: 09:01
+Customer Service Time: 09:01
+Customer Wait Time: 0
+Customer Process Time: 13
+Served Clercks: 0
+
+
+Customer Name: Customer86
+Customer Arriving Time: 09:03
+Customer Service Time: 09:03
+Customer Wait Time: 0
+Customer Process Time: 5
+Served Clercks: 1
+
+
+Customer Name: Customer69
+Customer Arriving Time: 09:04
+Customer Service Time: 09:04
+Customer Wait Time: 0
+Customer Process Time: 13
+Served Clercks: 2
+
+
+Customer Name: Customer52
+Customer Arriving Time: 09:05
+Customer Service Time: 09:05
+Customer Wait Time: 0
+Customer Process Time: 6
+Served Clercks: 3
+
+
+Customer Name: Customer91
+Customer Arriving Time: 09:05
+Customer Service Time: 09:05
+Customer Wait Time: 0
+Customer Process Time: 14
+Served Clercks: 4
+
+
+Customer Name: Customer105
+Customer Arriving Time: 09:06
+Customer Service Time: 09:06
+Customer Wait Time: 0
+Customer Process Time: 9
+Served Clercks: 5
+
+
+Customer Name: Customer121
+Customer Arriving Time: 09:06
+Customer Service Time: 09:08
+Customer Wait Time: 2
+Customer Process Time: 5
+Served Clercks: 1
+
+
+Customer Name: Customer175
+Customer Arriving Time: 09:07
+Customer Service Time: 09:11
+Customer Wait Time: 4
+Customer Process Time: 13
+Served Clercks: 3
+
+
+Customer Name: Customer179
+Customer Arriving Time: 09:08
+Customer Service Time: 09:13
+Customer Wait Time: 5
+Customer Process Time: 14
+Served Clercks: 1
+
+
+Customer Name: Customer134
+Customer Arriving Time: 09:09
+Customer Service Time: 09:14
+Customer Wait Time: 5
+Customer Process Time: 7
+Served Clercks: 0
+
+
+Customer Name: Customer115
+Customer Arriving Time: 09:10
+Customer Service Time: 09:15
+Customer Wait Time: 5
+Customer Process Time: 14
+Served Clercks: 5
+
+
+Customer Name: Customer167
+Customer Arriving Time: 09:11
+Customer Service Time: 09:17
+Customer Wait Time: 6
+Customer Process Time: 12
+Served Clercks: 2
+
+
+Customer Name: Customer28
+Customer Arriving Time: 09:13
+Customer Service Time: 09:19
+Customer Wait Time: 6
+Customer Process Time: 12
+Served Clercks: 4
+
+
+Customer Name: Customer102
+Customer Arriving Time: 09:14
+Customer Service Time: 09:21
+Customer Wait Time: 7
+Customer Process Time: 8
+Served Clercks: 0
+
+
+Customer Name: Customer190
+Customer Arriving Time: 09:15
+Customer Service Time: 09:24
+Customer Wait Time: 9
+Customer Process Time: 7
+Served Clercks: 3
+
+
+Customer Name: Customer113
+Customer Arriving Time: 09:17
+Customer Service Time: 09:27
+Customer Wait Time: 10
+Customer Process Time: 13
+Served Clercks: 1
+
+
+Customer Name: Customer150
+Customer Arriving Time: 09:18
+Customer Service Time: 09:29
+Customer Wait Time: 11
+Customer Process Time: 14
+Served Clercks: 0
+
+
+Customer Name: Customer166
+Customer Arriving Time: 09:19
+Customer Service Time: 09:29
+Customer Wait Time: 10
+Customer Process Time: 13
+Served Clercks: 2
+
+
+Customer Name: Customer139
+Customer Arriving Time: 09:20
+Customer Service Time: 09:29
+Customer Wait Time: 9
+Customer Process Time: 7
+Served Clercks: 5
+
+
+Customer Name: Customer187
+Customer Arriving Time: 09:20
+Customer Service Time: 09:31
+Customer Wait Time: 11
+Customer Process Time: 8
+Served Clercks: 3
+
+
+Customer Name: Customer107
+Customer Arriving Time: 09:21
+Customer Service Time: 09:31
+Customer Wait Time: 10
+Customer Process Time: 5
+Served Clercks: 4
+
+
+Customer Name: Customer155
+Customer Arriving Time: 09:23
+Customer Service Time: 09:36
 Customer Wait Time: 13
+Customer Process Time: 10
+Served Clercks: 4
+
+
+Customer Name: Customer89
+Customer Arriving Time: 09:25
+Customer Service Time: 09:36
+Customer Wait Time: 11
+Customer Process Time: 13
+Served Clercks: 5
+
+
+Customer Name: Customer98
+Customer Arriving Time: 09:27
+Customer Service Time: 09:39
+Customer Wait Time: 12
+Customer Process Time: 12
+Served Clercks: 3
+
+
+Customer Name: Customer197
+Customer Arriving Time: 09:28
+Customer Service Time: 09:40
+Customer Wait Time: 12
+Customer Process Time: 10
+Served Clercks: 1
+
+
+Customer Name: Customer7
+Customer Arriving Time: 09:29
+Customer Service Time: 09:42
+Customer Wait Time: 13
+Customer Process Time: 12
+Served Clercks: 2
+
+
+Customer Name: Customer135
+Customer Arriving Time: 09:29
+Customer Service Time: 09:43
+Customer Wait Time: 14
+Customer Process Time: 8
+Served Clercks: 0
+
+
+Customer Name: Customer186
+Customer Arriving Time: 09:32
+Customer Service Time: 09:46
+Customer Wait Time: 14
+Customer Process Time: 12
+Served Clercks: 4
+
+
+Customer Name: Customer120
+Customer Arriving Time: 09:37
+Customer Service Time: 09:49
+Customer Wait Time: 12
+Customer Process Time: 9
+Served Clercks: 5
+
+
+Customer Name: Customer125
+Customer Arriving Time: 09:38
+Customer Service Time: 09:50
+Customer Wait Time: 12
+Customer Process Time: 10
+Served Clercks: 1
+
+
+Customer Name: Customer104
+Customer Arriving Time: 09:39
+Customer Service Time: 09:51
+Customer Wait Time: 12
+Customer Process Time: 6
+Served Clercks: 0
+
+
+Customer Name: Customer118
+Customer Arriving Time: 09:40
+Customer Service Time: 09:51
+Customer Wait Time: 11
+Customer Process Time: 8
+Served Clercks: 3
+
+
+Customer Name: Customer112
+Customer Arriving Time: 09:42
+Customer Service Time: 09:54
+Customer Wait Time: 12
+Customer Process Time: 13
+Served Clercks: 2
+
+
+Customer Name: Customer33
+Customer Arriving Time: 09:43
+Customer Service Time: 09:57
+Customer Wait Time: 14
+Customer Process Time: 14
+Served Clercks: 0
+
+
+Customer Name: Customer54
+Customer Arriving Time: 09:43
+Customer Service Time: 09:58
+Customer Wait Time: 15
+Customer Process Time: 15
+Served Clercks: 4
+
+
+Customer Name: Customer43
+Customer Arriving Time: 09:44
+Customer Service Time: 09:58
+Customer Wait Time: 14
+Customer Process Time: 9
+Served Clercks: 5
+
+
+Customer Name: Customer15
+Customer Arriving Time: 09:46
+Customer Service Time: 09:59
+Customer Wait Time: 13
+Customer Process Time: 7
+Served Clercks: 3
+
+
+Customer Name: Customer70
+Customer Arriving Time: 09:47
+Customer Service Time: 10:00
+Customer Wait Time: 13
+Customer Process Time: 7
+Served Clercks: 1
+
+
+Customer Name: Customer145
+Customer Arriving Time: 09:48
+Customer Service Time: 10:06
+Customer Wait Time: 18
+Customer Process Time: 8
+Served Clercks: 3
+
+
+Customer Name: Customer2
+Customer Arriving Time: 09:57
+Customer Service Time: 10:07
+Customer Wait Time: 10
+Customer Process Time: 8
+Served Clercks: 1
+
+
+Customer Name: Customer119
+Customer Arriving Time: 09:57
+Customer Service Time: 10:07
+Customer Wait Time: 10
+Customer Process Time: 9
+Served Clercks: 2
+
+
+Customer Name: Customer16
+Customer Arriving Time: 09:58
+Customer Service Time: 10:07
+Customer Wait Time: 9
+Customer Process Time: 15
+Served Clercks: 5
+
+
+Customer Name: Customer198
+Customer Arriving Time: 09:58
+Customer Service Time: 10:11
+Customer Wait Time: 13
+Customer Process Time: 11
+Served Clercks: 0
+
+
+Customer Name: Customer51
+Customer Arriving Time: 09:59
+Customer Service Time: 10:13
+Customer Wait Time: 14
+Customer Process Time: 6
+Served Clercks: 4
+
+
+Customer Name: Customer5
+Customer Arriving Time: 10:01
+Customer Service Time: 10:14
+Customer Wait Time: 13
+Customer Process Time: 15
+Served Clercks: 3
+
+
+Customer Name: Customer48
+Customer Arriving Time: 10:01
+Customer Service Time: 10:15
+Customer Wait Time: 14
+Customer Process Time: 5
+Served Clercks: 1
+
+
+Customer Name: Customer85
+Customer Arriving Time: 10:01
+Customer Service Time: 10:16
+Customer Wait Time: 15
+Customer Process Time: 6
+Served Clercks: 2
+
+
+Customer Name: Customer116
+Customer Arriving Time: 10:03
+Customer Service Time: 10:19
+Customer Wait Time: 16
+Customer Process Time: 7
+Served Clercks: 4
+
+
+Customer Name: Customer136
+Customer Arriving Time: 10:03
+Customer Service Time: 10:20
+Customer Wait Time: 17
+Customer Process Time: 11
+Served Clercks: 1
+
+
+Customer Name: Customer38
+Customer Arriving Time: 10:08
+Customer Service Time: 10:22
+Customer Wait Time: 14
+Customer Process Time: 12
+Served Clercks: 0
+
+
+Customer Name: Customer181
+Customer Arriving Time: 10:12
+Customer Service Time: 10:22
+Customer Wait Time: 10
+Customer Process Time: 15
+Served Clercks: 2
+
+
+Customer Name: Customer9
+Customer Arriving Time: 10:14
+Customer Service Time: 10:22
+Customer Wait Time: 8
+Customer Process Time: 8
+Served Clercks: 5
+
+
+Customer Name: Customer161
+Customer Arriving Time: 10:14
+Customer Service Time: 10:26
+Customer Wait Time: 12
+Customer Process Time: 6
+Served Clercks: 4
+
+
+Customer Name: Customer3
+Customer Arriving Time: 10:18
+Customer Service Time: 10:29
+Customer Wait Time: 11
+Customer Process Time: 5
+Served Clercks: 3
+
+
+Customer Name: Customer189
+Customer Arriving Time: 10:18
+Customer Service Time: 10:30
+Customer Wait Time: 12
+Customer Process Time: 12
+Served Clercks: 5
+
+
+Customer Name: Customer160
+Customer Arriving Time: 10:22
+Customer Service Time: 10:31
+Customer Wait Time: 9
+Customer Process Time: 12
+Served Clercks: 1
+
+
+Customer Name: Customer25
+Customer Arriving Time: 10:23
+Customer Service Time: 10:32
+Customer Wait Time: 9
+Customer Process Time: 9
+Served Clercks: 4
+
+
+Customer Name: Customer158
+Customer Arriving Time: 10:23
+Customer Service Time: 10:34
+Customer Wait Time: 11
+Customer Process Time: 14
+Served Clercks: 0
+
+
+Customer Name: Customer75
+Customer Arriving Time: 10:24
+Customer Service Time: 10:34
+Customer Wait Time: 10
+Customer Process Time: 10
+Served Clercks: 3
+
+
+Customer Name: Customer188
+Customer Arriving Time: 10:26
+Customer Service Time: 10:37
+Customer Wait Time: 11
+Customer Process Time: 11
+Served Clercks: 2
+
+
+Customer Name: Customer168
+Customer Arriving Time: 10:27
+Customer Service Time: 10:41
+Customer Wait Time: 14
+Customer Process Time: 12
+Served Clercks: 4
+
+
+Customer Name: Customer129
+Customer Arriving Time: 10:31
+Customer Service Time: 10:42
+Customer Wait Time: 11
+Customer Process Time: 5
+Served Clercks: 5
+
+
+Customer Name: Customer154
+Customer Arriving Time: 10:31
+Customer Service Time: 10:43
+Customer Wait Time: 12
+Customer Process Time: 7
+Served Clercks: 1
+
+
+Customer Name: Customer148
+Customer Arriving Time: 10:32
+Customer Service Time: 10:44
+Customer Wait Time: 12
+Customer Process Time: 10
+Served Clercks: 3
+
+
+Customer Name: Customer173
+Customer Arriving Time: 10:32
+Customer Service Time: 10:47
+Customer Wait Time: 15
+Customer Process Time: 12
+Served Clercks: 5
+
+
+Customer Name: Customer194
+Customer Arriving Time: 10:40
+Customer Service Time: 10:48
+Customer Wait Time: 8
+Customer Process Time: 9
+Served Clercks: 0
+
+
+Customer Name: Customer67
+Customer Arriving Time: 12:01
+Customer Service Time: 12:01
+Customer Wait Time: 0
+Customer Process Time: 13
+Served Clercks: 0
+
+
+Customer Name: Customer65
+Customer Arriving Time: 12:04
+Customer Service Time: 12:04
+Customer Wait Time: 0
+Customer Process Time: 8
+Served Clercks: 1
+
+
+Customer Name: Customer16
+Customer Arriving Time: 12:06
+Customer Service Time: 12:06
+Customer Wait Time: 0
+Customer Process Time: 14
+Served Clercks: 2
+
+
+Customer Name: Customer22
+Customer Arriving Time: 12:06
+Customer Service Time: 12:06
+Customer Wait Time: 0
+Customer Process Time: 9
+Served Clercks: 3
+
+
+Customer Name: Customer176
+Customer Arriving Time: 12:08
+Customer Service Time: 12:08
+Customer Wait Time: 0
+Customer Process Time: 10
+Served Clercks: 4
+
+
+Customer Name: Customer62
+Customer Arriving Time: 12:11
+Customer Service Time: 12:11
+Customer Wait Time: 0
+Customer Process Time: 6
+Served Clercks: 5
+
+
+Customer Name: Customer139
+Customer Arriving Time: 12:12
+Customer Service Time: 12:12
+Customer Wait Time: 0
+Customer Process Time: 8
+Served Clercks: 1
+
+
+Customer Name: Customer38
+Customer Arriving Time: 12:13
+Customer Service Time: 12:14
+Customer Wait Time: 1
+Customer Process Time: 11
+Served Clercks: 0
+
+
+Customer Name: Customer121
+Customer Arriving Time: 12:13
+Customer Service Time: 12:15
+Customer Wait Time: 2
+Customer Process Time: 9
+Served Clercks: 3
+
+
+Customer Name: Customer196
+Customer Arriving Time: 12:13
+Customer Service Time: 12:17
+Customer Wait Time: 4
+Customer Process Time: 12
+Served Clercks: 5
+
+
+Customer Name: Customer69
+Customer Arriving Time: 12:18
+Customer Service Time: 12:18
+Customer Wait Time: 0
+Customer Process Time: 15
+Served Clercks: 4
+
+
+Customer Name: Customer186
+Customer Arriving Time: 12:24
+Customer Service Time: 12:24
+Customer Wait Time: 0
+Customer Process Time: 14
+Served Clercks: 1
+
+
+Customer Name: Customer190
+Customer Arriving Time: 12:24
+Customer Service Time: 12:24
+Customer Wait Time: 0
+Customer Process Time: 8
+Served Clercks: 2
+
+
+Customer Name: Customer23
+Customer Arriving Time: 12:28
+Customer Service Time: 12:28
+Customer Wait Time: 0
+Customer Process Time: 11
+Served Clercks: 0
+
+
+Customer Name: Customer168
+Customer Arriving Time: 12:28
+Customer Service Time: 12:28
+Customer Wait Time: 0
+Customer Process Time: 14
+Served Clercks: 3
+
+
+Customer Name: Customer50
+Customer Arriving Time: 12:30
+Customer Service Time: 12:30
+Customer Wait Time: 0
+Customer Process Time: 5
+Served Clercks: 5
+
+
+Customer Name: Customer91
+Customer Arriving Time: 12:30
+Customer Service Time: 12:32
+Customer Wait Time: 2
+Customer Process Time: 11
+Served Clercks: 2
+
+
+Customer Name: Customer34
+Customer Arriving Time: 12:31
+Customer Service Time: 12:33
+Customer Wait Time: 2
+Customer Process Time: 14
+Served Clercks: 4
+
+
+Customer Name: Customer31
+Customer Arriving Time: 12:32
+Customer Service Time: 12:35
+Customer Wait Time: 3
+Customer Process Time: 15
+Served Clercks: 5
+
+
+Customer Name: Customer129
+Customer Arriving Time: 12:32
+Customer Service Time: 12:38
+Customer Wait Time: 6
+Customer Process Time: 15
+Served Clercks: 1
+
+
+Customer Name: Customer20
+Customer Arriving Time: 12:36
+Customer Service Time: 12:39
+Customer Wait Time: 3
+Customer Process Time: 5
+Served Clercks: 0
+
+
+Customer Name: Customer52
+Customer Arriving Time: 12:39
+Customer Service Time: 12:42
+Customer Wait Time: 3
+Customer Process Time: 13
+Served Clercks: 3
+
+
+Customer Name: Customer198
+Customer Arriving Time: 12:40
+Customer Service Time: 12:43
+Customer Wait Time: 3
+Customer Process Time: 10
+Served Clercks: 2
+
+
+Customer Name: Customer93
+Customer Arriving Time: 12:42
+Customer Service Time: 12:44
+Customer Wait Time: 2
+Customer Process Time: 15
+Served Clercks: 0
+
+
+Customer Name: Customer81
+Customer Arriving Time: 12:43
+Customer Service Time: 12:47
+Customer Wait Time: 4
+Customer Process Time: 5
+Served Clercks: 4
+
+
+Customer Name: Customer153
+Customer Arriving Time: 12:47
+Customer Service Time: 12:50
+Customer Wait Time: 3
+Customer Process Time: 10
+Served Clercks: 5
+
+
+Customer Name: Customer39
+Customer Arriving Time: 12:50
+Customer Service Time: 12:52
+Customer Wait Time: 2
+Customer Process Time: 12
+Served Clercks: 4
+
+
+Customer Name: Customer57
+Customer Arriving Time: 12:51
+Customer Service Time: 12:53
+Customer Wait Time: 2
+Customer Process Time: 11
+Served Clercks: 1
+
+
+Customer Name: Customer96
+Customer Arriving Time: 12:52
+Customer Service Time: 12:53
+Customer Wait Time: 1
+Customer Process Time: 7
+Served Clercks: 2
+
+
+Customer Name: Customer117
+Customer Arriving Time: 12:53
+Customer Service Time: 12:55
+Customer Wait Time: 2
+Customer Process Time: 15
+Served Clercks: 3
+
+
+Customer Name: Customer24
+Customer Arriving Time: 12:55
+Customer Service Time: 12:59
+Customer Wait Time: 4
+Customer Process Time: 15
+Served Clercks: 0
+
+
+Customer Name: Customer101
+Customer Arriving Time: 12:56
+Customer Service Time: 13:00
+Customer Wait Time: 4
+Customer Process Time: 6
+Served Clercks: 2
+
+
+Customer Name: Customer135
+Customer Arriving Time: 12:56
+Customer Service Time: 13:00
+Customer Wait Time: 4
+Customer Process Time: 10
+Served Clercks: 5
+
+
+Customer Name: Customer49
+Customer Arriving Time: 12:57
+Customer Service Time: 13:04
+Customer Wait Time: 7
+Customer Process Time: 10
+Served Clercks: 1
+
+
+Customer Name: Customer77
+Customer Arriving Time: 12:57
+Customer Service Time: 13:04
+Customer Wait Time: 7
+Customer Process Time: 12
+Served Clercks: 4
+
+
+Customer Name: Customer116
+Customer Arriving Time: 12:58
+Customer Service Time: 13:06
+Customer Wait Time: 8
+Customer Process Time: 10
+Served Clercks: 2
+
+
+Customer Name: Customer15
+Customer Arriving Time: 13:03
+Customer Service Time: 13:10
+Customer Wait Time: 7
+Customer Process Time: 7
+Served Clercks: 3
+
+
+Customer Name: Customer171
+Customer Arriving Time: 13:03
+Customer Service Time: 13:10
+Customer Wait Time: 7
+Customer Process Time: 6
+Served Clercks: 5
+
+
+Customer Name: Customer12
+Customer Arriving Time: 13:05
+Customer Service Time: 13:14
+Customer Wait Time: 9
+Customer Process Time: 13
+Served Clercks: 0
+
+
+Customer Name: Customer152
+Customer Arriving Time: 13:08
+Customer Service Time: 13:14
+Customer Wait Time: 6
+Customer Process Time: 14
+Served Clercks: 1
+
+
+Customer Name: Customer141
+Customer Arriving Time: 13:09
+Customer Service Time: 13:16
+Customer Wait Time: 7
+Customer Process Time: 14
+Served Clercks: 2
+
+
+Customer Name: Customer177
+Customer Arriving Time: 13:10
+Customer Service Time: 13:16
+Customer Wait Time: 6
+Customer Process Time: 6
+Served Clercks: 4
+
+
+Customer Name: Customer113
+Customer Arriving Time: 13:14
+Customer Service Time: 13:16
+Customer Wait Time: 2
+Customer Process Time: 6
+Served Clercks: 5
+
+
+Customer Name: Customer184
+Customer Arriving Time: 13:17
+Customer Service Time: 13:17
+Customer Wait Time: 0
+Customer Process Time: 7
+Served Clercks: 3
+
+
+Customer Name: Customer53
+Customer Arriving Time: 13:22
+Customer Service Time: 13:22
+Customer Wait Time: 0
+Customer Process Time: 7
+Served Clercks: 4
+
+
+Customer Name: Customer123
+Customer Arriving Time: 13:24
+Customer Service Time: 13:24
+Customer Wait Time: 0
+Customer Process Time: 5
+Served Clercks: 3
+
+
+Customer Name: Customer172
+Customer Arriving Time: 13:25
+Customer Service Time: 13:25
+Customer Wait Time: 0
+Customer Process Time: 11
+Served Clercks: 5
+
+
+Customer Name: Customer51
+Customer Arriving Time: 13:27
+Customer Service Time: 13:27
+Customer Wait Time: 0
+Customer Process Time: 7
+Served Clercks: 0
+
+
+Customer Name: Customer160
+Customer Arriving Time: 13:28
+Customer Service Time: 13:28
+Customer Wait Time: 0
+Customer Process Time: 15
+Served Clercks: 1
+
+
+Customer Name: Customer71
+Customer Arriving Time: 13:29
+Customer Service Time: 13:29
+Customer Wait Time: 0
+Customer Process Time: 11
+Served Clercks: 3
+
+
+Customer Name: Customer175
+Customer Arriving Time: 13:29
+Customer Service Time: 13:29
+Customer Wait Time: 0
+Customer Process Time: 11
+Served Clercks: 4
+
+
+Customer Name: Customer83
+Customer Arriving Time: 13:31
+Customer Service Time: 13:31
+Customer Wait Time: 0
+Customer Process Time: 12
+Served Clercks: 2
+
+
+Customer Name: Customer90
+Customer Arriving Time: 13:34
+Customer Service Time: 13:34
+Customer Wait Time: 0
+Customer Process Time: 13
+Served Clercks: 0
+
+
+Customer Name: Customer194
+Customer Arriving Time: 13:34
+Customer Service Time: 13:36
+Customer Wait Time: 2
+Customer Process Time: 14
+Served Clercks: 5
+
+
+Customer Name: Customer120
+Customer Arriving Time: 13:35
+Customer Service Time: 13:40
+Customer Wait Time: 5
+Customer Process Time: 7
+Served Clercks: 3
+
+
+Customer Name: Customer181
+Customer Arriving Time: 13:35
+Customer Service Time: 13:40
+Customer Wait Time: 5
+Customer Process Time: 10
+Served Clercks: 4
+
+
+Customer Name: Customer183
+Customer Arriving Time: 13:36
+Customer Service Time: 13:43
+Customer Wait Time: 7
+Customer Process Time: 8
+Served Clercks: 1
+
+
+Customer Name: Customer142
+Customer Arriving Time: 13:37
+Customer Service Time: 13:43
+Customer Wait Time: 6
+Customer Process Time: 9
+Served Clercks: 2
+
+
+Customer Name: Customer11
+Customer Arriving Time: 13:38
+Customer Service Time: 13:47
+Customer Wait Time: 9
+Customer Process Time: 7
+Served Clercks: 0
+
+
+Customer Name: Customer73
+Customer Arriving Time: 13:39
+Customer Service Time: 13:47
+Customer Wait Time: 8
+Customer Process Time: 9
+Served Clercks: 3
+
+
+Customer Name: Customer47
+Customer Arriving Time: 13:40
+Customer Service Time: 13:50
+Customer Wait Time: 10
+Customer Process Time: 11
+Served Clercks: 4
+
+
+Customer Name: Customer75
+Customer Arriving Time: 13:40
+Customer Service Time: 13:50
+Customer Wait Time: 10
+Customer Process Time: 9
+Served Clercks: 5
+
+
+Customer Name: Customer111
+Customer Arriving Time: 12:01
+Customer Service Time: 12:01
+Customer Wait Time: 0
+Customer Process Time: 10
+Served Clercks: 0
+
+
+Customer Name: Customer119
+Customer Arriving Time: 12:03
+Customer Service Time: 12:03
+Customer Wait Time: 0
+Customer Process Time: 5
+Served Clercks: 1
+
+
+Customer Name: Customer4
+Customer Arriving Time: 12:06
+Customer Service Time: 12:06
+Customer Wait Time: 0
+Customer Process Time: 11
+Served Clercks: 2
+
+
+Customer Name: Customer72
+Customer Arriving Time: 12:06
+Customer Service Time: 12:06
+Customer Wait Time: 0
+Customer Process Time: 6
+Served Clercks: 3
+
+
+Customer Name: Customer9
+Customer Arriving Time: 12:08
+Customer Service Time: 12:08
+Customer Wait Time: 0
+Customer Process Time: 9
+Served Clercks: 1
+
+
+Customer Name: Customer146
+Customer Arriving Time: 12:08
+Customer Service Time: 12:08
+Customer Wait Time: 0
+Customer Process Time: 7
+Served Clercks: 4
+
+
+Customer Name: Customer157
+Customer Arriving Time: 12:08
+Customer Service Time: 12:08
+Customer Wait Time: 0
+Customer Process Time: 7
+Served Clercks: 5
+
+
+Customer Name: Customer162
+Customer Arriving Time: 12:08
+Customer Service Time: 12:11
+Customer Wait Time: 3
+Customer Process Time: 10
+Served Clercks: 0
+
+
+Customer Name: Customer178
+Customer Arriving Time: 12:08
+Customer Service Time: 12:12
+Customer Wait Time: 4
+Customer Process Time: 14
+Served Clercks: 3
+
+
+Customer Name: Customer132
+Customer Arriving Time: 12:09
+Customer Service Time: 12:15
+Customer Wait Time: 6
+Customer Process Time: 10
+Served Clercks: 4
+
+
+Customer Name: Customer200
+Customer Arriving Time: 12:10
+Customer Service Time: 12:15
+Customer Wait Time: 5
+Customer Process Time: 10
+Served Clercks: 5
+
+
+Customer Name: Customer18
+Customer Arriving Time: 12:11
+Customer Service Time: 12:17
+Customer Wait Time: 6
+Customer Process Time: 5
+Served Clercks: 1
+
+
+Customer Name: Customer44
+Customer Arriving Time: 12:11
+Customer Service Time: 12:17
+Customer Wait Time: 6
+Customer Process Time: 7
+Served Clercks: 2
+
+
+Customer Name: Customer26
+Customer Arriving Time: 12:12
+Customer Service Time: 12:21
+Customer Wait Time: 9
+Customer Process Time: 6
+Served Clercks: 0
+
+
+Customer Name: Customer126
+Customer Arriving Time: 12:19
+Customer Service Time: 12:22
+Customer Wait Time: 3
 Customer Process Time: 9
 Served Clercks: 1
 
 
 Customer Name: Customer137
-Customer Arriving Time: 12:50
-Customer Service Time: 13:05
-Customer Wait Time: 15
-Customer Process Time: 15
-Served Clercks: 4
-
-
-Customer Name: Customer192
-Customer Arriving Time: 12:51
-Customer Service Time: 13:05
-Customer Wait Time: 14
-Customer Process Time: 13
-Served Clercks: 5
-
-
-Customer Name: Customer134
-Customer Arriving Time: 12:55
-Customer Service Time: 13:06
-Customer Wait Time: 11
-Customer Process Time: 10
-Served Clercks: 3
-
-
-Customer Name: Customer8
-Customer Arriving Time: 12:57
-Customer Service Time: 13:12
-Customer Wait Time: 15
-Customer Process Time: 5
-Served Clercks: 0
-
-
-Customer Name: Customer174
-Customer Arriving Time: 12:57
-Customer Service Time: 13:12
-Customer Wait Time: 15
-Customer Process Time: 15
-Served Clercks: 1
-
-
-Customer Name: Customer118
-Customer Arriving Time: 12:58
-Customer Service Time: 13:13
-Customer Wait Time: 15
-Customer Process Time: 15
+Customer Arriving Time: 12:19
+Customer Service Time: 12:24
+Customer Wait Time: 5
+Customer Process Time: 12
 Served Clercks: 2
 
 
-Customer Name: Customer105
-Customer Arriving Time: 13:00
-Customer Service Time: 13:16
-Customer Wait Time: 16
+Customer Name: Customer197
+Customer Arriving Time: 12:20
+Customer Service Time: 12:25
+Customer Wait Time: 5
+Customer Process Time: 13
+Served Clercks: 4
+
+
+Customer Name: Customer115
+Customer Arriving Time: 12:21
+Customer Service Time: 12:25
+Customer Wait Time: 4
+Customer Process Time: 9
+Served Clercks: 5
+
+
+Customer Name: Customer104
+Customer Arriving Time: 12:24
+Customer Service Time: 12:26
+Customer Wait Time: 2
 Customer Process Time: 12
 Served Clercks: 3
 
 
-Customer Name: Customer27
-Customer Arriving Time: 13:02
-Customer Service Time: 13:17
-Customer Wait Time: 15
+Customer Name: Customer59
+Customer Arriving Time: 12:26
+Customer Service Time: 12:27
+Customer Wait Time: 1
+Customer Process Time: 9
+Served Clercks: 0
+
+
+Customer Name: Customer95
+Customer Arriving Time: 12:26
+Customer Service Time: 12:31
+Customer Wait Time: 5
+Customer Process Time: 8
+Served Clercks: 1
+
+
+Customer Name: Customer134
+Customer Arriving Time: 12:27
+Customer Service Time: 12:34
+Customer Wait Time: 7
+Customer Process Time: 12
+Served Clercks: 5
+
+
+Customer Name: Customer76
+Customer Arriving Time: 12:29
+Customer Service Time: 12:36
+Customer Wait Time: 7
 Customer Process Time: 7
 Served Clercks: 0
 
 
-Customer Name: Customer157
-Customer Arriving Time: 13:02
-Customer Service Time: 13:18
-Customer Wait Time: 16
+Customer Name: Customer154
+Customer Arriving Time: 12:31
+Customer Service Time: 12:36
+Customer Wait Time: 5
+Customer Process Time: 7
+Served Clercks: 2
+
+
+Customer Name: Customer199
+Customer Arriving Time: 12:31
+Customer Service Time: 12:38
+Customer Wait Time: 7
 Customer Process Time: 11
+Served Clercks: 3
+
+
+Customer Name: Customer40
+Customer Arriving Time: 12:33
+Customer Service Time: 12:38
+Customer Wait Time: 5
+Customer Process Time: 5
+Served Clercks: 4
+
+
+Customer Name: Customer27
+Customer Arriving Time: 12:34
+Customer Service Time: 12:39
+Customer Wait Time: 5
+Customer Process Time: 15
+Served Clercks: 1
+
+
+Customer Name: Customer159
+Customer Arriving Time: 12:36
+Customer Service Time: 12:43
+Customer Wait Time: 7
+Customer Process Time: 10
+Served Clercks: 0
+
+
+Customer Name: Customer170
+Customer Arriving Time: 12:36
+Customer Service Time: 12:43
+Customer Wait Time: 7
+Customer Process Time: 11
+Served Clercks: 2
+
+
+Customer Name: Customer88
+Customer Arriving Time: 12:39
+Customer Service Time: 12:43
+Customer Wait Time: 4
+Customer Process Time: 13
+Served Clercks: 4
+
+
+Customer Name: Customer189
+Customer Arriving Time: 12:40
+Customer Service Time: 12:46
+Customer Wait Time: 6
+Customer Process Time: 9
 Served Clercks: 5
 
 
-Customer Name: Customer28
-Customer Arriving Time: 13:03
-Customer Service Time: 13:20
-Customer Wait Time: 17
+Customer Name: Customer112
+Customer Arriving Time: 12:42
+Customer Service Time: 12:49
+Customer Wait Time: 7
+Customer Process Time: 12
+Served Clercks: 3
+
+
+Customer Name: Customer37
+Customer Arriving Time: 12:44
+Customer Service Time: 12:53
+Customer Wait Time: 9
+Customer Process Time: 6
+Served Clercks: 0
+
+
+Customer Name: Customer108
+Customer Arriving Time: 12:45
+Customer Service Time: 12:54
+Customer Wait Time: 9
+Customer Process Time: 12
+Served Clercks: 1
+
+
+Customer Name: Customer106
+Customer Arriving Time: 12:46
+Customer Service Time: 12:54
+Customer Wait Time: 8
+Customer Process Time: 14
+Served Clercks: 2
+
+
+Customer Name: Customer43
+Customer Arriving Time: 12:47
+Customer Service Time: 12:55
+Customer Wait Time: 8
+Customer Process Time: 12
+Served Clercks: 5
+
+
+Customer Name: Customer100
+Customer Arriving Time: 12:47
+Customer Service Time: 12:56
+Customer Wait Time: 9
+Customer Process Time: 13
+Served Clercks: 4
+
+
+Customer Name: Customer84
+Customer Arriving Time: 12:49
+Customer Service Time: 12:59
+Customer Wait Time: 10
+Customer Process Time: 10
+Served Clercks: 0
+
+
+Customer Name: Customer131
+Customer Arriving Time: 12:50
+Customer Service Time: 13:01
+Customer Wait Time: 11
+Customer Process Time: 13
+Served Clercks: 3
+
+
+Customer Name: Customer169
+Customer Arriving Time: 12:50
+Customer Service Time: 13:06
+Customer Wait Time: 16
+Customer Process Time: 10
+Served Clercks: 1
+
+
+Customer Name: Customer187
+Customer Arriving Time: 12:54
+Customer Service Time: 13:07
+Customer Wait Time: 13
+Customer Process Time: 15
+Served Clercks: 5
+
+
+Customer Name: Customer45
+Customer Arriving Time: 12:55
+Customer Service Time: 13:08
+Customer Wait Time: 13
+Customer Process Time: 8
+Served Clercks: 2
+
+
+Customer Name: Customer174
+Customer Arriving Time: 12:55
+Customer Service Time: 13:09
+Customer Wait Time: 14
+Customer Process Time: 6
+Served Clercks: 0
+
+
+Customer Name: Customer195
+Customer Arriving Time: 12:58
+Customer Service Time: 13:09
+Customer Wait Time: 11
+Customer Process Time: 10
+Served Clercks: 4
+
+
+Customer Name: Customer99
+Customer Arriving Time: 12:59
+Customer Service Time: 13:14
+Customer Wait Time: 15
+Customer Process Time: 6
+Served Clercks: 3
+
+
+Customer Name: Customer158
+Customer Arriving Time: 12:59
+Customer Service Time: 13:15
+Customer Wait Time: 16
+Customer Process Time: 11
+Served Clercks: 0
+
+
+Customer Name: Customer109
+Customer Arriving Time: 13:01
+Customer Service Time: 13:16
+Customer Wait Time: 15
+Customer Process Time: 11
+Served Clercks: 1
+
+
+Customer Name: Customer179
+Customer Arriving Time: 13:02
+Customer Service Time: 13:16
+Customer Wait Time: 14
+Customer Process Time: 13
+Served Clercks: 2
+
+
+Customer Name: Customer78
+Customer Arriving Time: 13:05
+Customer Service Time: 13:19
+Customer Wait Time: 14
 Customer Process Time: 8
 Served Clercks: 4
 
 
-Customer Name: Customer41
-Customer Arriving Time: 13:04
-Customer Service Time: 13:24
-Customer Wait Time: 20
-Customer Process Time: 14
+Customer Name: Customer133
+Customer Arriving Time: 13:06
+Customer Service Time: 13:20
+Customer Wait Time: 14
+Customer Process Time: 6
+Served Clercks: 3
+
+
+Customer Name: Customer13
+Customer Arriving Time: 13:08
+Customer Service Time: 13:22
+Customer Wait Time: 14
+Customer Process Time: 10
+Served Clercks: 5
+
+
+Customer Name: Customer19
+Customer Arriving Time: 13:08
+Customer Service Time: 13:26
+Customer Wait Time: 18
+Customer Process Time: 12
+Served Clercks: 0
+
+
+Customer Name: Customer151
+Customer Arriving Time: 13:10
+Customer Service Time: 13:26
+Customer Wait Time: 16
+Customer Process Time: 15
+Served Clercks: 3
+
+
+Customer Name: Customer17
+Customer Arriving Time: 13:11
+Customer Service Time: 13:27
+Customer Wait Time: 16
+Customer Process Time: 15
+Served Clercks: 1
+
+
+Customer Name: Customer161
+Customer Arriving Time: 13:11
+Customer Service Time: 13:27
+Customer Wait Time: 16
+Customer Process Time: 5
+Served Clercks: 4
+
+
+Customer Name: Customer102
+Customer Arriving Time: 13:13
+Customer Service Time: 13:29
+Customer Wait Time: 16
+Customer Process Time: 15
+Served Clercks: 2
+
+
+Customer Name: Customer166
+Customer Arriving Time: 13:13
+Customer Service Time: 13:32
+Customer Wait Time: 19
+Customer Process Time: 13
+Served Clercks: 4
+
+
+Customer Name: Customer10
+Customer Arriving Time: 13:15
+Customer Service Time: 13:32
+Customer Wait Time: 17
+Customer Process Time: 12
+Served Clercks: 5
+
+
+Customer Name: Customer105
+Customer Arriving Time: 13:17
+Customer Service Time: 13:38
+Customer Wait Time: 21
+Customer Process Time: 11
 Served Clercks: 0
 
 
 Customer Name: Customer145
-Customer Arriving Time: 13:04
-Customer Service Time: 13:27
-Customer Wait Time: 23
-Customer Process Time: 15
+Customer Arriving Time: 13:20
+Customer Service Time: 13:41
+Customer Wait Time: 21
+Customer Process Time: 9
+Served Clercks: 3
+
+
+Customer Name: Customer150
+Customer Arriving Time: 13:25
+Customer Service Time: 13:42
+Customer Wait Time: 17
+Customer Process Time: 5
 Served Clercks: 1
 
 
-Customer Name: Customer183
-Customer Arriving Time: 13:05
-Customer Service Time: 13:28
-Customer Wait Time: 23
-Customer Process Time: 14
+Customer Name: Customer7
+Customer Arriving Time: 13:27
+Customer Service Time: 13:44
+Customer Wait Time: 17
+Customer Process Time: 13
 Served Clercks: 2
 
 
-Customer Name: Customer182
-Customer Arriving Time: 13:06
-Customer Service Time: 13:28
-Customer Wait Time: 22
-Customer Process Time: 5
-Served Clercks: 3
+Customer Name: Customer54
+Customer Arriving Time: 13:28
+Customer Service Time: 13:44
+Customer Wait Time: 16
+Customer Process Time: 9
+Served Clercks: 5
+
+
+Customer Name: Customer87
+Customer Arriving Time: 13:29
+Customer Service Time: 13:45
+Customer Wait Time: 16
+Customer Process Time: 14
+Served Clercks: 4
 
 
 Customer Name: Customer1
-Customer Arriving Time: 13:08
-Customer Service Time: 13:28
-Customer Wait Time: 20
-Customer Process Time: 7
-Served Clercks: 4
-
-
-Customer Name: Customer161
-Customer Arriving Time: 13:08
-Customer Service Time: 13:29
-Customer Wait Time: 21
-Customer Process Time: 13
-Served Clercks: 5
-
-
-Customer Name: Customer189
-Customer Arriving Time: 13:16
-Customer Service Time: 13:33
-Customer Wait Time: 17
-Customer Process Time: 7
-Served Clercks: 3
-
-
-Customer Name: Customer75
-Customer Arriving Time: 13:18
-Customer Service Time: 13:35
-Customer Wait Time: 17
-Customer Process Time: 8
-Served Clercks: 4
-
-
-Customer Name: Customer35
-Customer Arriving Time: 13:20
-Customer Service Time: 13:38
-Customer Wait Time: 18
-Customer Process Time: 10
-Served Clercks: 0
-
-
-Customer Name: Customer199
-Customer Arriving Time: 13:20
-Customer Service Time: 13:40
-Customer Wait Time: 20
-Customer Process Time: 11
-Served Clercks: 3
-
-
-Customer Name: Customer12
-Customer Arriving Time: 13:22
-Customer Service Time: 13:42
-Customer Wait Time: 20
-Customer Process Time: 13
+Customer Arriving Time: 13:32
+Customer Service Time: 13:47
+Customer Wait Time: 15
+Customer Process Time: 15
 Served Clercks: 1
 
 
-Customer Name: Customer200
-Customer Arriving Time: 13:22
-Customer Service Time: 13:42
-Customer Wait Time: 20
-Customer Process Time: 9
-Served Clercks: 2
+Customer Name: Customer25
+Customer Arriving Time: 13:32
+Customer Service Time: 13:49
+Customer Wait Time: 17
+Customer Process Time: 15
+Served Clercks: 0
 
 
-Customer Name: Customer10
-Customer Arriving Time: 13:28
-Customer Service Time: 13:42
-Customer Wait Time: 14
-Customer Process Time: 9
+Customer Name: Customer3
+Customer Arriving Time: 13:34
+Customer Service Time: 13:50
+Customer Wait Time: 16
+Customer Process Time: 5
+Served Clercks: 3
+
+
+Customer Name: Customer98
+Customer Arriving Time: 13:34
+Customer Service Time: 13:53
+Customer Wait Time: 19
+Customer Process Time: 8
 Served Clercks: 5
 
 
-Customer Name: Customer191
-Customer Arriving Time: 13:28
-Customer Service Time: 13:43
-Customer Wait Time: 15
-Customer Process Time: 13
+Customer Name: Customer66
+Customer Arriving Time: 13:35
+Customer Service Time: 13:55
+Customer Wait Time: 20
+Customer Process Time: 14
+Served Clercks: 3
+
+
+Customer Name: Customer70
+Customer Arriving Time: 13:35
+Customer Service Time: 13:57
+Customer Wait Time: 22
+Customer Process Time: 12
+Served Clercks: 2
+
+
+Customer Name: Customer5
+Customer Arriving Time: 13:36
+Customer Service Time: 13:59
+Customer Wait Time: 23
+Customer Process Time: 14
 Served Clercks: 4
 
 
-Customer Name: Customer15
-Customer Arriving Time: 13:29
-Customer Service Time: 13:48
-Customer Wait Time: 19
+Customer Name: Customer48
+Customer Arriving Time: 13:36
+Customer Service Time: 14:01
+Customer Wait Time: 25
+Customer Process Time: 11
+Served Clercks: 5
+
+
+Customer Name: Customer173
+Customer Arriving Time: 13:39
+Customer Service Time: 14:02
+Customer Wait Time: 23
+Customer Process Time: 5
+Served Clercks: 1
+
+
+Customer Name: Customer185
+Customer Arriving Time: 13:39
+Customer Service Time: 14:04
+Customer Wait Time: 25
 Customer Process Time: 5
 Served Clercks: 0
 
 
-Customer Name: Customer123
-Customer Arriving Time: 13:30
-Customer Service Time: 13:51
-Customer Wait Time: 21
-Customer Process Time: 11
-Served Clercks: 2
-
-
-Customer Name: Customer98
-Customer Arriving Time: 13:32
-Customer Service Time: 13:51
-Customer Wait Time: 19
-Customer Process Time: 11
-Served Clercks: 3
-
-
-Customer Name: Customer167
-Customer Arriving Time: 13:32
-Customer Service Time: 13:51
-Customer Wait Time: 19
-Customer Process Time: 10
-Served Clercks: 5
-
-
-Customer Name: Customer83
-Customer Arriving Time: 13:34
-Customer Service Time: 13:53
-Customer Wait Time: 19
-Customer Process Time: 13
-Served Clercks: 0
-
-
-Customer Name: Customer113
-Customer Arriving Time: 13:34
-Customer Service Time: 13:55
-Customer Wait Time: 21
-Customer Process Time: 15
-Served Clercks: 1
-
-
-Customer Name: Customer178
-Customer Arriving Time: 13:34
-Customer Service Time: 13:56
-Customer Wait Time: 22
-Customer Process Time: 15
-Served Clercks: 4
-
-
-Customer Name: Customer36
-Customer Arriving Time: 13:35
-Customer Service Time: 14:01
-Customer Wait Time: 26
-Customer Process Time: 6
-Served Clercks: 5
-
-
-Customer Name: Customer121
-Customer Arriving Time: 13:38
-Customer Service Time: 14:02
-Customer Wait Time: 24
-Customer Process Time: 11
-Served Clercks: 2
-
-
-Customer Name: Customer92
-Customer Arriving Time: 13:39
-Customer Service Time: 14:02
-Customer Wait Time: 23
-Customer Process Time: 15
-Served Clercks: 3
-
-
-Customer Name: Customer103
-Customer Arriving Time: 13:40
-Customer Service Time: 14:06
-Customer Wait Time: 26
-Customer Process Time: 7
-Served Clercks: 0
-
-
-Customer Name: Customer23
+Customer Name: Customer8
 Customer Arriving Time: 12:05
 Customer Service Time: 12:05
 Customer Wait Time: 0
@@ -2686,2115 +2694,2107 @@ Customer Process Time: 6
 Served Clercks: 0
 
 
-Customer Name: Customer20
-Customer Arriving Time: 12:07
-Customer Service Time: 12:07
+Customer Name: Customer63
+Customer Arriving Time: 12:06
+Customer Service Time: 12:06
 Customer Wait Time: 0
-Customer Process Time: 14
+Customer Process Time: 7
 Served Clercks: 1
 
 
-Customer Name: Customer181
-Customer Arriving Time: 12:07
-Customer Service Time: 12:07
-Customer Wait Time: 0
-Customer Process Time: 13
-Served Clercks: 2
-
-
-Customer Name: Customer11
-Customer Arriving Time: 12:08
-Customer Service Time: 12:08
-Customer Wait Time: 0
-Customer Process Time: 11
-Served Clercks: 3
-
-
-Customer Name: Customer173
-Customer Arriving Time: 12:08
-Customer Service Time: 12:08
-Customer Wait Time: 0
-Customer Process Time: 13
-Served Clercks: 4
-
-
-Customer Name: Customer77
+Customer Name: Customer143
 Customer Arriving Time: 12:10
 Customer Service Time: 12:10
 Customer Wait Time: 0
-Customer Process Time: 5
-Served Clercks: 5
+Customer Process Time: 10
+Served Clercks: 2
 
 
-Customer Name: Customer128
-Customer Arriving Time: 12:10
-Customer Service Time: 12:11
-Customer Wait Time: 1
-Customer Process Time: 15
-Served Clercks: 0
-
-
-Customer Name: Customer37
+Customer Name: Customer107
 Customer Arriving Time: 12:11
-Customer Service Time: 12:15
-Customer Wait Time: 4
-Customer Process Time: 11
-Served Clercks: 5
-
-
-Customer Name: Customer47
-Customer Arriving Time: 12:15
-Customer Service Time: 12:19
-Customer Wait Time: 4
-Customer Process Time: 7
-Served Clercks: 3
-
-
-Customer Name: Customer117
-Customer Arriving Time: 12:15
-Customer Service Time: 12:20
-Customer Wait Time: 5
-Customer Process Time: 13
-Served Clercks: 2
-
-
-Customer Name: Customer160
-Customer Arriving Time: 12:15
-Customer Service Time: 12:21
-Customer Wait Time: 6
-Customer Process Time: 9
-Served Clercks: 1
-
-
-Customer Name: Customer58
-Customer Arriving Time: 12:16
-Customer Service Time: 12:21
-Customer Wait Time: 5
-Customer Process Time: 12
-Served Clercks: 4
-
-
-Customer Name: Customer164
-Customer Arriving Time: 12:16
-Customer Service Time: 12:26
-Customer Wait Time: 10
+Customer Service Time: 12:11
+Customer Wait Time: 0
 Customer Process Time: 7
 Served Clercks: 0
 
 
-Customer Name: Customer184
-Customer Arriving Time: 12:19
-Customer Service Time: 12:26
-Customer Wait Time: 7
-Customer Process Time: 13
-Served Clercks: 3
-
-
-Customer Name: Customer162
-Customer Arriving Time: 12:21
-Customer Service Time: 12:26
-Customer Wait Time: 5
-Customer Process Time: 14
-Served Clercks: 5
-
-
-Customer Name: Customer129
-Customer Arriving Time: 12:25
-Customer Service Time: 12:30
-Customer Wait Time: 5
-Customer Process Time: 11
-Served Clercks: 1
-
-
-Customer Name: Customer126
-Customer Arriving Time: 12:28
-Customer Service Time: 12:33
-Customer Wait Time: 5
-Customer Process Time: 10
-Served Clercks: 0
-
-
-Customer Name: Customer39
-Customer Arriving Time: 12:29
-Customer Service Time: 12:33
-Customer Wait Time: 4
-Customer Process Time: 12
-Served Clercks: 2
-
-
-Customer Name: Customer72
-Customer Arriving Time: 12:31
-Customer Service Time: 12:33
-Customer Wait Time: 2
-Customer Process Time: 11
-Served Clercks: 4
-
-
-Customer Name: Customer40
-Customer Arriving Time: 12:33
-Customer Service Time: 12:39
-Customer Wait Time: 6
-Customer Process Time: 5
-Served Clercks: 3
-
-
-Customer Name: Customer158
-Customer Arriving Time: 12:33
-Customer Service Time: 12:40
-Customer Wait Time: 7
-Customer Process Time: 12
-Served Clercks: 5
-
-
-Customer Name: Customer176
-Customer Arriving Time: 12:33
-Customer Service Time: 12:41
-Customer Wait Time: 8
-Customer Process Time: 10
-Served Clercks: 1
-
-
-Customer Name: Customer52
-Customer Arriving Time: 12:34
-Customer Service Time: 12:43
-Customer Wait Time: 9
-Customer Process Time: 13
-Served Clercks: 0
-
-
-Customer Name: Customer153
-Customer Arriving Time: 12:34
-Customer Service Time: 12:44
-Customer Wait Time: 10
-Customer Process Time: 14
-Served Clercks: 3
-
-
-Customer Name: Customer18
-Customer Arriving Time: 12:35
-Customer Service Time: 12:44
-Customer Wait Time: 9
-Customer Process Time: 11
-Served Clercks: 4
-
-
-Customer Name: Customer80
-Customer Arriving Time: 12:35
-Customer Service Time: 12:45
-Customer Wait Time: 10
-Customer Process Time: 7
-Served Clercks: 2
-
-
-Customer Name: Customer99
-Customer Arriving Time: 12:36
-Customer Service Time: 12:51
-Customer Wait Time: 15
-Customer Process Time: 10
-Served Clercks: 1
-
-
-Customer Name: Customer24
-Customer Arriving Time: 12:38
-Customer Service Time: 12:52
-Customer Wait Time: 14
-Customer Process Time: 13
-Served Clercks: 2
-
-
-Customer Name: Customer104
-Customer Arriving Time: 12:39
-Customer Service Time: 12:52
-Customer Wait Time: 13
-Customer Process Time: 11
-Served Clercks: 5
-
-
-Customer Name: Customer187
-Customer Arriving Time: 12:42
-Customer Service Time: 12:55
-Customer Wait Time: 13
-Customer Process Time: 14
-Served Clercks: 4
-
-
-Customer Name: Customer25
-Customer Arriving Time: 12:45
-Customer Service Time: 12:56
-Customer Wait Time: 11
-Customer Process Time: 14
-Served Clercks: 0
-
-
-Customer Name: Customer3
-Customer Arriving Time: 12:47
-Customer Service Time: 12:58
-Customer Wait Time: 11
-Customer Process Time: 14
-Served Clercks: 3
-
-
-Customer Name: Customer171
-Customer Arriving Time: 12:51
-Customer Service Time: 13:01
-Customer Wait Time: 10
-Customer Process Time: 6
-Served Clercks: 1
-
-
-Customer Name: Customer131
-Customer Arriving Time: 12:52
-Customer Service Time: 13:03
-Customer Wait Time: 11
-Customer Process Time: 10
-Served Clercks: 5
-
-
-Customer Name: Customer33
-Customer Arriving Time: 12:53
-Customer Service Time: 13:05
-Customer Wait Time: 12
-Customer Process Time: 15
-Served Clercks: 2
-
-
-Customer Name: Customer166
-Customer Arriving Time: 12:55
-Customer Service Time: 13:07
-Customer Wait Time: 12
-Customer Process Time: 6
-Served Clercks: 1
-
-
-Customer Name: Customer76
-Customer Arriving Time: 12:56
-Customer Service Time: 13:09
-Customer Wait Time: 13
-Customer Process Time: 10
-Served Clercks: 4
-
-
-Customer Name: Customer130
-Customer Arriving Time: 12:58
-Customer Service Time: 13:10
-Customer Wait Time: 12
-Customer Process Time: 8
-Served Clercks: 0
-
-
-Customer Name: Customer150
-Customer Arriving Time: 12:58
-Customer Service Time: 13:12
-Customer Wait Time: 14
-Customer Process Time: 11
-Served Clercks: 3
-
-
-Customer Name: Customer53
-Customer Arriving Time: 12:59
-Customer Service Time: 13:13
-Customer Wait Time: 14
-Customer Process Time: 8
-Served Clercks: 1
-
-
-Customer Name: Customer51
-Customer Arriving Time: 13:00
-Customer Service Time: 13:13
-Customer Wait Time: 13
-Customer Process Time: 5
-Served Clercks: 5
-
-
-Customer Name: Customer73
-Customer Arriving Time: 13:00
-Customer Service Time: 13:18
-Customer Wait Time: 18
-Customer Process Time: 10
-Served Clercks: 0
-
-
-Customer Name: Customer4
-Customer Arriving Time: 13:04
-Customer Service Time: 13:18
-Customer Wait Time: 14
-Customer Process Time: 7
-Served Clercks: 5
-
-
-Customer Name: Customer19
-Customer Arriving Time: 13:05
-Customer Service Time: 13:19
-Customer Wait Time: 14
-Customer Process Time: 11
-Served Clercks: 4
-
-
-Customer Name: Customer90
-Customer Arriving Time: 13:07
-Customer Service Time: 13:20
-Customer Wait Time: 13
-Customer Process Time: 5
-Served Clercks: 2
-
-
-Customer Name: Customer193
-Customer Arriving Time: 13:09
-Customer Service Time: 13:21
-Customer Wait Time: 12
-Customer Process Time: 10
-Served Clercks: 1
-
-
-Customer Name: Customer42
-Customer Arriving Time: 13:17
-Customer Service Time: 13:23
-Customer Wait Time: 6
-Customer Process Time: 10
-Served Clercks: 3
-
-
-Customer Name: Customer45
-Customer Arriving Time: 13:17
-Customer Service Time: 13:25
-Customer Wait Time: 8
-Customer Process Time: 15
-Served Clercks: 2
-
-
-Customer Name: Customer116
-Customer Arriving Time: 13:18
-Customer Service Time: 13:25
-Customer Wait Time: 7
-Customer Process Time: 15
-Served Clercks: 5
-
-
-Customer Name: Customer34
-Customer Arriving Time: 13:22
-Customer Service Time: 13:28
-Customer Wait Time: 6
-Customer Process Time: 11
-Served Clercks: 0
-
-
-Customer Name: Customer135
-Customer Arriving Time: 13:23
-Customer Service Time: 13:30
-Customer Wait Time: 7
-Customer Process Time: 14
-Served Clercks: 4
-
-
-Customer Name: Customer44
-Customer Arriving Time: 13:25
-Customer Service Time: 13:31
-Customer Wait Time: 6
-Customer Process Time: 9
-Served Clercks: 1
-
-
-Customer Name: Customer26
-Customer Arriving Time: 13:26
-Customer Service Time: 13:33
-Customer Wait Time: 7
-Customer Process Time: 7
-Served Clercks: 3
-
-
-Customer Name: Customer67
-Customer Arriving Time: 13:27
-Customer Service Time: 13:39
-Customer Wait Time: 12
-Customer Process Time: 5
-Served Clercks: 0
-
-
-Customer Name: Customer29
-Customer Arriving Time: 13:29
-Customer Service Time: 13:40
-Customer Wait Time: 11
-Customer Process Time: 6
-Served Clercks: 1
-
-
-Customer Name: Customer89
-Customer Arriving Time: 13:29
-Customer Service Time: 13:40
-Customer Wait Time: 11
-Customer Process Time: 15
-Served Clercks: 2
-
-
-Customer Name: Customer163
-Customer Arriving Time: 13:30
-Customer Service Time: 13:40
-Customer Wait Time: 10
-Customer Process Time: 7
-Served Clercks: 3
-
-
-Customer Name: Customer188
-Customer Arriving Time: 13:30
-Customer Service Time: 13:40
-Customer Wait Time: 10
-Customer Process Time: 7
-Served Clercks: 5
-
-
-Customer Name: Customer108
-Customer Arriving Time: 13:32
-Customer Service Time: 13:44
-Customer Wait Time: 12
-Customer Process Time: 15
-Served Clercks: 0
-
-
-Customer Name: Customer186
-Customer Arriving Time: 13:32
-Customer Service Time: 13:44
-Customer Wait Time: 12
-Customer Process Time: 8
-Served Clercks: 4
-
-
-Customer Name: Customer151
-Customer Arriving Time: 13:34
-Customer Service Time: 13:46
-Customer Wait Time: 12
-Customer Process Time: 8
-Served Clercks: 1
-
-
-Customer Name: Customer144
-Customer Arriving Time: 13:36
-Customer Service Time: 13:47
-Customer Wait Time: 11
-Customer Process Time: 7
-Served Clercks: 3
-
-
-Customer Name: Customer65
-Customer Arriving Time: 13:38
-Customer Service Time: 13:47
-Customer Wait Time: 9
-Customer Process Time: 8
-Served Clercks: 5
-
-
-Customer Name: Customer101
-Customer Arriving Time: 13:38
-Customer Service Time: 13:52
-Customer Wait Time: 14
-Customer Process Time: 10
-Served Clercks: 4
-
-
-Customer Name: Customer194
-Customer Arriving Time: 13:39
-Customer Service Time: 13:54
-Customer Wait Time: 15
-Customer Process Time: 15
-Served Clercks: 1
-
-
-Customer Name: Customer21
-Customer Arriving Time: 15:01
-Customer Service Time: 15:01
+Customer Name: Customer6
+Customer Arriving Time: 12:13
+Customer Service Time: 12:13
 Customer Wait Time: 0
-Customer Process Time: 13
-Served Clercks: 0
-
-
-Customer Name: Customer67
-Customer Arriving Time: 15:04
-Customer Service Time: 15:04
-Customer Wait Time: 0
-Customer Process Time: 5
-Served Clercks: 1
-
-
-Customer Name: Customer5
-Customer Arriving Time: 15:07
-Customer Service Time: 15:07
-Customer Wait Time: 0
-Customer Process Time: 9
-Served Clercks: 2
-
-
-Customer Name: Customer95
-Customer Arriving Time: 15:09
-Customer Service Time: 15:09
-Customer Wait Time: 0
-Customer Process Time: 8
-Served Clercks: 1
-
-
-Customer Name: Customer115
-Customer Arriving Time: 15:11
-Customer Service Time: 15:11
-Customer Wait Time: 0
-Customer Process Time: 6
-Served Clercks: 3
-
-
-Customer Name: Customer158
-Customer Arriving Time: 15:12
-Customer Service Time: 15:12
-Customer Wait Time: 0
-Customer Process Time: 11
-Served Clercks: 4
-
-
-Customer Name: Customer46
-Customer Arriving Time: 15:15
-Customer Service Time: 15:15
-Customer Wait Time: 0
-Customer Process Time: 6
-Served Clercks: 0
-
-
-Customer Name: Customer195
-Customer Arriving Time: 15:15
-Customer Service Time: 15:15
-Customer Wait Time: 0
-Customer Process Time: 10
-Served Clercks: 5
-
-
-Customer Name: Customer16
-Customer Arriving Time: 15:18
-Customer Service Time: 15:18
-Customer Wait Time: 0
-Customer Process Time: 14
-Served Clercks: 1
-
-
-Customer Name: Customer22
-Customer Arriving Time: 15:18
-Customer Service Time: 15:18
-Customer Wait Time: 0
-Customer Process Time: 8
-Served Clercks: 2
-
-
-Customer Name: Customer12
-Customer Arriving Time: 15:21
-Customer Service Time: 15:21
-Customer Wait Time: 0
-Customer Process Time: 10
-Served Clercks: 0
-
-
-Customer Name: Customer150
-Customer Arriving Time: 15:23
-Customer Service Time: 15:23
-Customer Wait Time: 0
-Customer Process Time: 6
-Served Clercks: 3
-
-
-Customer Name: Customer157
-Customer Arriving Time: 15:24
-Customer Service Time: 15:24
-Customer Wait Time: 0
-Customer Process Time: 10
-Served Clercks: 4
-
-
-Customer Name: Customer160
-Customer Arriving Time: 15:27
-Customer Service Time: 15:27
-Customer Wait Time: 0
-Customer Process Time: 15
-Served Clercks: 2
-
-
-Customer Name: Customer165
-Customer Arriving Time: 15:30
-Customer Service Time: 15:30
-Customer Wait Time: 0
-Customer Process Time: 10
-Served Clercks: 3
-
-
-Customer Name: Customer177
-Customer Arriving Time: 15:31
-Customer Service Time: 15:31
-Customer Wait Time: 0
-Customer Process Time: 8
-Served Clercks: 0
-
-
-Customer Name: Customer34
-Customer Arriving Time: 15:33
-Customer Service Time: 15:33
-Customer Wait Time: 0
-Customer Process Time: 10
-Served Clercks: 1
-
-
-Customer Name: Customer154
-Customer Arriving Time: 15:33
-Customer Service Time: 15:33
-Customer Wait Time: 0
-Customer Process Time: 14
-Served Clercks: 5
-
-
-Customer Name: Customer45
-Customer Arriving Time: 15:35
-Customer Service Time: 15:35
-Customer Wait Time: 0
-Customer Process Time: 5
-Served Clercks: 4
-
-
-Customer Name: Customer192
-Customer Arriving Time: 15:36
-Customer Service Time: 15:36
-Customer Wait Time: 0
-Customer Process Time: 12
-Served Clercks: 6
-
-
-Customer Name: Customer41
-Customer Arriving Time: 15:37
-Customer Service Time: 15:39
-Customer Wait Time: 2
-Customer Process Time: 11
-Served Clercks: 0
-
-
-Customer Name: Customer14
-Customer Arriving Time: 15:38
-Customer Service Time: 15:40
-Customer Wait Time: 2
-Customer Process Time: 12
-Served Clercks: 3
-
-
-Customer Name: Customer90
-Customer Arriving Time: 15:39
-Customer Service Time: 15:40
-Customer Wait Time: 1
-Customer Process Time: 13
-Served Clercks: 4
-
-
-Customer Name: Customer121
-Customer Arriving Time: 15:40
-Customer Service Time: 15:42
-Customer Wait Time: 2
-Customer Process Time: 8
-Served Clercks: 2
-
-
-Customer Name: Customer184
-Customer Arriving Time: 15:40
-Customer Service Time: 15:43
-Customer Wait Time: 3
-Customer Process Time: 14
-Served Clercks: 1
-
-
-Customer Name: Customer129
-Customer Arriving Time: 15:41
-Customer Service Time: 15:47
-Customer Wait Time: 6
-Customer Process Time: 14
-Served Clercks: 5
-
-
-Customer Name: Customer9
-Customer Arriving Time: 15:42
-Customer Service Time: 15:48
-Customer Wait Time: 6
-Customer Process Time: 11
-Served Clercks: 6
-
-
-Customer Name: Customer39
-Customer Arriving Time: 15:44
-Customer Service Time: 15:50
-Customer Wait Time: 6
-Customer Process Time: 14
-Served Clercks: 0
-
-
-Customer Name: Customer66
-Customer Arriving Time: 15:45
-Customer Service Time: 15:50
-Customer Wait Time: 5
-Customer Process Time: 5
-Served Clercks: 2
-
-
-Customer Name: Customer96
-Customer Arriving Time: 15:45
-Customer Service Time: 15:52
-Customer Wait Time: 7
-Customer Process Time: 8
-Served Clercks: 3
-
-
-Customer Name: Customer117
-Customer Arriving Time: 15:47
-Customer Service Time: 15:53
-Customer Wait Time: 6
-Customer Process Time: 13
-Served Clercks: 4
-
-
-Customer Name: Customer109
-Customer Arriving Time: 15:48
-Customer Service Time: 15:55
-Customer Wait Time: 7
-Customer Process Time: 9
-Served Clercks: 2
-
-
-Customer Name: Customer2
-Customer Arriving Time: 15:49
-Customer Service Time: 15:57
-Customer Wait Time: 8
-Customer Process Time: 15
-Served Clercks: 1
-
-
-Customer Name: Customer122
-Customer Arriving Time: 15:51
-Customer Service Time: 15:59
-Customer Wait Time: 8
-Customer Process Time: 12
-Served Clercks: 6
-
-
-Customer Name: Customer127
-Customer Arriving Time: 15:51
-Customer Service Time: 16:00
-Customer Wait Time: 9
-Customer Process Time: 12
-Served Clercks: 3
-
-
-Customer Name: Customer3
-Customer Arriving Time: 15:52
-Customer Service Time: 16:01
-Customer Wait Time: 9
-Customer Process Time: 13
-Served Clercks: 5
-
-
-Customer Name: Customer13
-Customer Arriving Time: 15:52
-Customer Service Time: 16:04
-Customer Wait Time: 12
-Customer Process Time: 8
-Served Clercks: 0
-
-
-Customer Name: Customer8
-Customer Arriving Time: 15:55
-Customer Service Time: 16:04
-Customer Wait Time: 9
-Customer Process Time: 9
-Served Clercks: 2
-
-
-Customer Name: Customer94
-Customer Arriving Time: 15:55
-Customer Service Time: 16:06
-Customer Wait Time: 11
-Customer Process Time: 7
-Served Clercks: 4
-
-
-Customer Name: Customer19
-Customer Arriving Time: 15:57
-Customer Service Time: 16:11
-Customer Wait Time: 14
-Customer Process Time: 5
-Served Clercks: 6
-
-
-Customer Name: Customer80
-Customer Arriving Time: 15:59
-Customer Service Time: 16:12
-Customer Wait Time: 13
-Customer Process Time: 12
-Served Clercks: 0
-
-
-Customer Name: Customer84
-Customer Arriving Time: 16:02
-Customer Service Time: 16:12
-Customer Wait Time: 10
 Customer Process Time: 7
 Served Clercks: 1
 
 
 Customer Name: Customer74
-Customer Arriving Time: 16:03
-Customer Service Time: 16:12
-Customer Wait Time: 9
+Customer Arriving Time: 12:18
+Customer Service Time: 12:18
+Customer Wait Time: 0
 Customer Process Time: 7
-Served Clercks: 3
-
-
-Customer Name: Customer105
-Customer Arriving Time: 16:03
-Customer Service Time: 16:13
-Customer Wait Time: 10
-Customer Process Time: 8
-Served Clercks: 2
-
-
-Customer Name: Customer194
-Customer Arriving Time: 16:05
-Customer Service Time: 16:13
-Customer Wait Time: 8
-Customer Process Time: 11
-Served Clercks: 4
-
-
-Customer Name: Customer50
-Customer Arriving Time: 16:06
-Customer Service Time: 16:14
-Customer Wait Time: 8
-Customer Process Time: 6
-Served Clercks: 5
-
-
-Customer Name: Customer24
-Customer Arriving Time: 16:08
-Customer Service Time: 16:16
-Customer Wait Time: 8
-Customer Process Time: 12
-Served Clercks: 6
-
-
-Customer Name: Customer111
-Customer Arriving Time: 16:12
-Customer Service Time: 16:19
-Customer Wait Time: 7
-Customer Process Time: 10
-Served Clercks: 1
-
-
-Customer Name: Customer147
-Customer Arriving Time: 16:12
-Customer Service Time: 16:19
-Customer Wait Time: 7
-Customer Process Time: 8
-Served Clercks: 3
-
-
-Customer Name: Customer168
-Customer Arriving Time: 16:12
-Customer Service Time: 16:20
-Customer Wait Time: 8
-Customer Process Time: 11
-Served Clercks: 5
+Served Clercks: 0
 
 
 Customer Name: Customer114
-Customer Arriving Time: 16:13
-Customer Service Time: 16:21
-Customer Wait Time: 8
-Customer Process Time: 12
-Served Clercks: 2
-
-
-Customer Name: Customer146
-Customer Arriving Time: 16:14
-Customer Service Time: 16:24
-Customer Wait Time: 10
-Customer Process Time: 15
-Served Clercks: 0
-
-
-Customer Name: Customer189
-Customer Arriving Time: 16:15
-Customer Service Time: 16:24
-Customer Wait Time: 9
-Customer Process Time: 15
-Served Clercks: 4
-
-
-Customer Name: Customer61
-Customer Arriving Time: 16:21
-Customer Service Time: 16:27
-Customer Wait Time: 6
-Customer Process Time: 13
-Served Clercks: 3
-
-
-Customer Name: Customer48
-Customer Arriving Time: 16:23
-Customer Service Time: 16:28
-Customer Wait Time: 5
-Customer Process Time: 10
-Served Clercks: 6
-
-
-Customer Name: Customer120
-Customer Arriving Time: 16:23
-Customer Service Time: 16:29
-Customer Wait Time: 6
-Customer Process Time: 14
-Served Clercks: 1
-
-
-Customer Name: Customer20
-Customer Arriving Time: 16:24
-Customer Service Time: 16:31
-Customer Wait Time: 7
-Customer Process Time: 7
-Served Clercks: 5
-
-
-Customer Name: Customer69
-Customer Arriving Time: 16:25
-Customer Service Time: 16:33
-Customer Wait Time: 8
-Customer Process Time: 7
-Served Clercks: 2
-
-
-Customer Name: Customer148
-Customer Arriving Time: 16:25
-Customer Service Time: 16:38
-Customer Wait Time: 13
-Customer Process Time: 6
-Served Clercks: 5
-
-
-Customer Name: Customer36
-Customer Arriving Time: 16:26
-Customer Service Time: 16:38
-Customer Wait Time: 12
-Customer Process Time: 8
-Served Clercks: 6
-
-
-Customer Name: Customer175
-Customer Arriving Time: 16:29
-Customer Service Time: 16:39
-Customer Wait Time: 10
-Customer Process Time: 11
-Served Clercks: 0
-
-
-Customer Name: Customer47
-Customer Arriving Time: 16:31
-Customer Service Time: 16:39
-Customer Wait Time: 8
-Customer Process Time: 5
-Served Clercks: 4
-
-
-Customer Name: Customer183
-Customer Arriving Time: 16:33
-Customer Service Time: 16:40
-Customer Wait Time: 7
-Customer Process Time: 9
-Served Clercks: 2
-
-
-Customer Name: Customer145
-Customer Arriving Time: 16:38
-Customer Service Time: 16:40
-Customer Wait Time: 2
-Customer Process Time: 6
-Served Clercks: 3
-
-
-Customer Name: Customer132
-Customer Arriving Time: 15:01
-Customer Service Time: 15:01
-Customer Wait Time: 0
-Customer Process Time: 12
-Served Clercks: 0
-
-
-Customer Name: Customer156
-Customer Arriving Time: 15:01
-Customer Service Time: 15:01
-Customer Wait Time: 0
-Customer Process Time: 13
-Served Clercks: 1
-
-
-Customer Name: Customer87
-Customer Arriving Time: 15:03
-Customer Service Time: 15:03
-Customer Wait Time: 0
-Customer Process Time: 7
-Served Clercks: 2
-
-
-Customer Name: Customer124
-Customer Arriving Time: 15:03
-Customer Service Time: 15:03
-Customer Wait Time: 0
-Customer Process Time: 13
-Served Clercks: 3
-
-
-Customer Name: Customer88
-Customer Arriving Time: 15:09
-Customer Service Time: 15:09
-Customer Wait Time: 0
-Customer Process Time: 15
-Served Clercks: 4
-
-
-Customer Name: Customer185
-Customer Arriving Time: 15:09
-Customer Service Time: 15:09
-Customer Wait Time: 0
-Customer Process Time: 14
-Served Clercks: 5
-
-
-Customer Name: Customer135
-Customer Arriving Time: 15:10
-Customer Service Time: 15:10
-Customer Wait Time: 0
-Customer Process Time: 12
-Served Clercks: 2
-
-
-Customer Name: Customer181
-Customer Arriving Time: 15:11
-Customer Service Time: 15:11
-Customer Wait Time: 0
-Customer Process Time: 15
-Served Clercks: 6
-
-
-Customer Name: Customer196
-Customer Arriving Time: 15:12
-Customer Service Time: 15:12
-Customer Wait Time: 0
-Customer Process Time: 15
-Served Clercks: 7
-
-
-Customer Name: Customer56
-Customer Arriving Time: 15:13
-Customer Service Time: 15:13
+Customer Arriving Time: 12:18
+Customer Service Time: 12:18
 Customer Wait Time: 0
 Customer Process Time: 11
-Served Clercks: 0
-
-
-Customer Name: Customer55
-Customer Arriving Time: 15:15
-Customer Service Time: 15:15
-Customer Wait Time: 0
-Customer Process Time: 7
-Served Clercks: 1
-
-
-Customer Name: Customer11
-Customer Arriving Time: 15:17
-Customer Service Time: 15:17
-Customer Wait Time: 0
-Customer Process Time: 6
-Served Clercks: 3
-
-
-Customer Name: Customer199
-Customer Arriving Time: 15:17
-Customer Service Time: 15:22
-Customer Wait Time: 5
-Customer Process Time: 14
-Served Clercks: 1
-
-
-Customer Name: Customer40
-Customer Arriving Time: 15:18
-Customer Service Time: 15:22
-Customer Wait Time: 4
-Customer Process Time: 9
-Served Clercks: 2
-
-
-Customer Name: Customer63
-Customer Arriving Time: 15:18
-Customer Service Time: 15:23
-Customer Wait Time: 5
-Customer Process Time: 8
-Served Clercks: 3
-
-
-Customer Name: Customer128
-Customer Arriving Time: 15:18
-Customer Service Time: 15:23
-Customer Wait Time: 5
-Customer Process Time: 6
-Served Clercks: 5
-
-
-Customer Name: Customer103
-Customer Arriving Time: 15:19
-Customer Service Time: 15:24
-Customer Wait Time: 5
-Customer Process Time: 14
-Served Clercks: 0
-
-
-Customer Name: Customer143
-Customer Arriving Time: 15:19
-Customer Service Time: 15:24
-Customer Wait Time: 5
-Customer Process Time: 6
-Served Clercks: 4
-
-
-Customer Name: Customer187
-Customer Arriving Time: 15:19
-Customer Service Time: 15:26
-Customer Wait Time: 7
-Customer Process Time: 10
-Served Clercks: 6
-
-
-Customer Name: Customer104
-Customer Arriving Time: 15:20
-Customer Service Time: 15:27
-Customer Wait Time: 7
-Customer Process Time: 13
-Served Clercks: 7
-
-
-Customer Name: Customer176
-Customer Arriving Time: 15:20
-Customer Service Time: 15:29
-Customer Wait Time: 9
-Customer Process Time: 12
-Served Clercks: 5
-
-
-Customer Name: Customer65
-Customer Arriving Time: 15:22
-Customer Service Time: 15:30
-Customer Wait Time: 8
-Customer Process Time: 8
-Served Clercks: 4
-
-
-Customer Name: Customer10
-Customer Arriving Time: 15:29
-Customer Service Time: 15:31
-Customer Wait Time: 2
-Customer Process Time: 11
-Served Clercks: 2
-
-
-Customer Name: Customer164
-Customer Arriving Time: 15:31
-Customer Service Time: 15:31
-Customer Wait Time: 0
-Customer Process Time: 7
-Served Clercks: 3
-
-
-Customer Name: Customer141
-Customer Arriving Time: 15:34
-Customer Service Time: 15:36
-Customer Wait Time: 2
-Customer Process Time: 13
-Served Clercks: 1
-
-
-Customer Name: Customer97
-Customer Arriving Time: 15:39
-Customer Service Time: 15:39
-Customer Wait Time: 0
-Customer Process Time: 5
-Served Clercks: 0
-
-
-Customer Name: Customer107
-Customer Arriving Time: 15:39
-Customer Service Time: 15:39
-Customer Wait Time: 0
-Customer Process Time: 6
-Served Clercks: 3
-
-
-Customer Name: Customer119
-Customer Arriving Time: 15:39
-Customer Service Time: 15:39
-Customer Wait Time: 0
-Customer Process Time: 15
-Served Clercks: 4
-
-
-Customer Name: Customer59
-Customer Arriving Time: 15:41
-Customer Service Time: 15:41
-Customer Wait Time: 0
-Customer Process Time: 12
-Served Clercks: 5
-
-
-Customer Name: Customer93
-Customer Arriving Time: 15:42
-Customer Service Time: 15:42
-Customer Wait Time: 0
-Customer Process Time: 8
-Served Clercks: 2
-
-
-Customer Name: Customer162
-Customer Arriving Time: 15:42
-Customer Service Time: 15:42
-Customer Wait Time: 0
-Customer Process Time: 11
-Served Clercks: 6
-
-
-Customer Name: Customer174
-Customer Arriving Time: 15:42
-Customer Service Time: 15:42
-Customer Wait Time: 0
-Customer Process Time: 6
-Served Clercks: 7
-
-
-Customer Name: Customer178
-Customer Arriving Time: 15:44
-Customer Service Time: 15:44
-Customer Wait Time: 0
-Customer Process Time: 13
-Served Clercks: 0
-
-
-Customer Name: Customer18
-Customer Arriving Time: 15:45
-Customer Service Time: 15:45
-Customer Wait Time: 0
-Customer Process Time: 15
 Served Clercks: 3
 
 
 Customer Name: Customer167
-Customer Arriving Time: 15:48
-Customer Service Time: 15:48
-Customer Wait Time: 0
-Customer Process Time: 7
-Served Clercks: 7
-
-
-Customer Name: Customer49
-Customer Arriving Time: 15:56
-Customer Service Time: 15:56
-Customer Wait Time: 0
-Customer Process Time: 12
-Served Clercks: 1
-
-
-Customer Name: Customer26
-Customer Arriving Time: 15:57
-Customer Service Time: 15:57
-Customer Wait Time: 0
-Customer Process Time: 12
-Served Clercks: 0
-
-
-Customer Name: Customer108
-Customer Arriving Time: 15:57
-Customer Service Time: 15:57
-Customer Wait Time: 0
-Customer Process Time: 14
-Served Clercks: 2
-
-
-Customer Name: Customer102
-Customer Arriving Time: 15:58
-Customer Service Time: 15:58
-Customer Wait Time: 0
-Customer Process Time: 10
-Served Clercks: 4
-
-
-Customer Name: Customer171
-Customer Arriving Time: 15:58
-Customer Service Time: 15:58
-Customer Wait Time: 0
-Customer Process Time: 5
-Served Clercks: 5
-
-
-Customer Name: Customer62
-Customer Arriving Time: 16:02
-Customer Service Time: 16:02
-Customer Wait Time: 0
-Customer Process Time: 10
-Served Clercks: 3
-
-
-Customer Name: Customer76
-Customer Arriving Time: 16:07
-Customer Service Time: 16:07
-Customer Wait Time: 0
-Customer Process Time: 13
-Served Clercks: 5
-
-
-Customer Name: Customer106
-Customer Arriving Time: 16:08
-Customer Service Time: 16:08
-Customer Wait Time: 0
-Customer Process Time: 10
-Served Clercks: 1
-
-
-Customer Name: Customer134
-Customer Arriving Time: 16:11
-Customer Service Time: 16:11
-Customer Wait Time: 0
-Customer Process Time: 5
-Served Clercks: 0
-
-
-Customer Name: Customer126
-Customer Arriving Time: 16:12
-Customer Service Time: 16:12
-Customer Wait Time: 0
-Customer Process Time: 9
-Served Clercks: 2
-
-
-Customer Name: Customer155
-Customer Arriving Time: 16:12
-Customer Service Time: 16:12
-Customer Wait Time: 0
-Customer Process Time: 14
-Served Clercks: 3
-
-
-Customer Name: Customer6
-Customer Arriving Time: 16:13
-Customer Service Time: 16:13
-Customer Wait Time: 0
-Customer Process Time: 11
-Served Clercks: 4
-
-
-Customer Name: Customer100
-Customer Arriving Time: 16:18
-Customer Service Time: 16:18
-Customer Wait Time: 0
-Customer Process Time: 11
-Served Clercks: 0
-
-
-Customer Name: Customer4
-Customer Arriving Time: 16:19
-Customer Service Time: 16:19
-Customer Wait Time: 0
-Customer Process Time: 5
-Served Clercks: 1
-
-
-Customer Name: Customer52
-Customer Arriving Time: 16:19
-Customer Service Time: 16:19
-Customer Wait Time: 0
-Customer Process Time: 7
-Served Clercks: 6
-
-
-Customer Name: Customer78
-Customer Arriving Time: 16:20
-Customer Service Time: 16:20
-Customer Wait Time: 0
-Customer Process Time: 10
-Served Clercks: 5
-
-
-Customer Name: Customer139
-Customer Arriving Time: 16:20
-Customer Service Time: 16:20
+Customer Arriving Time: 12:18
+Customer Service Time: 12:18
 Customer Wait Time: 0
 Customer Process Time: 15
-Served Clercks: 7
+Served Clercks: 4
 
 
-Customer Name: Customer54
-Customer Arriving Time: 16:21
-Customer Service Time: 16:21
+Customer Name: Customer140
+Customer Arriving Time: 12:19
+Customer Service Time: 12:19
+Customer Wait Time: 0
+Customer Process Time: 14
+Served Clercks: 5
+
+
+Customer Name: Customer61
+Customer Arriving Time: 12:23
+Customer Service Time: 12:23
+Customer Wait Time: 0
+Customer Process Time: 13
+Served Clercks: 1
+
+
+Customer Name: Customer164
+Customer Arriving Time: 12:23
+Customer Service Time: 12:23
 Customer Wait Time: 0
 Customer Process Time: 15
 Served Clercks: 2
 
 
 Customer Name: Customer130
-Customer Arriving Time: 16:22
-Customer Service Time: 16:24
+Customer Arriving Time: 12:26
+Customer Service Time: 12:26
+Customer Wait Time: 0
+Customer Process Time: 10
+Served Clercks: 0
+
+
+Customer Name: Customer136
+Customer Arriving Time: 12:27
+Customer Service Time: 12:27
+Customer Wait Time: 0
+Customer Process Time: 12
+Served Clercks: 6
+
+
+Customer Name: Customer156
+Customer Arriving Time: 12:27
+Customer Service Time: 12:29
 Customer Wait Time: 2
+Customer Process Time: 8
+Served Clercks: 3
+
+
+Customer Name: Customer60
+Customer Arriving Time: 12:28
+Customer Service Time: 12:33
+Customer Wait Time: 5
+Customer Process Time: 9
+Served Clercks: 4
+
+
+Customer Name: Customer58
+Customer Arriving Time: 12:30
+Customer Service Time: 12:33
+Customer Wait Time: 3
+Customer Process Time: 13
+Served Clercks: 5
+
+
+Customer Name: Customer188
+Customer Arriving Time: 12:31
+Customer Service Time: 12:36
+Customer Wait Time: 5
+Customer Process Time: 9
+Served Clercks: 0
+
+
+Customer Name: Customer103
+Customer Arriving Time: 12:32
+Customer Service Time: 12:36
+Customer Wait Time: 4
+Customer Process Time: 6
+Served Clercks: 1
+
+
+Customer Name: Customer14
+Customer Arriving Time: 12:34
+Customer Service Time: 12:37
+Customer Wait Time: 3
+Customer Process Time: 5
+Served Clercks: 3
+
+
+Customer Name: Customer85
+Customer Arriving Time: 12:34
+Customer Service Time: 12:38
+Customer Wait Time: 4
+Customer Process Time: 15
+Served Clercks: 2
+
+
+Customer Name: Customer46
+Customer Arriving Time: 12:35
+Customer Service Time: 12:39
+Customer Wait Time: 4
+Customer Process Time: 7
+Served Clercks: 6
+
+
+Customer Name: Customer68
+Customer Arriving Time: 12:37
+Customer Service Time: 12:42
+Customer Wait Time: 5
 Customer Process Time: 12
 Served Clercks: 1
 
 
-Customer Name: Customer91
-Customer Arriving Time: 16:26
-Customer Service Time: 16:26
-Customer Wait Time: 0
-Customer Process Time: 15
+Customer Name: Customer86
+Customer Arriving Time: 12:37
+Customer Service Time: 12:42
+Customer Wait Time: 5
+Customer Process Time: 7
 Served Clercks: 3
 
 
-Customer Name: Customer188
-Customer Arriving Time: 16:26
-Customer Service Time: 16:26
-Customer Wait Time: 0
+Customer Name: Customer89
+Customer Arriving Time: 12:37
+Customer Service Time: 12:42
+Customer Wait Time: 5
+Customer Process Time: 8
+Served Clercks: 4
+
+
+Customer Name: Customer182
+Customer Arriving Time: 12:41
+Customer Service Time: 12:45
+Customer Wait Time: 4
+Customer Process Time: 14
+Served Clercks: 0
+
+
+Customer Name: Customer191
+Customer Arriving Time: 12:42
+Customer Service Time: 12:46
+Customer Wait Time: 4
+Customer Process Time: 9
+Served Clercks: 5
+
+
+Customer Name: Customer35
+Customer Arriving Time: 12:43
+Customer Service Time: 12:46
+Customer Wait Time: 3
+Customer Process Time: 14
+Served Clercks: 6
+
+
+Customer Name: Customer30
+Customer Arriving Time: 12:44
+Customer Service Time: 12:49
+Customer Wait Time: 5
+Customer Process Time: 14
+Served Clercks: 3
+
+
+Customer Name: Customer127
+Customer Arriving Time: 12:44
+Customer Service Time: 12:50
+Customer Wait Time: 6
 Customer Process Time: 13
 Served Clercks: 4
 
 
-Customer Name: Customer151
-Customer Arriving Time: 16:28
-Customer Service Time: 16:28
-Customer Wait Time: 0
-Customer Process Time: 11
-Served Clercks: 6
-
-
-Customer Name: Customer25
-Customer Arriving Time: 16:31
-Customer Service Time: 16:31
-Customer Wait Time: 0
-Customer Process Time: 11
-Served Clercks: 0
-
-
-Customer Name: Customer138
-Customer Arriving Time: 16:31
-Customer Service Time: 16:31
-Customer Wait Time: 0
-Customer Process Time: 11
-Served Clercks: 5
-
-
-Customer Name: Customer179
-Customer Arriving Time: 16:35
-Customer Service Time: 16:35
-Customer Wait Time: 0
-Customer Process Time: 11
-Served Clercks: 7
-
-
-Customer Name: Customer70
-Customer Arriving Time: 16:36
-Customer Service Time: 16:36
-Customer Wait Time: 0
+Customer Name: Customer79
+Customer Arriving Time: 12:46
+Customer Service Time: 12:53
+Customer Wait Time: 7
 Customer Process Time: 7
+Served Clercks: 2
+
+
+Customer Name: Customer147
+Customer Arriving Time: 12:47
+Customer Service Time: 12:54
+Customer Wait Time: 7
+Customer Process Time: 13
 Served Clercks: 1
 
 
-Customer Name: Customer92
-Customer Arriving Time: 16:36
-Customer Service Time: 16:36
-Customer Wait Time: 0
+Customer Name: Customer28
+Customer Arriving Time: 12:48
+Customer Service Time: 12:55
+Customer Wait Time: 7
+Customer Process Time: 14
+Served Clercks: 5
+
+
+Customer Name: Customer42
+Customer Arriving Time: 12:48
+Customer Service Time: 12:59
+Customer Wait Time: 11
+Customer Process Time: 7
+Served Clercks: 0
+
+
+Customer Name: Customer80
+Customer Arriving Time: 12:50
+Customer Service Time: 13:00
+Customer Wait Time: 10
 Customer Process Time: 5
 Served Clercks: 2
 
 
-Customer Name: Customer118
-Customer Arriving Time: 16:36
-Customer Service Time: 16:39
-Customer Wait Time: 3
-Customer Process Time: 6
-Served Clercks: 4
-
-
-Customer Name: Customer163
-Customer Arriving Time: 16:37
-Customer Service Time: 16:39
-Customer Wait Time: 2
-Customer Process Time: 6
+Customer Name: Customer128
+Customer Arriving Time: 12:54
+Customer Service Time: 13:00
+Customer Wait Time: 6
+Customer Process Time: 10
 Served Clercks: 6
 
 
-Customer Name: Customer123
-Customer Arriving Time: 16:40
-Customer Service Time: 16:41
-Customer Wait Time: 1
-Customer Process Time: 15
+Customer Name: Customer192
+Customer Arriving Time: 12:54
+Customer Service Time: 13:03
+Customer Wait Time: 9
+Customer Process Time: 5
+Served Clercks: 3
+
+
+Customer Name: Customer144
+Customer Arriving Time: 12:58
+Customer Service Time: 13:03
+Customer Wait Time: 5
+Customer Process Time: 10
+Served Clercks: 4
+
+
+Customer Name: Customer55
+Customer Arriving Time: 13:00
+Customer Service Time: 13:05
+Customer Wait Time: 5
+Customer Process Time: 9
 Served Clercks: 2
 
 
-Customer Name: Customer1
-Customer Arriving Time: 15:04
-Customer Service Time: 15:04
-Customer Wait Time: 0
+Customer Name: Customer124
+Customer Arriving Time: 13:00
+Customer Service Time: 13:06
+Customer Wait Time: 6
+Customer Process Time: 5
+Served Clercks: 0
+
+
+Customer Name: Customer148
+Customer Arriving Time: 13:01
+Customer Service Time: 13:07
+Customer Wait Time: 6
+Customer Process Time: 7
+Served Clercks: 1
+
+
+Customer Name: Customer33
+Customer Arriving Time: 13:02
+Customer Service Time: 13:08
+Customer Wait Time: 6
+Customer Process Time: 11
+Served Clercks: 3
+
+
+Customer Name: Customer29
+Customer Arriving Time: 13:05
+Customer Service Time: 13:09
+Customer Wait Time: 4
+Customer Process Time: 8
+Served Clercks: 5
+
+
+Customer Name: Customer118
+Customer Arriving Time: 13:06
+Customer Service Time: 13:10
+Customer Wait Time: 4
+Customer Process Time: 15
+Served Clercks: 6
+
+
+Customer Name: Customer97
+Customer Arriving Time: 13:10
+Customer Service Time: 13:11
+Customer Wait Time: 1
+Customer Process Time: 7
+Served Clercks: 0
+
+
+Customer Name: Customer2
+Customer Arriving Time: 13:11
+Customer Service Time: 13:13
+Customer Wait Time: 2
+Customer Process Time: 9
+Served Clercks: 4
+
+
+Customer Name: Customer165
+Customer Arriving Time: 13:11
+Customer Service Time: 13:14
+Customer Wait Time: 3
+Customer Process Time: 15
+Served Clercks: 1
+
+
+Customer Name: Customer110
+Customer Arriving Time: 13:12
+Customer Service Time: 13:14
+Customer Wait Time: 2
+Customer Process Time: 14
+Served Clercks: 2
+
+
+Customer Name: Customer64
+Customer Arriving Time: 13:16
+Customer Service Time: 13:17
+Customer Wait Time: 1
+Customer Process Time: 7
+Served Clercks: 5
+
+
+Customer Name: Customer36
+Customer Arriving Time: 13:17
+Customer Service Time: 13:18
+Customer Wait Time: 1
 Customer Process Time: 15
 Served Clercks: 0
 
 
-Customer Name: Customer85
+Customer Name: Customer41
+Customer Arriving Time: 13:17
+Customer Service Time: 13:19
+Customer Wait Time: 2
+Customer Process Time: 15
+Served Clercks: 3
+
+
+Customer Name: Customer92
+Customer Arriving Time: 13:17
+Customer Service Time: 13:22
+Customer Wait Time: 5
+Customer Process Time: 9
+Served Clercks: 4
+
+
+Customer Name: Customer163
+Customer Arriving Time: 13:17
+Customer Service Time: 13:24
+Customer Wait Time: 7
+Customer Process Time: 6
+Served Clercks: 5
+
+
+Customer Name: Customer149
+Customer Arriving Time: 13:18
+Customer Service Time: 13:25
+Customer Wait Time: 7
+Customer Process Time: 5
+Served Clercks: 6
+
+
+Customer Name: Customer138
+Customer Arriving Time: 13:19
+Customer Service Time: 13:28
+Customer Wait Time: 9
+Customer Process Time: 11
+Served Clercks: 2
+
+
+Customer Name: Customer122
+Customer Arriving Time: 13:21
+Customer Service Time: 13:29
+Customer Wait Time: 8
+Customer Process Time: 13
+Served Clercks: 1
+
+
+Customer Name: Customer155
+Customer Arriving Time: 13:21
+Customer Service Time: 13:30
+Customer Wait Time: 9
+Customer Process Time: 13
+Served Clercks: 5
+
+
+Customer Name: Customer94
+Customer Arriving Time: 13:22
+Customer Service Time: 13:30
+Customer Wait Time: 8
+Customer Process Time: 10
+Served Clercks: 6
+
+
+Customer Name: Customer82
+Customer Arriving Time: 13:24
+Customer Service Time: 13:31
+Customer Wait Time: 7
+Customer Process Time: 14
+Served Clercks: 4
+
+
+Customer Name: Customer180
+Customer Arriving Time: 13:26
+Customer Service Time: 13:33
+Customer Wait Time: 7
+Customer Process Time: 11
+Served Clercks: 0
+
+
+Customer Name: Customer56
+Customer Arriving Time: 13:32
+Customer Service Time: 13:34
+Customer Wait Time: 2
+Customer Process Time: 12
+Served Clercks: 3
+
+
+Customer Name: Customer21
+Customer Arriving Time: 13:33
+Customer Service Time: 13:39
+Customer Wait Time: 6
+Customer Process Time: 10
+Served Clercks: 2
+
+
+Customer Name: Customer193
+Customer Arriving Time: 13:34
+Customer Service Time: 13:40
+Customer Wait Time: 6
+Customer Process Time: 9
+Served Clercks: 6
+
+
+Customer Name: Customer125
+Customer Arriving Time: 13:38
+Customer Service Time: 13:42
+Customer Wait Time: 4
+Customer Process Time: 14
+Served Clercks: 1
+
+
+Customer Name: Customer32
+Customer Arriving Time: 13:39
+Customer Service Time: 13:43
+Customer Wait Time: 4
+Customer Process Time: 5
+Served Clercks: 5
+
+
+Customer Name: Customer90
+Customer Arriving Time: 15:00
+Customer Service Time: 15:00
+Customer Wait Time: 0
+Customer Process Time: 8
+Served Clercks: 0
+
+
+Customer Name: Customer99
+Customer Arriving Time: 15:01
+Customer Service Time: 15:01
+Customer Wait Time: 0
+Customer Process Time: 12
+Served Clercks: 1
+
+
+Customer Name: Customer13
 Customer Arriving Time: 15:05
 Customer Service Time: 15:05
 Customer Wait Time: 0
 Customer Process Time: 5
-Served Clercks: 1
-
-
-Customer Name: Customer71
-Customer Arriving Time: 15:07
-Customer Service Time: 15:07
-Customer Wait Time: 0
-Customer Process Time: 7
 Served Clercks: 2
 
 
-Customer Name: Customer161
-Customer Arriving Time: 15:07
-Customer Service Time: 15:07
-Customer Wait Time: 0
-Customer Process Time: 10
-Served Clercks: 3
-
-
-Customer Name: Customer33
+Customer Name: Customer177
 Customer Arriving Time: 15:08
 Customer Service Time: 15:08
 Customer Wait Time: 0
-Customer Process Time: 13
-Served Clercks: 4
+Customer Process Time: 8
+Served Clercks: 0
 
 
-Customer Name: Customer98
-Customer Arriving Time: 15:10
-Customer Service Time: 15:10
-Customer Wait Time: 0
-Customer Process Time: 14
-Served Clercks: 1
-
-
-Customer Name: Customer153
+Customer Name: Customer25
 Customer Arriving Time: 15:11
 Customer Service Time: 15:11
 Customer Wait Time: 0
-Customer Process Time: 6
-Served Clercks: 5
+Customer Process Time: 12
+Served Clercks: 2
 
 
-Customer Name: Customer15
+Customer Name: Customer149
+Customer Arriving Time: 15:11
+Customer Service Time: 15:11
+Customer Wait Time: 0
+Customer Process Time: 12
+Served Clercks: 3
+
+
+Customer Name: Customer161
+Customer Arriving Time: 15:12
+Customer Service Time: 15:12
+Customer Wait Time: 0
+Customer Process Time: 12
+Served Clercks: 4
+
+
+Customer Name: Customer192
 Customer Arriving Time: 15:12
 Customer Service Time: 15:12
 Customer Wait Time: 0
 Customer Process Time: 13
-Served Clercks: 6
-
-
-Customer Name: Customer142
-Customer Arriving Time: 15:12
-Customer Service Time: 15:14
-Customer Wait Time: 2
-Customer Process Time: 11
-Served Clercks: 2
-
-
-Customer Name: Customer159
-Customer Arriving Time: 15:16
-Customer Service Time: 15:17
-Customer Wait Time: 1
-Customer Process Time: 12
-Served Clercks: 3
-
-
-Customer Name: Customer31
-Customer Arriving Time: 15:17
-Customer Service Time: 15:17
-Customer Wait Time: 0
-Customer Process Time: 10
 Served Clercks: 5
 
 
-Customer Name: Customer32
-Customer Arriving Time: 15:20
-Customer Service Time: 15:20
-Customer Wait Time: 0
-Customer Process Time: 8
-Served Clercks: 0
-
-
-Customer Name: Customer172
-Customer Arriving Time: 15:25
-Customer Service Time: 15:25
-Customer Wait Time: 0
-Customer Process Time: 12
-Served Clercks: 1
-
-
-Customer Name: Customer113
-Customer Arriving Time: 15:28
-Customer Service Time: 15:28
-Customer Wait Time: 0
-Customer Process Time: 13
-Served Clercks: 0
-
-
-Customer Name: Customer173
-Customer Arriving Time: 15:28
-Customer Service Time: 15:28
-Customer Wait Time: 0
-Customer Process Time: 6
-Served Clercks: 2
-
-
-Customer Name: Customer57
-Customer Arriving Time: 15:29
-Customer Service Time: 15:29
+Customer Name: Customer3
+Customer Arriving Time: 15:13
+Customer Service Time: 15:13
 Customer Wait Time: 0
 Customer Process Time: 7
-Served Clercks: 3
+Served Clercks: 1
 
 
 Customer Name: Customer75
-Customer Arriving Time: 15:29
-Customer Service Time: 15:29
+Customer Arriving Time: 15:14
+Customer Service Time: 15:14
 Customer Wait Time: 0
-Customer Process Time: 8
-Served Clercks: 4
-
-
-Customer Name: Customer152
-Customer Arriving Time: 15:29
-Customer Service Time: 15:29
-Customer Wait Time: 0
-Customer Process Time: 7
-Served Clercks: 5
-
-
-Customer Name: Customer89
-Customer Arriving Time: 15:30
-Customer Service Time: 15:30
-Customer Wait Time: 0
-Customer Process Time: 13
+Customer Process Time: 15
 Served Clercks: 6
 
 
-Customer Name: Customer28
-Customer Arriving Time: 15:31
-Customer Service Time: 15:34
-Customer Wait Time: 3
+Customer Name: Customer179
+Customer Arriving Time: 15:16
+Customer Service Time: 15:16
+Customer Wait Time: 0
+Customer Process Time: 15
+Served Clercks: 0
+
+
+Customer Name: Customer171
+Customer Arriving Time: 15:18
+Customer Service Time: 15:20
+Customer Wait Time: 2
+Customer Process Time: 12
+Served Clercks: 1
+
+
+Customer Name: Customer92
+Customer Arriving Time: 15:24
+Customer Service Time: 15:24
+Customer Wait Time: 0
 Customer Process Time: 9
 Served Clercks: 2
 
 
-Customer Name: Customer82
-Customer Arriving Time: 15:31
-Customer Service Time: 15:36
-Customer Wait Time: 5
+Customer Name: Customer141
+Customer Arriving Time: 15:24
+Customer Service Time: 15:24
+Customer Wait Time: 0
 Customer Process Time: 11
 Served Clercks: 3
-
-
-Customer Name: Customer186
-Customer Arriving Time: 15:31
-Customer Service Time: 15:36
-Customer Wait Time: 5
-Customer Process Time: 6
-Served Clercks: 5
-
-
-Customer Name: Customer73
-Customer Arriving Time: 15:33
-Customer Service Time: 15:37
-Customer Wait Time: 4
-Customer Process Time: 14
-Served Clercks: 1
-
-
-Customer Name: Customer136
-Customer Arriving Time: 15:38
-Customer Service Time: 15:38
-Customer Wait Time: 0
-Customer Process Time: 15
-Served Clercks: 4
-
-
-Customer Name: Customer79
-Customer Arriving Time: 15:41
-Customer Service Time: 15:41
-Customer Wait Time: 0
-Customer Process Time: 12
-Served Clercks: 0
-
-
-Customer Name: Customer149
-Customer Arriving Time: 15:41
-Customer Service Time: 15:42
-Customer Wait Time: 1
-Customer Process Time: 7
-Served Clercks: 5
-
-
-Customer Name: Customer51
-Customer Arriving Time: 15:43
-Customer Service Time: 15:43
-Customer Wait Time: 0
-Customer Process Time: 8
-Served Clercks: 2
-
-
-Customer Name: Customer17
-Customer Arriving Time: 15:45
-Customer Service Time: 15:45
-Customer Wait Time: 0
-Customer Process Time: 6
-Served Clercks: 6
-
-
-Customer Name: Customer44
-Customer Arriving Time: 15:48
-Customer Service Time: 15:48
-Customer Wait Time: 0
-Customer Process Time: 7
-Served Clercks: 3
-
-
-Customer Name: Customer190
-Customer Arriving Time: 15:49
-Customer Service Time: 15:49
-Customer Wait Time: 0
-Customer Process Time: 5
-Served Clercks: 5
-
-
-Customer Name: Customer60
-Customer Arriving Time: 15:54
-Customer Service Time: 15:54
-Customer Wait Time: 0
-Customer Process Time: 6
-Served Clercks: 0
-
-
-Customer Name: Customer35
-Customer Arriving Time: 15:56
-Customer Service Time: 15:56
-Customer Wait Time: 0
-Customer Process Time: 15
-Served Clercks: 1
-
-
-Customer Name: Customer23
-Customer Arriving Time: 15:59
-Customer Service Time: 15:59
-Customer Wait Time: 0
-Customer Process Time: 9
-Served Clercks: 2
-
-
-Customer Name: Customer112
-Customer Arriving Time: 15:59
-Customer Service Time: 15:59
-Customer Wait Time: 0
-Customer Process Time: 8
-Served Clercks: 3
-
-
-Customer Name: Customer180
-Customer Arriving Time: 15:59
-Customer Service Time: 15:59
-Customer Wait Time: 0
-Customer Process Time: 6
-Served Clercks: 4
-
-
-Customer Name: Customer197
-Customer Arriving Time: 15:59
-Customer Service Time: 15:59
-Customer Wait Time: 0
-Customer Process Time: 12
-Served Clercks: 5
-
-
-Customer Name: Customer77
-Customer Arriving Time: 16:00
-Customer Service Time: 16:00
-Customer Wait Time: 0
-Customer Process Time: 14
-Served Clercks: 0
-
-
-Customer Name: Customer38
-Customer Arriving Time: 16:02
-Customer Service Time: 16:02
-Customer Wait Time: 0
-Customer Process Time: 8
-Served Clercks: 6
-
-
-Customer Name: Customer83
-Customer Arriving Time: 16:02
-Customer Service Time: 16:05
-Customer Wait Time: 3
-Customer Process Time: 5
-Served Clercks: 4
-
-
-Customer Name: Customer125
-Customer Arriving Time: 16:02
-Customer Service Time: 16:07
-Customer Wait Time: 5
-Customer Process Time: 7
-Served Clercks: 3
-
-
-Customer Name: Customer170
-Customer Arriving Time: 16:02
-Customer Service Time: 16:08
-Customer Wait Time: 6
-Customer Process Time: 6
-Served Clercks: 2
 
 
 Customer Name: Customer101
-Customer Arriving Time: 16:03
-Customer Service Time: 16:10
-Customer Wait Time: 7
-Customer Process Time: 6
-Served Clercks: 4
-
-
-Customer Name: Customer110
-Customer Arriving Time: 16:03
-Customer Service Time: 16:10
-Customer Wait Time: 7
-Customer Process Time: 12
-Served Clercks: 6
-
-
-Customer Name: Customer131
-Customer Arriving Time: 16:04
-Customer Service Time: 16:11
-Customer Wait Time: 7
-Customer Process Time: 6
-Served Clercks: 1
-
-
-Customer Name: Customer191
-Customer Arriving Time: 16:04
-Customer Service Time: 16:11
-Customer Wait Time: 7
-Customer Process Time: 15
-Served Clercks: 5
-
-
-Customer Name: Customer37
-Customer Arriving Time: 16:06
-Customer Service Time: 16:14
-Customer Wait Time: 8
-Customer Process Time: 9
-Served Clercks: 0
-
-
-Customer Name: Customer137
-Customer Arriving Time: 16:06
-Customer Service Time: 16:14
-Customer Wait Time: 8
-Customer Process Time: 12
-Served Clercks: 2
-
-
-Customer Name: Customer30
-Customer Arriving Time: 16:08
-Customer Service Time: 16:14
-Customer Wait Time: 6
-Customer Process Time: 7
-Served Clercks: 3
-
-
-Customer Name: Customer68
-Customer Arriving Time: 16:10
-Customer Service Time: 16:16
-Customer Wait Time: 6
-Customer Process Time: 7
-Served Clercks: 4
-
-
-Customer Name: Customer81
-Customer Arriving Time: 16:13
-Customer Service Time: 16:17
-Customer Wait Time: 4
-Customer Process Time: 8
-Served Clercks: 1
-
-
-Customer Name: Customer182
-Customer Arriving Time: 16:13
-Customer Service Time: 16:21
-Customer Wait Time: 8
-Customer Process Time: 5
-Served Clercks: 3
-
-
-Customer Name: Customer198
-Customer Arriving Time: 16:14
-Customer Service Time: 16:22
-Customer Wait Time: 8
-Customer Process Time: 11
-Served Clercks: 6
-
-
-Customer Name: Customer58
-Customer Arriving Time: 16:15
-Customer Service Time: 16:23
-Customer Wait Time: 8
-Customer Process Time: 15
-Served Clercks: 0
-
-
-Customer Name: Customer169
-Customer Arriving Time: 16:18
-Customer Service Time: 16:23
-Customer Wait Time: 5
-Customer Process Time: 6
-Served Clercks: 4
-
-
-Customer Name: Customer166
-Customer Arriving Time: 16:19
-Customer Service Time: 16:25
-Customer Wait Time: 6
-Customer Process Time: 6
-Served Clercks: 1
-
-
-Customer Name: Customer42
-Customer Arriving Time: 16:20
-Customer Service Time: 16:26
-Customer Wait Time: 6
-Customer Process Time: 12
-Served Clercks: 2
-
-
-Customer Name: Customer43
-Customer Arriving Time: 16:20
-Customer Service Time: 16:26
-Customer Wait Time: 6
-Customer Process Time: 7
-Served Clercks: 3
-
-
-Customer Name: Customer140
-Customer Arriving Time: 16:21
-Customer Service Time: 16:26
-Customer Wait Time: 5
-Customer Process Time: 11
-Served Clercks: 5
-
-
-Customer Name: Customer86
-Customer Arriving Time: 16:23
-Customer Service Time: 16:29
-Customer Wait Time: 6
-Customer Process Time: 10
-Served Clercks: 4
-
-
-Customer Name: Customer193
-Customer Arriving Time: 16:25
-Customer Service Time: 16:31
-Customer Wait Time: 6
-Customer Process Time: 8
-Served Clercks: 1
-
-
-Customer Name: Customer29
-Customer Arriving Time: 16:26
-Customer Service Time: 16:33
-Customer Wait Time: 7
-Customer Process Time: 8
-Served Clercks: 3
-
-
-Customer Name: Customer99
-Customer Arriving Time: 16:26
-Customer Service Time: 16:33
-Customer Wait Time: 7
-Customer Process Time: 5
-Served Clercks: 6
-
-
-Customer Name: Customer72
-Customer Arriving Time: 16:27
-Customer Service Time: 16:37
-Customer Wait Time: 10
-Customer Process Time: 5
-Served Clercks: 5
-
-
-Customer Name: Customer116
-Customer Arriving Time: 16:31
-Customer Service Time: 16:38
-Customer Wait Time: 7
+Customer Arriving Time: 15:29
+Customer Service Time: 15:29
+Customer Wait Time: 0
 Customer Process Time: 13
+Served Clercks: 4
+
+
+Customer Name: Customer129
+Customer Arriving Time: 15:29
+Customer Service Time: 15:29
+Customer Wait Time: 0
+Customer Process Time: 6
+Served Clercks: 5
+
+
+Customer Name: Customer163
+Customer Arriving Time: 15:31
+Customer Service Time: 15:31
+Customer Wait Time: 0
+Customer Process Time: 5
 Served Clercks: 0
 
 
 Customer Name: Customer27
+Customer Arriving Time: 15:32
+Customer Service Time: 15:32
+Customer Wait Time: 0
+Customer Process Time: 12
+Served Clercks: 1
+
+
+Customer Name: Customer97
+Customer Arriving Time: 15:32
+Customer Service Time: 15:32
+Customer Wait Time: 0
+Customer Process Time: 11
+Served Clercks: 6
+
+
+Customer Name: Customer156
+Customer Arriving Time: 15:38
+Customer Service Time: 15:38
+Customer Wait Time: 0
+Customer Process Time: 5
+Served Clercks: 0
+
+
+Customer Name: Customer191
+Customer Arriving Time: 15:38
+Customer Service Time: 15:38
+Customer Wait Time: 0
+Customer Process Time: 15
+Served Clercks: 2
+
+
+Customer Name: Customer72
+Customer Arriving Time: 15:40
+Customer Service Time: 15:40
+Customer Wait Time: 0
+Customer Process Time: 12
+Served Clercks: 3
+
+
+Customer Name: Customer145
+Customer Arriving Time: 15:40
+Customer Service Time: 15:40
+Customer Wait Time: 0
+Customer Process Time: 6
+Served Clercks: 5
+
+
+Customer Name: Customer70
+Customer Arriving Time: 15:41
+Customer Service Time: 15:42
+Customer Wait Time: 1
+Customer Process Time: 12
+Served Clercks: 4
+
+
+Customer Name: Customer153
+Customer Arriving Time: 15:44
+Customer Service Time: 15:44
+Customer Wait Time: 0
+Customer Process Time: 9
+Served Clercks: 0
+
+
+Customer Name: Customer38
+Customer Arriving Time: 15:46
+Customer Service Time: 15:46
+Customer Wait Time: 0
+Customer Process Time: 11
+Served Clercks: 1
+
+
+Customer Name: Customer80
+Customer Arriving Time: 15:46
+Customer Service Time: 15:46
+Customer Wait Time: 0
+Customer Process Time: 14
+Served Clercks: 5
+
+
+Customer Name: Customer5
+Customer Arriving Time: 15:48
+Customer Service Time: 15:48
+Customer Wait Time: 0
+Customer Process Time: 7
+Served Clercks: 6
+
+
+Customer Name: Customer24
+Customer Arriving Time: 15:49
+Customer Service Time: 15:52
+Customer Wait Time: 3
+Customer Process Time: 15
+Served Clercks: 3
+
+
+Customer Name: Customer26
+Customer Arriving Time: 15:50
+Customer Service Time: 15:53
+Customer Wait Time: 3
+Customer Process Time: 7
+Served Clercks: 0
+
+
+Customer Name: Customer178
+Customer Arriving Time: 15:50
+Customer Service Time: 15:53
+Customer Wait Time: 3
+Customer Process Time: 14
+Served Clercks: 2
+
+
+Customer Name: Customer63
+Customer Arriving Time: 15:51
+Customer Service Time: 15:54
+Customer Wait Time: 3
+Customer Process Time: 7
+Served Clercks: 4
+
+
+Customer Name: Customer108
+Customer Arriving Time: 15:53
+Customer Service Time: 15:55
+Customer Wait Time: 2
+Customer Process Time: 5
+Served Clercks: 6
+
+
+Customer Name: Customer32
+Customer Arriving Time: 15:56
+Customer Service Time: 15:57
+Customer Wait Time: 1
+Customer Process Time: 10
+Served Clercks: 1
+
+
+Customer Name: Customer132
+Customer Arriving Time: 15:58
+Customer Service Time: 16:00
+Customer Wait Time: 2
+Customer Process Time: 10
+Served Clercks: 0
+
+
+Customer Name: Customer143
+Customer Arriving Time: 15:58
+Customer Service Time: 16:00
+Customer Wait Time: 2
+Customer Process Time: 8
+Served Clercks: 5
+
+
+Customer Name: Customer88
+Customer Arriving Time: 15:59
+Customer Service Time: 16:00
+Customer Wait Time: 1
+Customer Process Time: 10
+Served Clercks: 6
+
+
+Customer Name: Customer128
+Customer Arriving Time: 16:04
+Customer Service Time: 16:04
+Customer Wait Time: 0
+Customer Process Time: 15
+Served Clercks: 4
+
+
+Customer Name: Customer182
+Customer Arriving Time: 16:04
+Customer Service Time: 16:07
+Customer Wait Time: 3
+Customer Process Time: 11
+Served Clercks: 1
+
+
+Customer Name: Customer152
+Customer Arriving Time: 16:07
+Customer Service Time: 16:07
+Customer Wait Time: 0
+Customer Process Time: 5
+Served Clercks: 2
+
+
+Customer Name: Customer186
+Customer Arriving Time: 16:07
+Customer Service Time: 16:07
+Customer Wait Time: 0
+Customer Process Time: 7
+Served Clercks: 3
+
+
+Customer Name: Customer69
+Customer Arriving Time: 16:10
+Customer Service Time: 16:10
+Customer Wait Time: 0
+Customer Process Time: 5
+Served Clercks: 0
+
+
+Customer Name: Customer71
+Customer Arriving Time: 16:10
+Customer Service Time: 16:10
+Customer Wait Time: 0
+Customer Process Time: 12
+Served Clercks: 5
+
+
+Customer Name: Customer79
+Customer Arriving Time: 16:10
+Customer Service Time: 16:10
+Customer Wait Time: 0
+Customer Process Time: 11
+Served Clercks: 6
+
+
+Customer Name: Customer154
+Customer Arriving Time: 16:10
+Customer Service Time: 16:12
+Customer Wait Time: 2
+Customer Process Time: 13
+Served Clercks: 2
+
+
+Customer Name: Customer44
+Customer Arriving Time: 16:13
+Customer Service Time: 16:14
+Customer Wait Time: 1
+Customer Process Time: 14
+Served Clercks: 3
+
+
+Customer Name: Customer34
+Customer Arriving Time: 16:14
+Customer Service Time: 16:15
+Customer Wait Time: 1
+Customer Process Time: 10
+Served Clercks: 0
+
+
+Customer Name: Customer48
+Customer Arriving Time: 16:15
+Customer Service Time: 16:18
+Customer Wait Time: 3
+Customer Process Time: 8
+Served Clercks: 1
+
+
+Customer Name: Customer52
+Customer Arriving Time: 16:15
+Customer Service Time: 16:19
+Customer Wait Time: 4
+Customer Process Time: 11
+Served Clercks: 4
+
+
+Customer Name: Customer109
+Customer Arriving Time: 16:16
+Customer Service Time: 16:21
+Customer Wait Time: 5
+Customer Process Time: 6
+Served Clercks: 6
+
+
+Customer Name: Customer83
+Customer Arriving Time: 16:20
+Customer Service Time: 16:22
+Customer Wait Time: 2
+Customer Process Time: 8
+Served Clercks: 5
+
+
+Customer Name: Customer98
+Customer Arriving Time: 16:21
+Customer Service Time: 16:25
+Customer Wait Time: 4
+Customer Process Time: 6
+Served Clercks: 0
+
+
+Customer Name: Customer135
+Customer Arriving Time: 16:22
+Customer Service Time: 16:25
+Customer Wait Time: 3
+Customer Process Time: 15
+Served Clercks: 2
+
+
+Customer Name: Customer119
+Customer Arriving Time: 16:24
+Customer Service Time: 16:26
+Customer Wait Time: 2
+Customer Process Time: 10
+Served Clercks: 1
+
+
+Customer Name: Customer4
+Customer Arriving Time: 16:25
+Customer Service Time: 16:27
+Customer Wait Time: 2
+Customer Process Time: 8
+Served Clercks: 6
+
+
+Customer Name: Customer66
+Customer Arriving Time: 16:26
+Customer Service Time: 16:28
+Customer Wait Time: 2
+Customer Process Time: 7
+Served Clercks: 3
+
+
+Customer Name: Customer73
+Customer Arriving Time: 16:29
+Customer Service Time: 16:30
+Customer Wait Time: 1
+Customer Process Time: 7
+Served Clercks: 4
+
+
+Customer Name: Customer17
+Customer Arriving Time: 16:30
+Customer Service Time: 16:30
+Customer Wait Time: 0
+Customer Process Time: 15
+Served Clercks: 5
+
+
+Customer Name: Customer166
+Customer Arriving Time: 16:30
+Customer Service Time: 16:31
+Customer Wait Time: 1
+Customer Process Time: 15
+Served Clercks: 0
+
+
+Customer Name: Customer78
+Customer Arriving Time: 16:31
+Customer Service Time: 16:35
+Customer Wait Time: 4
+Customer Process Time: 13
+Served Clercks: 3
+
+
+Customer Name: Customer183
+Customer Arriving Time: 16:31
+Customer Service Time: 16:35
+Customer Wait Time: 4
+Customer Process Time: 13
+Served Clercks: 6
+
+
+Customer Name: Customer147
+Customer Arriving Time: 16:33
+Customer Service Time: 16:36
+Customer Wait Time: 3
+Customer Process Time: 10
+Served Clercks: 1
+
+
+Customer Name: Customer49
 Customer Arriving Time: 16:34
-Customer Service Time: 16:38
+Customer Service Time: 16:37
+Customer Wait Time: 3
+Customer Process Time: 6
+Served Clercks: 4
+
+
+Customer Name: Customer136
+Customer Arriving Time: 16:34
+Customer Service Time: 16:40
+Customer Wait Time: 6
+Customer Process Time: 12
+Served Clercks: 2
+
+
+Customer Name: Customer172
+Customer Arriving Time: 16:37
+Customer Service Time: 16:43
+Customer Wait Time: 6
+Customer Process Time: 12
+Served Clercks: 4
+
+
+Customer Name: Customer157
+Customer Arriving Time: 15:00
+Customer Service Time: 15:00
+Customer Wait Time: 0
+Customer Process Time: 14
+Served Clercks: 0
+
+
+Customer Name: Customer155
+Customer Arriving Time: 15:04
+Customer Service Time: 15:04
+Customer Wait Time: 0
+Customer Process Time: 9
+Served Clercks: 1
+
+
+Customer Name: Customer10
+Customer Arriving Time: 15:05
+Customer Service Time: 15:05
+Customer Wait Time: 0
+Customer Process Time: 7
+Served Clercks: 2
+
+
+Customer Name: Customer193
+Customer Arriving Time: 15:05
+Customer Service Time: 15:05
+Customer Wait Time: 0
+Customer Process Time: 8
+Served Clercks: 3
+
+
+Customer Name: Customer124
+Customer Arriving Time: 15:07
+Customer Service Time: 15:07
+Customer Wait Time: 0
+Customer Process Time: 5
+Served Clercks: 4
+
+
+Customer Name: Customer181
+Customer Arriving Time: 15:08
+Customer Service Time: 15:08
+Customer Wait Time: 0
+Customer Process Time: 9
+Served Clercks: 5
+
+
+Customer Name: Customer123
+Customer Arriving Time: 15:10
+Customer Service Time: 15:10
+Customer Wait Time: 0
+Customer Process Time: 14
+Served Clercks: 6
+
+
+Customer Name: Customer126
+Customer Arriving Time: 15:10
+Customer Service Time: 15:12
+Customer Wait Time: 2
+Customer Process Time: 9
+Served Clercks: 2
+
+
+Customer Name: Customer140
+Customer Arriving Time: 15:11
+Customer Service Time: 15:12
+Customer Wait Time: 1
+Customer Process Time: 9
+Served Clercks: 4
+
+
+Customer Name: Customer112
+Customer Arriving Time: 15:12
+Customer Service Time: 15:13
+Customer Wait Time: 1
+Customer Process Time: 10
+Served Clercks: 1
+
+
+Customer Name: Customer195
+Customer Arriving Time: 15:14
+Customer Service Time: 15:14
+Customer Wait Time: 0
+Customer Process Time: 7
+Served Clercks: 0
+
+
+Customer Name: Customer76
+Customer Arriving Time: 15:15
+Customer Service Time: 15:15
+Customer Wait Time: 0
+Customer Process Time: 5
+Served Clercks: 3
+
+
+Customer Name: Customer151
+Customer Arriving Time: 15:15
+Customer Service Time: 15:17
+Customer Wait Time: 2
+Customer Process Time: 15
+Served Clercks: 5
+
+
+Customer Name: Customer105
+Customer Arriving Time: 15:16
+Customer Service Time: 15:20
+Customer Wait Time: 4
+Customer Process Time: 12
+Served Clercks: 3
+
+
+Customer Name: Customer74
+Customer Arriving Time: 15:17
+Customer Service Time: 15:21
+Customer Wait Time: 4
+Customer Process Time: 10
+Served Clercks: 0
+
+
+Customer Name: Customer103
+Customer Arriving Time: 15:17
+Customer Service Time: 15:21
+Customer Wait Time: 4
+Customer Process Time: 9
+Served Clercks: 2
+
+
+Customer Name: Customer187
+Customer Arriving Time: 15:20
+Customer Service Time: 15:21
+Customer Wait Time: 1
+Customer Process Time: 7
+Served Clercks: 4
+
+
+Customer Name: Customer131
+Customer Arriving Time: 15:21
+Customer Service Time: 15:23
+Customer Wait Time: 2
+Customer Process Time: 9
+Served Clercks: 1
+
+
+Customer Name: Customer189
+Customer Arriving Time: 15:21
+Customer Service Time: 15:24
+Customer Wait Time: 3
+Customer Process Time: 7
+Served Clercks: 6
+
+
+Customer Name: Customer41
+Customer Arriving Time: 15:22
+Customer Service Time: 15:28
+Customer Wait Time: 6
+Customer Process Time: 13
+Served Clercks: 4
+
+
+Customer Name: Customer82
+Customer Arriving Time: 15:24
+Customer Service Time: 15:30
+Customer Wait Time: 6
+Customer Process Time: 7
+Served Clercks: 2
+
+
+Customer Name: Customer162
+Customer Arriving Time: 15:26
+Customer Service Time: 15:31
+Customer Wait Time: 5
+Customer Process Time: 5
+Served Clercks: 0
+
+
+Customer Name: Customer199
+Customer Arriving Time: 15:28
+Customer Service Time: 15:31
+Customer Wait Time: 3
+Customer Process Time: 13
+Served Clercks: 6
+
+
+Customer Name: Customer14
+Customer Arriving Time: 15:31
+Customer Service Time: 15:32
+Customer Wait Time: 1
+Customer Process Time: 8
+Served Clercks: 1
+
+
+Customer Name: Customer111
+Customer Arriving Time: 15:36
+Customer Service Time: 15:36
+Customer Wait Time: 0
+Customer Process Time: 7
+Served Clercks: 0
+
+
+Customer Name: Customer50
+Customer Arriving Time: 15:37
+Customer Service Time: 15:37
+Customer Wait Time: 0
+Customer Process Time: 11
+Served Clercks: 2
+
+
+Customer Name: Customer150
+Customer Arriving Time: 15:42
+Customer Service Time: 15:42
+Customer Wait Time: 0
+Customer Process Time: 7
+Served Clercks: 1
+
+
+Customer Name: Customer107
+Customer Arriving Time: 15:43
+Customer Service Time: 15:43
+Customer Wait Time: 0
+Customer Process Time: 8
+Served Clercks: 0
+
+
+Customer Name: Customer158
+Customer Arriving Time: 15:46
+Customer Service Time: 15:46
+Customer Wait Time: 0
+Customer Process Time: 12
+Served Clercks: 3
+
+
+Customer Name: Customer194
+Customer Arriving Time: 15:46
+Customer Service Time: 15:46
+Customer Wait Time: 0
+Customer Process Time: 13
+Served Clercks: 4
+
+
+Customer Name: Customer15
+Customer Arriving Time: 15:49
+Customer Service Time: 15:49
+Customer Wait Time: 0
+Customer Process Time: 14
+Served Clercks: 1
+
+
+Customer Name: Customer168
+Customer Arriving Time: 15:49
+Customer Service Time: 15:49
+Customer Wait Time: 0
+Customer Process Time: 12
+Served Clercks: 2
+
+
+Customer Name: Customer91
+Customer Arriving Time: 15:50
+Customer Service Time: 15:50
+Customer Wait Time: 0
+Customer Process Time: 5
+Served Clercks: 5
+
+
+Customer Name: Customer160
+Customer Arriving Time: 15:50
+Customer Service Time: 15:50
+Customer Wait Time: 0
+Customer Process Time: 5
+Served Clercks: 6
+
+
+Customer Name: Customer85
+Customer Arriving Time: 15:53
+Customer Service Time: 15:53
+Customer Wait Time: 0
+Customer Process Time: 14
+Served Clercks: 0
+
+
+Customer Name: Customer84
+Customer Arriving Time: 15:54
+Customer Service Time: 15:55
+Customer Wait Time: 1
+Customer Process Time: 6
+Served Clercks: 5
+
+
+Customer Name: Customer57
+Customer Arriving Time: 15:56
+Customer Service Time: 15:56
+Customer Wait Time: 0
+Customer Process Time: 7
+Served Clercks: 6
+
+
+Customer Name: Customer122
+Customer Arriving Time: 15:56
+Customer Service Time: 15:58
+Customer Wait Time: 2
+Customer Process Time: 14
+Served Clercks: 3
+
+
+Customer Name: Customer28
+Customer Arriving Time: 15:58
+Customer Service Time: 15:59
+Customer Wait Time: 1
+Customer Process Time: 14
+Served Clercks: 4
+
+
+Customer Name: Customer7
+Customer Arriving Time: 16:01
+Customer Service Time: 16:01
+Customer Wait Time: 0
+Customer Process Time: 12
+Served Clercks: 2
+
+
+Customer Name: Customer37
+Customer Arriving Time: 16:02
+Customer Service Time: 16:02
+Customer Wait Time: 0
+Customer Process Time: 7
+Served Clercks: 5
+
+
+Customer Name: Customer87
+Customer Arriving Time: 16:02
+Customer Service Time: 16:03
+Customer Wait Time: 1
+Customer Process Time: 5
+Served Clercks: 1
+
+
+Customer Name: Customer200
+Customer Arriving Time: 16:05
+Customer Service Time: 16:05
+Customer Wait Time: 0
+Customer Process Time: 13
+Served Clercks: 6
+
+
+Customer Name: Customer65
+Customer Arriving Time: 16:06
+Customer Service Time: 16:07
+Customer Wait Time: 1
+Customer Process Time: 9
+Served Clercks: 0
+
+
+Customer Name: Customer30
+Customer Arriving Time: 16:08
+Customer Service Time: 16:08
+Customer Wait Time: 0
+Customer Process Time: 10
+Served Clercks: 1
+
+
+Customer Name: Customer144
+Customer Arriving Time: 16:09
+Customer Service Time: 16:09
+Customer Wait Time: 0
+Customer Process Time: 9
+Served Clercks: 5
+
+
+Customer Name: Customer164
+Customer Arriving Time: 16:09
+Customer Service Time: 16:12
+Customer Wait Time: 3
+Customer Process Time: 9
+Served Clercks: 3
+
+
+Customer Name: Customer184
+Customer Arriving Time: 16:09
+Customer Service Time: 16:13
 Customer Wait Time: 4
 Customer Process Time: 10
 Served Clercks: 2
 
 
-Customer Name: Customer53
-Customer Arriving Time: 16:34
-Customer Service Time: 16:38
-Customer Wait Time: 4
-Customer Process Time: 9
-Served Clercks: 6
-
-
-Customer Name: Customer144
-Customer Arriving Time: 16:34
-Customer Service Time: 16:39
-Customer Wait Time: 5
-Customer Process Time: 5
-Served Clercks: 1
-
-
-Customer Name: Customer7
-Customer Arriving Time: 16:35
-Customer Service Time: 16:39
-Customer Wait Time: 4
-Customer Process Time: 10
+Customer Name: Customer40
+Customer Arriving Time: 16:10
+Customer Service Time: 16:13
+Customer Wait Time: 3
+Customer Process Time: 12
 Served Clercks: 4
 
 
-Customer Name: Customer64
-Customer Arriving Time: 16:35
-Customer Service Time: 16:41
-Customer Wait Time: 6
+Customer Name: Customer45
+Customer Arriving Time: 16:11
+Customer Service Time: 16:16
+Customer Wait Time: 5
+Customer Process Time: 12
+Served Clercks: 0
+
+
+Customer Name: Customer86
+Customer Arriving Time: 16:11
+Customer Service Time: 16:18
+Customer Wait Time: 7
 Customer Process Time: 15
+Served Clercks: 1
+
+
+Customer Name: Customer16
+Customer Arriving Time: 16:13
+Customer Service Time: 16:18
+Customer Wait Time: 5
+Customer Process Time: 9
+Served Clercks: 5
+
+
+Customer Name: Customer165
+Customer Arriving Time: 16:14
+Customer Service Time: 16:18
+Customer Wait Time: 4
+Customer Process Time: 11
+Served Clercks: 6
+
+
+Customer Name: Customer167
+Customer Arriving Time: 16:15
+Customer Service Time: 16:21
+Customer Wait Time: 6
+Customer Process Time: 7
 Served Clercks: 3
 
 
-Customer Name: Customer200
-Customer Arriving Time: 16:38
-Customer Service Time: 16:42
+Customer Name: Customer46
+Customer Arriving Time: 16:19
+Customer Service Time: 16:23
 Customer Wait Time: 4
+Customer Process Time: 11
+Served Clercks: 2
+
+
+Customer Name: Customer47
+Customer Arriving Time: 16:20
+Customer Service Time: 16:25
+Customer Wait Time: 5
+Customer Process Time: 15
+Served Clercks: 4
+
+
+Customer Name: Customer33
+Customer Arriving Time: 16:22
+Customer Service Time: 16:27
+Customer Wait Time: 5
+Customer Process Time: 5
+Served Clercks: 5
+
+
+Customer Name: Customer77
+Customer Arriving Time: 16:22
+Customer Service Time: 16:28
+Customer Wait Time: 6
+Customer Process Time: 9
+Served Clercks: 0
+
+
+Customer Name: Customer169
+Customer Arriving Time: 16:22
+Customer Service Time: 16:28
+Customer Wait Time: 6
+Customer Process Time: 8
+Served Clercks: 3
+
+
+Customer Name: Customer54
+Customer Arriving Time: 16:29
+Customer Service Time: 16:29
+Customer Wait Time: 0
+Customer Process Time: 10
+Served Clercks: 6
+
+
+Customer Name: Customer139
+Customer Arriving Time: 16:29
+Customer Service Time: 16:32
+Customer Wait Time: 3
+Customer Process Time: 10
+Served Clercks: 5
+
+
+Customer Name: Customer42
+Customer Arriving Time: 16:30
+Customer Service Time: 16:33
+Customer Wait Time: 3
+Customer Process Time: 10
+Served Clercks: 1
+
+
+Customer Name: Customer127
+Customer Arriving Time: 16:30
+Customer Service Time: 16:34
+Customer Wait Time: 4
+Customer Process Time: 13
+Served Clercks: 2
+
+
+Customer Name: Customer22
+Customer Arriving Time: 16:36
+Customer Service Time: 16:36
+Customer Wait Time: 0
+Customer Process Time: 9
+Served Clercks: 3
+
+
+Customer Name: Customer67
+Customer Arriving Time: 16:37
+Customer Service Time: 16:37
+Customer Wait Time: 0
+Customer Process Time: 5
+Served Clercks: 0
+
+
+Customer Name: Customer170
+Customer Arriving Time: 16:39
+Customer Service Time: 16:39
+Customer Wait Time: 0
+Customer Process Time: 8
+Served Clercks: 6
+
+
+Customer Name: Customer68
+Customer Arriving Time: 16:40
+Customer Service Time: 16:40
+Customer Wait Time: 0
+Customer Process Time: 6
+Served Clercks: 4
+
+
+Customer Name: Customer175
+Customer Arriving Time: 16:40
+Customer Service Time: 16:42
+Customer Wait Time: 2
+Customer Process Time: 9
+Served Clercks: 0
+
+
+Customer Name: Customer59
+Customer Arriving Time: 15:01
+Customer Service Time: 15:01
+Customer Wait Time: 0
+Customer Process Time: 11
+Served Clercks: 0
+
+
+Customer Name: Customer89
+Customer Arriving Time: 15:01
+Customer Service Time: 15:01
+Customer Wait Time: 0
+Customer Process Time: 10
+Served Clercks: 1
+
+
+Customer Name: Customer198
+Customer Arriving Time: 15:02
+Customer Service Time: 15:02
+Customer Wait Time: 0
+Customer Process Time: 5
+Served Clercks: 2
+
+
+Customer Name: Customer117
+Customer Arriving Time: 15:03
+Customer Service Time: 15:03
+Customer Wait Time: 0
+Customer Process Time: 12
+Served Clercks: 3
+
+
+Customer Name: Customer43
+Customer Arriving Time: 15:05
+Customer Service Time: 15:05
+Customer Wait Time: 0
+Customer Process Time: 14
+Served Clercks: 4
+
+
+Customer Name: Customer174
+Customer Arriving Time: 15:08
+Customer Service Time: 15:08
+Customer Wait Time: 0
+Customer Process Time: 7
+Served Clercks: 2
+
+
+Customer Name: Customer118
+Customer Arriving Time: 15:12
+Customer Service Time: 15:12
+Customer Wait Time: 0
+Customer Process Time: 5
+Served Clercks: 0
+
+
+Customer Name: Customer173
+Customer Arriving Time: 15:13
+Customer Service Time: 15:13
+Customer Wait Time: 0
+Customer Process Time: 12
+Served Clercks: 1
+
+
+Customer Name: Customer190
+Customer Arriving Time: 15:15
+Customer Service Time: 15:15
+Customer Wait Time: 0
+Customer Process Time: 12
+Served Clercks: 2
+
+
+Customer Name: Customer196
+Customer Arriving Time: 15:18
+Customer Service Time: 15:18
+Customer Wait Time: 0
+Customer Process Time: 6
+Served Clercks: 0
+
+
+Customer Name: Customer6
+Customer Arriving Time: 15:19
+Customer Service Time: 15:19
+Customer Wait Time: 0
+Customer Process Time: 13
+Served Clercks: 3
+
+
+Customer Name: Customer120
+Customer Arriving Time: 15:19
+Customer Service Time: 15:19
+Customer Wait Time: 0
+Customer Process Time: 8
+Served Clercks: 4
+
+
+Customer Name: Customer133
+Customer Arriving Time: 15:20
+Customer Service Time: 15:20
+Customer Wait Time: 0
+Customer Process Time: 9
+Served Clercks: 5
+
+
+Customer Name: Customer58
+Customer Arriving Time: 15:22
+Customer Service Time: 15:22
+Customer Wait Time: 0
+Customer Process Time: 14
+Served Clercks: 6
+
+
+Customer Name: Customer148
+Customer Arriving Time: 15:26
+Customer Service Time: 15:26
+Customer Wait Time: 0
+Customer Process Time: 6
+Served Clercks: 0
+
+
+Customer Name: Customer60
+Customer Arriving Time: 15:28
+Customer Service Time: 15:28
+Customer Wait Time: 0
+Customer Process Time: 15
+Served Clercks: 1
+
+
+Customer Name: Customer81
+Customer Arriving Time: 15:31
+Customer Service Time: 15:31
+Customer Wait Time: 0
+Customer Process Time: 6
+Served Clercks: 2
+
+
+Customer Name: Customer142
+Customer Arriving Time: 15:34
+Customer Service Time: 15:34
+Customer Wait Time: 0
+Customer Process Time: 14
+Served Clercks: 0
+
+
+Customer Name: Customer56
+Customer Arriving Time: 15:36
+Customer Service Time: 15:36
+Customer Wait Time: 0
+Customer Process Time: 8
+Served Clercks: 3
+
+
+Customer Name: Customer100
+Customer Arriving Time: 15:36
+Customer Service Time: 15:36
+Customer Wait Time: 0
+Customer Process Time: 8
+Served Clercks: 4
+
+
+Customer Name: Customer115
+Customer Arriving Time: 15:37
+Customer Service Time: 15:37
+Customer Wait Time: 0
+Customer Process Time: 14
+Served Clercks: 2
+
+
+Customer Name: Customer2
+Customer Arriving Time: 15:38
+Customer Service Time: 15:38
+Customer Wait Time: 0
 Customer Process Time: 12
 Served Clercks: 5
 
 
-Customer Name: Customer133
-Customer Arriving Time: 16:39
-Customer Service Time: 16:44
-Customer Wait Time: 5
+Customer Name: Customer23
+Customer Arriving Time: 15:38
+Customer Service Time: 15:38
+Customer Wait Time: 0
+Customer Process Time: 15
+Served Clercks: 6
+
+
+Customer Name: Customer159
+Customer Arriving Time: 15:40
+Customer Service Time: 15:40
+Customer Wait Time: 0
+Customer Process Time: 8
+Served Clercks: 7
+
+
+Customer Name: Customer146
+Customer Arriving Time: 15:42
+Customer Service Time: 15:43
+Customer Wait Time: 1
+Customer Process Time: 9
+Served Clercks: 1
+
+
+Customer Name: Customer1
+Customer Arriving Time: 15:44
+Customer Service Time: 15:44
+Customer Wait Time: 0
+Customer Process Time: 13
+Served Clercks: 3
+
+
+Customer Name: Customer114
+Customer Arriving Time: 15:45
+Customer Service Time: 15:45
+Customer Wait Time: 0
+Customer Process Time: 7
+Served Clercks: 4
+
+
+Customer Name: Customer106
+Customer Arriving Time: 15:49
+Customer Service Time: 15:49
+Customer Wait Time: 0
+Customer Process Time: 8
+Served Clercks: 0
+
+
+Customer Name: Customer29
+Customer Arriving Time: 15:52
+Customer Service Time: 15:52
+Customer Wait Time: 0
+Customer Process Time: 13
+Served Clercks: 1
+
+
+Customer Name: Customer137
+Customer Arriving Time: 15:54
+Customer Service Time: 15:54
+Customer Wait Time: 0
+Customer Process Time: 15
+Served Clercks: 2
+
+
+Customer Name: Customer197
+Customer Arriving Time: 15:54
+Customer Service Time: 15:54
+Customer Wait Time: 0
+Customer Process Time: 6
+Served Clercks: 4
+
+
+Customer Name: Customer39
+Customer Arriving Time: 15:55
+Customer Service Time: 15:55
+Customer Wait Time: 0
+Customer Process Time: 14
+Served Clercks: 5
+
+
+Customer Name: Customer93
+Customer Arriving Time: 15:55
+Customer Service Time: 15:55
+Customer Wait Time: 0
+Customer Process Time: 8
+Served Clercks: 6
+
+
+Customer Name: Customer121
+Customer Arriving Time: 15:55
+Customer Service Time: 15:55
+Customer Wait Time: 0
+Customer Process Time: 13
+Served Clercks: 7
+
+
+Customer Name: Customer104
+Customer Arriving Time: 15:57
+Customer Service Time: 15:57
+Customer Wait Time: 0
+Customer Process Time: 14
+Served Clercks: 0
+
+
+Customer Name: Customer12
+Customer Arriving Time: 15:58
+Customer Service Time: 15:58
+Customer Wait Time: 0
+Customer Process Time: 9
+Served Clercks: 3
+
+
+Customer Name: Customer96
+Customer Arriving Time: 15:59
+Customer Service Time: 16:00
+Customer Wait Time: 1
+Customer Process Time: 7
+Served Clercks: 4
+
+
+Customer Name: Customer11
+Customer Arriving Time: 16:01
+Customer Service Time: 16:03
+Customer Wait Time: 2
+Customer Process Time: 9
+Served Clercks: 6
+
+
+Customer Name: Customer31
+Customer Arriving Time: 16:01
+Customer Service Time: 16:05
+Customer Wait Time: 4
 Customer Process Time: 6
 Served Clercks: 1
+
+
+Customer Name: Customer9
+Customer Arriving Time: 16:06
+Customer Service Time: 16:07
+Customer Wait Time: 1
+Customer Process Time: 5
+Served Clercks: 3
+
+
+Customer Name: Customer18
+Customer Arriving Time: 16:07
+Customer Service Time: 16:07
+Customer Wait Time: 0
+Customer Process Time: 14
+Served Clercks: 4
+
+
+Customer Name: Customer138
+Customer Arriving Time: 16:07
+Customer Service Time: 16:08
+Customer Wait Time: 1
+Customer Process Time: 10
+Served Clercks: 7
+
+
+Customer Name: Customer185
+Customer Arriving Time: 16:08
+Customer Service Time: 16:09
+Customer Wait Time: 1
+Customer Process Time: 14
+Served Clercks: 2
+
+
+Customer Name: Customer20
+Customer Arriving Time: 16:09
+Customer Service Time: 16:09
+Customer Wait Time: 0
+Customer Process Time: 7
+Served Clercks: 5
+
+
+Customer Name: Customer95
+Customer Arriving Time: 16:09
+Customer Service Time: 16:11
+Customer Wait Time: 2
+Customer Process Time: 8
+Served Clercks: 0
+
+
+Customer Name: Customer180
+Customer Arriving Time: 16:09
+Customer Service Time: 16:11
+Customer Wait Time: 2
+Customer Process Time: 7
+Served Clercks: 1
+
+
+Customer Name: Customer8
+Customer Arriving Time: 16:10
+Customer Service Time: 16:12
+Customer Wait Time: 2
+Customer Process Time: 7
+Served Clercks: 3
+
+
+Customer Name: Customer36
+Customer Arriving Time: 16:12
+Customer Service Time: 16:12
+Customer Wait Time: 0
+Customer Process Time: 5
+Served Clercks: 6
+
+
+Customer Name: Customer110
+Customer Arriving Time: 16:13
+Customer Service Time: 16:16
+Customer Wait Time: 3
+Customer Process Time: 12
+Served Clercks: 5
+
+
+Customer Name: Customer102
+Customer Arriving Time: 16:14
+Customer Service Time: 16:17
+Customer Wait Time: 3
+Customer Process Time: 15
+Served Clercks: 6
+
+
+Customer Name: Customer94
+Customer Arriving Time: 16:16
+Customer Service Time: 16:18
+Customer Wait Time: 2
+Customer Process Time: 15
+Served Clercks: 1
+
+
+Customer Name: Customer125
+Customer Arriving Time: 16:18
+Customer Service Time: 16:18
+Customer Wait Time: 0
+Customer Process Time: 10
+Served Clercks: 7
+
+
+Customer Name: Customer55
+Customer Arriving Time: 16:19
+Customer Service Time: 16:19
+Customer Wait Time: 0
+Customer Process Time: 8
+Served Clercks: 0
+
+
+Customer Name: Customer35
+Customer Arriving Time: 16:20
+Customer Service Time: 16:20
+Customer Wait Time: 0
+Customer Process Time: 9
+Served Clercks: 3
+
+
+Customer Name: Customer53
+Customer Arriving Time: 16:29
+Customer Service Time: 16:29
+Customer Wait Time: 0
+Customer Process Time: 5
+Served Clercks: 0
+
+
+Customer Name: Customer61
+Customer Arriving Time: 16:32
+Customer Service Time: 16:32
+Customer Wait Time: 0
+Customer Process Time: 6
+Served Clercks: 2
+
+
+Customer Name: Customer113
+Customer Arriving Time: 16:33
+Customer Service Time: 16:33
+Customer Wait Time: 0
+Customer Process Time: 14
+Served Clercks: 1
+
+
+Customer Name: Customer116
+Customer Arriving Time: 16:34
+Customer Service Time: 16:34
+Customer Wait Time: 0
+Customer Process Time: 8
+Served Clercks: 0
+
+
+Customer Name: Customer176
+Customer Arriving Time: 16:34
+Customer Service Time: 16:34
+Customer Wait Time: 0
+Customer Process Time: 15
+Served Clercks: 3
+
+
+Customer Name: Customer64
+Customer Arriving Time: 16:35
+Customer Service Time: 16:35
+Customer Wait Time: 0
+Customer Process Time: 5
+Served Clercks: 4
+
+
+Customer Name: Customer21
+Customer Arriving Time: 16:36
+Customer Service Time: 16:36
+Customer Wait Time: 0
+Customer Process Time: 11
+Served Clercks: 5
+
+
+Customer Name: Customer188
+Customer Arriving Time: 16:37
+Customer Service Time: 16:37
+Customer Wait Time: 0
+Customer Process Time: 8
+Served Clercks: 6
+
+
+Customer Name: Customer51
+Customer Arriving Time: 16:38
+Customer Service Time: 16:38
+Customer Wait Time: 0
+Customer Process Time: 10
+Served Clercks: 2
+
+
+Customer Name: Customer134
+Customer Arriving Time: 16:38
+Customer Service Time: 16:38
+Customer Wait Time: 0
+Customer Process Time: 6
+Served Clercks: 7
+
+
+Customer Name: Customer19
+Customer Arriving Time: 16:40
+Customer Service Time: 16:40
+Customer Wait Time: 0
+Customer Process Time: 10
+Served Clercks: 4
+
+
+Customer Name: Customer62
+Customer Arriving Time: 16:40
+Customer Service Time: 16:42
+Customer Wait Time: 2
+Customer Process Time: 8
+Served Clercks: 0
+
+
+Customer Name: Customer130
+Customer Arriving Time: 16:40
+Customer Service Time: 16:44
+Customer Wait Time: 4
+Customer Process Time: 10
+Served Clercks: 7
 
 
