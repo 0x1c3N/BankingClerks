@@ -16,7 +16,7 @@ This Python script simulates a customer service scenario where customers of diff
   - The simulation is run for a fixed total time, and clerks serve customers based on their arrival times.
 
 - **Random Customer Generation:**
-  - Generates a list of 200 random customers with random arrival times, customer types, and process times. So, every new run is new test case for the program.
+  - Generates a list of random customers based on the number given to the application with random arrival times, customer types, and process times. So, every new run is new test case for the program.
 
 - **Output Logging:**
   - Outputs information about customers and clerks during each shift to the "output.txt" file.
@@ -32,8 +32,14 @@ This Python script simulates a customer service scenario where customers of diff
 2. Run the script:
 
     ```bash
-    python main.py
+    python main.py # Can be used for Linux, MacOS, Windows
     ```
+
+  Run the compiled exe:
+  
+  ```bash
+  main.exe #Just for Windows
+  ```
 
 3. View the simulation results in the terminal and "output.txt" file.
 
