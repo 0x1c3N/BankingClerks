@@ -41,6 +41,7 @@ This Python script simulates a customer service scenario where customers of diff
     main.exe #Just for Windows
     ```
 
+
 3. View the simulation results in the terminal and "output.txt" file.
 
 ## Configuration
