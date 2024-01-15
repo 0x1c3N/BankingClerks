@@ -1,4 +1,4 @@
-# Customer Service Simulation
+# BankingClerks
 
 This Python script simulates a customer service scenario where customers of different types (casual, commercial, loan) arrive during different shifts, and clerks provide service to them based on certain criteria. The simulation runs for three shifts: 09:00, 12:00, and 15:00.
 
@@ -25,8 +25,8 @@ This Python script simulates a customer service scenario where customers of diff
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/0x1c3n/AlgoProject.git
-    cd AlgoProject
+    git clone https://github.com/0x1c3N/BankingClerks.git
+    cd BankingClerks
     ```
 
 2. Run the script:
@@ -35,7 +35,7 @@ This Python script simulates a customer service scenario where customers of diff
     python main.py
     ```
 
-3. View the simulation results in the "output.txt" file.
+3. View the simulation results in the terminal and "output.txt" file.
 
 ## Configuration
 - Modify the `maxWaitTimes` list to adjust default maximum waiting times for casual, commercial, and loan customers.
