@@ -3,6 +3,18 @@ import random
 import datetime
 import os
 
+
+"""
+Simulation Configuration Variables
+
+- `maxWaitTimes` (list): Default maximum waiting times for casual, commercial, and loan customers.
+- `numberOfCustomer` (int): The number of customers to be assigned during the simulation. Assigned at the main execution.
+- `shiftTime` (str): The current shift time during the simulation.
+- `firstShift` (str): The start time for the first shift.
+- `secondShift` (str): The start time for the second shift.
+- `thirdShift` (str): The start time for the third shift.
+- `outputFileName` (str): The name of the output file where simulation details will be logged.
+"""
 maxWaitTimes = [45, 30, 45] #Default max waiting times for casual, commercial, loan
 numberOfCustomer = 0 #Will assigned at main
 shiftTime = ""
@@ -79,7 +91,11 @@ class Clerk:
         self.isBusy = False
         self.currentCustomer = Customer("null", "null")
         self.availableTime = -1
-
+"""
+    Generates a list of random customers for the simulation
+    Returns:
+    - list: List of Customer objects with randomly assigned names, types, process times, and arriving times.
+    """
 def randomCustomer():
     customer_types = ["commercial", "casual", "loan"]
     customers = []
